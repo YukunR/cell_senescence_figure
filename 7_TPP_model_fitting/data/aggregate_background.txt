@@ -1,0 +1,7170 @@
+Accession	Aggregate
+A0A0U1RRE5	P-body
+A1L020	P-body
+A2A288	P-body
+A4D1E9	Nucleolus
+A5YKK6	P-body
+A8CG34	Nuclear pore complex
+C9JLW8	Stress granule
+I0J062	Nucleolus
+O00165	P-body
+O00257	Nuclear speckle
+O00422	Nuclear speckle
+O00567	Nucleolus
+O14746	Nucleolus
+O15047	Nuclear speckle
+O15055	Nucleolus
+O15116	P-body
+O15213	Nucleolus
+O15213	Nucleolus
+O15234	Nuclear speckle
+O15234	Stress granule
+O15381	Nucleolus
+O15446	Nucleolus
+O15527	Nuclear speckle
+O15550	Nucleolus
+O43390	Paraspeckle
+O43390	Paraspeckle
+O43447	Nuclear speckle
+O43660	Nuclear speckle
+O43781	Nuclear speckle
+O43809	Paraspeckle
+O43809	Paraspeckle
+O43823	Nucleolus
+O60318	Nuclear pore complex
+O60479	Paraspeckle
+O60479	Paraspeckle
+O60828	Stress granule
+O60832	Nucleolus
+O60832	Cajal body,Nucleolus
+O60934	PML nuclear body
+O60936	Nucleolus
+O75151	Nucleolus
+O75177	Paraspeckle
+O75177	Paraspeckle
+O75319	Nuclear speckle
+O75385	Stress granule
+O75494	Nuclear speckle
+O75494	Paraspeckle
+O75494	Paraspeckle
+O75554	Nuclear speckle
+O75925	PML nuclear body
+O75925	Nuclear speckle
+O75928	PML nuclear body
+O76021	Nucleolus
+O94818	Nucleolus
+O94906	Cajal body
+O95232	Nuclear speckle
+O95453	Nucleolus
+O95453	Cajal body,Nucleolus
+O95707	Nucleolus
+P00441	Stress granule
+P01106	Nucleolus
+P02545	Nuclear speckle
+P04637	PML nuclear body
+P04637	PML nuclear body,Nucleolus
+P06730	P-body
+P06748	Nucleolus
+P08621	Nuclear speckle
+P09651	Paraspeckle
+P09651	Paraspeckle
+P0DI83	Nucleolus
+P0DMV8	Stress granule
+P10071	Paraspeckle
+P11387	Nucleolus
+P11387	Nucleolus
+P11388	Nucleolus
+P11940	Stress granule
+P12270	Nuclear pore complex
+P13056	PML nuclear body
+P15927	PML nuclear body
+P16383	Nucleolus
+P17480	Nucleolus
+P17480	Nucleolus
+P17480	Nucleolus
+P17600	Postsynaptic density
+P17676	Nuclear speckle
+P17844	Nucleolus
+P18583	Nuclear speckle
+P18583	Nuclear speckle
+P18583	Nuclear speckle
+P18583	Nuclear speckle
+P19474	P-body
+P19544	Nuclear speckle
+P20592	Nuclear pore complex
+P21359	Nucleolus
+P22087	Nucleolus
+P22087	Cajal body,Nucleolus
+P23246	Paraspeckle
+P23246	Paraspeckle
+P23246	Paraspeckle
+P23246	Paraspeckle
+P23246	Nuclear speckle
+P23396	Nucleolus
+P23396	Nucleolus
+P23497	PML nuclear body
+P23497	PML nuclear body
+P25490	Nuclear speckle
+P25685	Nucleolus
+P26196	P-body
+P26196	Stress granule
+P26651	P-body
+P27694	PML nuclear body
+P29375	Nucleolus
+P29590	PML nuclear body
+P29590	PML nuclear body
+P29590	PML nuclear body
+P31483	Stress granule
+P31483	Stress granule
+P31942	Paraspeckle
+P31942	Paraspeckle
+P31943	Paraspeckle
+P33076	PML nuclear body
+P35637	Paraspeckle
+P35637	Paraspeckle
+P36873	Nucleolus
+P36873	Nucleolus
+P38159	Paraspeckle
+P38159	Paraspeckle
+P38432	Cajal body
+P38432	Cajal body
+P38432	Cajal body
+P38919	Nuclear speckle
+P39748	Nucleolus
+P41220	Nucleolus
+P42285	Nucleolus
+P45974	Stress granule
+P46013	Nucleolus
+P46013	Nucleolus
+P46100	PML nuclear body
+P46783	Nucleolus
+P48436	Paraspeckle
+P48436	Paraspeckle
+P48729	Nuclear speckle
+P49711	Histone locus body
+P49715	Nucleolus
+P49792	Nuclear pore complex
+P49792	Nuclear pore complex
+P50222	Nuclear speckle
+P51531	Nuclear speckle
+P51532	Nuclear speckle
+P51816	Nuclear speckle
+P51955	Nucleolus
+P52298	Nuclear speckle
+P52597	Paraspeckle
+P52597	Paraspeckle
+P52824	Nuclear speckle
+P52948	Nuclear pore complex
+P54132	PML nuclear body
+P55072	Stress granule
+P55072	Stress granule
+P55072	Stress granule
+P55199	Nuclear speckle
+P55265	Nucleolus
+P55735	Nuclear pore complex
+P55769	Nucleolus
+P56182	Nucleolus
+P56182	Nucleolus
+P57052	Nuclear speckle
+P57740	Nuclear pore complex
+P57740	Nuclear pore complex
+P57740	Nuclear pore complex
+P57740	Nuclear pore complex
+P60484	PML nuclear body
+P61011	Nuclear speckle
+P61129	Paraspeckle
+P61129	Paraspeckle
+P61236	Nucleolus
+P61978	Paraspeckle
+P61978	Paraspeckle
+P62140	Nucleolus
+P62140	Nucleolus
+P62310	P-body
+P62312	P-body
+P62913	Nucleolus
+P63165	PML nuclear body
+P63165	PML nuclear body
+P63244	Stress granule
+P84103	Nuclear speckle
+P98179	Paraspeckle
+P98179	Paraspeckle
+Q00839	Spindle apparatus
+Q00839	Nuclear speckle
+Q00987	PML nuclear body
+Q01081	Nuclear speckle
+Q01130	Nuclear speckle
+Q01130	Nucleolus
+Q01826	PML nuclear body
+Q01844	Paraspeckle
+Q01844	Nuclear speckle
+Q01844	Paraspeckle
+Q02040	Nuclear speckle
+Q03188	Nucleolus
+Q04206	Nuclear speckle
+Q04637	Stress granule
+Q04637	Stress granule
+Q05066	Nuclear speckle
+Q06265	Nucleolus
+Q06587	Nuclear speckle
+Q06609	PML nuclear body
+Q06787	Stress granule
+Q06787	Cajal body
+Q08170	Nuclear speckle
+Q08752	Nucleolus
+Q09028	Nuclear speckle
+Q09161	Nuclear speckle
+Q0WX57	Nucleolus
+Q12769	Nuclear pore complex
+Q12837	Nuclear speckle
+Q12906	Nucleolus
+Q13148	Paraspeckle
+Q13148	Stress granule
+Q13247	Nuclear speckle
+Q13283	Stress granule
+Q13283	Stress granule
+Q13283	Stress granule
+Q13283	Stress granule
+Q13342	Nuclear body
+Q13427	Nuclear speckle
+Q13428	Nucleolus
+Q13435	Nuclear speckle
+Q13501	PML nuclear body
+Q13526	Nuclear speckle
+Q13610	Nucleolus
+Q13627	Nuclear speckle
+Q13627	Nuclear speckle
+Q13761	Paraspeckle
+Q13761	Paraspeckle
+Q13823	Nucleolus
+Q13838	Nuclear speckle
+Q13895	Nucleolus
+Q13901	Nucleolus
+Q14004	Nuclear speckle
+Q14011	Paraspeckle
+Q14011	Paraspeckle
+Q14149	PML nuclear body
+Q14157	Paraspeckle
+Q14164	PML nuclear body
+Q14191	PML nuclear body
+Q14207	Histone locus body
+Q14207	Cajal body
+Q14331	Cajal body
+Q14331	Nucleolus
+Q14444	Stress granule
+Q14671	Stress granule
+Q14684	Nucleolus
+Q14764	Nuclear pore complex
+Q14966	Nuclear speckle
+Q14978	Nucleolus
+Q14978	Nucleolus
+Q15007	Nuclear speckle
+Q15020	Nuclear speckle
+Q15020	Cajal body
+Q15020	Cajal body
+Q15024	Nucleolus
+Q15061	Nucleolus
+Q15233	Paraspeckle
+Q15233	Paraspeckle
+Q15233	Paraspeckle
+Q15233	Paraspeckle
+Q15233	Paraspeckle
+Q15397	Nucleolus
+Q15717	Stress granule
+Q15723	Stress granule
+Q16533	Nucleolus
+Q16630	Nuclear speckle
+Q16630	Paraspeckle
+Q16630	Paraspeckle
+Q16630	Paraspeckle
+Q16637	Cajal body
+Q16637	Cajal body
+Q16637	Cajal body
+Q16790	Nucleolus
+Q32P51	Paraspeckle
+Q32P51	Paraspeckle
+Q3ZCQ8	Nuclear speckle
+Q504Q3	P-body
+Q504Q3	P-body
+Q53GS7	Nuclear pore complex
+Q53HL2	Nucleolus
+Q58A45	P-body
+Q5C9Z4	Nucleolus
+Q5EE01	Nucleolus
+Q5F1R6	Nucleolus
+Q5H9S7	Nucleolus
+Q5HY92	Paraspeckle
+Q5HY92	Paraspeckle
+Q5HYJ3	Nuclear speckle
+Q5JVS0	Cajal body
+Q5JVS0	Nuclear body
+Q5JVS0	Nuclear speckle
+Q5JVS0	Nucleolus
+Q5JVS0	Stress granule
+Q5SY16	Nucleolus
+Q5T5X7	Nucleolus
+Q5TGY3	Paraspeckle
+Q5TGY3	Paraspeckle
+Q5U5Q3	Paraspeckle
+Q5U5Q3	Paraspeckle
+Q5W0Q7	Cajal body
+Q66PJ3	Nuclear speckle
+Q66PJ3	Nucleolus
+Q6NT76	Cajal body
+Q6NT76	PML nuclear body
+Q6P2E9	P-body
+Q6P2H3	Spindle apparatus
+Q6P6C2	Nuclear speckle
+Q6PCD5	PML nuclear body
+Q6PJT7	Nuclear speckle
+Q6PJT7	Nuclear speckle
+Q6RFH5	Nucleolus
+Q6UWU4	Nucleolus
+Q6VMQ6	PML nuclear body
+Q6ZMT4	Nucleolus
+Q6ZN04	P-body
+Q6ZN04	P-body
+Q6ZN17	Nucleolus
+Q71RC2	Stress granule
+Q75N03	Nuclear speckle
+Q76FK4	Nucleolus
+Q7L014	Cajal body
+Q7L014	Nuclear speckle
+Q7L622	Nucleolus
+Q7Z2E3	Nucleolus
+Q7Z417	Stress granule
+Q7Z6G8	Cajal body
+Q86U42	Nuclear speckle
+Q86U42	Nuclear speckle
+Q86U44	Nuclear speckle
+Q86V81	Nuclear speckle
+Q86WT6	Nuclear speckle
+Q86WX3	Nucleolus
+Q86YP4	Nuclear speckle
+Q8IU60	P-body
+Q8IU60	P-body
+Q8IUF8	Nucleolus
+Q8IUF8	Nucleolus
+Q8IUH3	Nuclear stress body
+Q8IV48	Nucleolus
+Q8IY18	PML nuclear body
+Q8IY81	Nucleolus
+Q8IYB3	Nuclear speckle
+Q8IYB7	P-body
+Q8IYT8	Stress granule
+Q8IZD2	Nuclear speckle
+Q8IZD4	P-body
+Q8IZD4	Stress granule
+Q8IZH2	P-body
+Q8IZL2	Nuclear speckle
+Q8IZL8	Nucleolus
+Q8IZU1	Nucleolus
+Q8N1F7	Nuclear pore complex
+Q8N1F7	Nuclear pore complex
+Q8N2W9	PML nuclear body
+Q8N2W9	PML nuclear body
+Q8N3C0	Nuclear speckle
+Q8N3Z6	Nucleolus
+Q8N567	Nucleolus
+Q8N668	Nucleolus
+Q8N684	Paraspeckle
+Q8N684	Paraspeckle
+Q8N726	Nucleolus
+Q8N726	Nucleolus
+Q8N9N2	Nuclear speckle
+Q8NCA5	Paraspeckle
+Q8NCA5	Paraspeckle
+Q8ND56	P-body
+Q8ND56	Stress granule
+Q8ND90	Nucleolus
+Q8NDF8	Nucleolus
+Q8NDT2	Nuclear speckle
+Q8NDV7	P-body
+Q8NEJ9	Nucleolus
+Q8NG50	Nucleolus
+Q8NG66	Nucleolus
+Q8NHM5	Nucleolus
+Q8NI36	Nucleolus
+Q8TBZ6	Nucleolus
+Q8TC56	Nuclear speckle
+Q8TCF1	Stress granule
+Q8TD16	Nuclear pore complex
+Q8TD31	P-body
+Q8TF01	Nuclear speckle
+Q8WUM0	Nuclear pore complex
+Q8WV24	Nucleolus
+Q8WWM7	Nuclear speckle
+Q8WWM7	P-body
+Q8WWM7	Stress granule
+Q8WWY3	Cajal body
+Q8WXF1	Paraspeckle
+Q8WXF1	Paraspeckle
+Q8WXF1	Paraspeckle
+Q8WXF1	Paraspeckle
+Q8WXF8	Nucleolus
+Q8WXI9	Nuclear speckle
+Q8WYP5	Nuclear pore complex
+Q8WZ33	Nucleolus
+Q92585	Nuclear speckle
+Q92621	Nuclear pore complex
+Q92737	Nucleolus
+Q92766	Nuclear speckle
+Q92804	Paraspeckle
+Q92804	Stress granule
+Q92804	Paraspeckle
+Q92841	Nucleolus
+Q92900	Stress granule
+Q92966	Nucleolus
+Q92979	Nucleolus
+Q92993	Nucleolus
+Q92995	Stress granule
+Q93062	P-body
+Q969G3	Nuclear speckle
+Q969H0	Nucleolus
+Q969K3	Nucleolus
+Q969X6	Nucleolus
+Q96AY2	Nucleolus
+Q96CJ1	Nuclear speckle
+Q96EB6	PML nuclear body
+Q96EP1	PML nuclear body
+Q96EP5	Paraspeckle
+Q96EP5	Paraspeckle
+Q96EU6	Nucleolus
+Q96EV8	Postsynaptic density
+Q96F86	P-body
+Q96FC9	Spindle apparatus
+Q96FC9	Nucleolus
+Q96FQ6	Nucleolus
+Q96FX7	Stress granule
+Q96G21	Nucleolus
+Q96GC6	Nucleolus
+Q96GM8	Nuclear speckle
+Q96GM8	Cajal body
+Q96GQ7	Nucleolus
+Q96HA1	Nuclear pore complex
+Q96HI0	Nucleolus
+Q96HW7	Cajal body
+Q96J87	Paraspeckle
+Q96J87	Paraspeckle
+Q96JC9	Nuclear speckle
+Q96JC9	Cajal body
+Q96JK9	Nuclear speckle
+Q96LA8	Nucleolus
+Q96LT7	P-body
+Q96LT7	Stress granule
+Q96LT7	Nucleolus
+Q96MF7	PML nuclear body
+Q96MU7	Nuclear speckle
+Q96NS1	Nucleolus
+Q96NY9	Nucleolus
+Q96PK6	Paraspeckle
+Q96PK6	Paraspeckle
+Q96PK6	Paraspeckle
+Q96PM9	Nucleolus
+Q96Q89	Nucleolus
+Q96Q89	Spindle apparatus
+Q96QA6	Nucleolus
+Q96QD9	Nuclear speckle
+Q96RS0	Cajal body
+Q96S94	Nuclear speckle
+Q96SB8	PML nuclear body
+Q96SQ7	Nuclear speckle
+Q96ST3	Nucleolus
+Q96T37	Nuclear speckle
+Q96T37	Nuclear speckle
+Q99459	Nuclear speckle
+Q99607	PML nuclear body
+Q99700	P-body
+Q99700	Stress granule
+Q99720	Postsynaptic density
+Q99848	Nucleolus
+Q99996	Centrosome
+Q9BPY3	Cajal body
+Q9BQ04	Paraspeckle
+Q9BQ04	Paraspeckle
+Q9BRP8	Nucleolus
+Q9BSJ6	Nucleolus
+Q9BUJ2	Paraspeckle
+Q9BUJ2	Paraspeckle
+Q9BUR4	Cajal body
+Q9BUT9	Stress granule
+Q9BV38	Nucleolus
+Q9BVP2	Nucleolus
+Q9BW27	Nuclear pore complex
+Q9BWF2	Nucleolus
+Q9BWG6	Nuclear speckle
+Q9BXS6	Nuclear pore complex
+Q9BXS6	Nuclear pore complex
+Q9BY44	Stress granule
+Q9BYB0	Postsynaptic density
+Q9BZB8	Stress granule
+Q9BZE4	Nucleolus
+Q9BZI7	Stress granule
+Q9BZJ0	Nuclear speckle
+Q9C086	Nucleolus
+Q9C0B1	Nuclear speckle
+Q9GZL7	Nucleolus
+Q9H089	Cajal body
+Q9H0A0	Nucleolus
+Q9H0A0	Nucleolus
+Q9H0A0	Nucleolus
+Q9H0D6	Nucleolus
+Q9H0G5	Nuclear speckle
+Q9H0S4	Nucleolus
+Q9H116	Nucleolus
+Q9H165	Paraspeckle
+Q9H1I8	Nuclear speckle
+Q9H1Q7	Paraspeckle
+Q9H1Q7	Paraspeckle
+Q9H2U1	Nuclear speckle
+Q9H2U1	Stress granule
+Q9H2X6	PML nuclear body
+Q9H307	Nuclear speckle
+Q9H4L4	Nucleolus
+Q9H4Z2	Paraspeckle
+Q9H4Z2	Paraspeckle
+Q9H583	Nucleolus
+Q9H633	Cajal body
+Q9H633	Nucleolus
+Q9H7B2	Nucleolus
+Q9H814	Nucleolus
+Q9H869	Nucleolus
+Q9H8H0	Nucleolus
+Q9H8H2	Nucleolus
+Q9H9G7	P-body
+Q9H9L3	Nucleolus
+Q9H9Z2	P-body
+Q9H9Z2	Stress granule
+Q9HA38	Nucleolus
+Q9HAF1	Nucleolus
+Q9HAJ7	Nucleolus
+Q9HBD1	Stress granule
+Q9HC62	Nuclear pore complex
+Q9HCE1	P-body
+Q9HCE1	Stress granule
+Q9HCG8	Nuclear speckle
+Q9NPA8	Nuclear pore complex
+Q9NPE3	Cajal body
+Q9NPE3	Nucleolus
+Q9NPH5	Nucleolus
+Q9NPI6	P-body
+Q9NPI6	Stress granule
+Q9NPJ4	P-body
+Q9NQB0	PML nuclear body
+Q9NQT4	Nucleolus
+Q9NQT5	Nucleolus
+Q9NR00	Nuclear speckle
+Q9NR21	Nuclear pore complex
+Q9NR30	Nucleolus
+Q9NR30	Nucleolus
+Q9NRA8	Nuclear speckle
+Q9NRA8	PML nuclear body
+Q9NRC8	Nucleolus
+Q9NRG9	Nuclear pore complex
+Q9NRN9	Nucleolus
+Q9NRR4	Nucleolus
+Q9NRX1	Nucleolus
+Q9NSB8	Postsynaptic density
+Q9NTK5	Nucleolus
+Q9NTZ6	Paraspeckle
+Q9NTZ6	Paraspeckle
+Q9NV06	Nucleolus
+Q9NV31	Nucleolus
+Q9NVM4	Nucleolus
+Q9NVN8	Nucleolus
+Q9NVP1	Nucleolus
+Q9NVU7	Nucleolus
+Q9NVV9	PML nuclear body
+Q9NW13	Nucleolus
+Q9NX58	Nucleolus
+Q9NXF1	Nucleolus
+Q9NYF8	Nuclear speckle
+Q9NYH9	Nucleolus
+Q9NYV6	Nucleolus
+Q9NZ56	Nucleolus
+Q9NZM5	Nucleolus
+Q9P0U4	Nuclear speckle
+Q9P1T7	Nucleolus
+Q9P275	Nucleolus
+Q9P2D1	Nucleolus
+Q9UBY9	Cajal body
+Q9UER7	PML nuclear body
+Q9UER7	PML nuclear body
+Q9UJA5	Stress granule
+Q9UK45	P-body
+Q9UK58	Nuclear speckle
+Q9UKD2	Nucleolus
+Q9UKL3	Histone locus body
+Q9UKX7	Nuclear pore complex
+Q9UKY1	Nuclear speckle
+Q9UL18	P-body
+Q9UL42	Nucleolus
+Q9ULX6	PML nuclear body
+Q9ULX6	Nuclear speckle
+Q9ULX6	Paraspeckle
+Q9ULX6	Paraspeckle
+Q9UMY1	Nucleolus
+Q9UN81	Stress granule
+Q9UPQ9	P-body
+Q9UPS6	Nuclear speckle
+Q9UQ35	Nuclear speckle
+Q9UQ35	Nuclear speckle
+Q9UQ35	Nuclear speckle
+Q9UQ80	Nucleolus
+Q9UQ80	Nucleolus
+Q9Y221	Nucleolus
+Q9Y230	Nuclear speckle
+Q9Y2F5	Cajal body
+Q9Y2V2	Stress granule
+Q9Y2W1	Nuclear speckle
+Q9Y333	P-body
+Q9Y3B2	Nucleolus
+Q9Y3M2	Nuclear speckle
+Q9Y3R0	PML nuclear body
+Q9Y3S2	Nucleolus
+Q9Y3Y2	Nucleolus
+Q9Y4C8	Nucleolus
+Q9Y4E5	PML nuclear body
+Q9Y4W2	Nucleolus
+Q9Y4X5	Cajal body
+Q9Y4Y9	P-body
+Q9Y4Z0	P-body
+Q9Y580	Paraspeckle
+Q9Y580	Paraspeckle
+Q9Y5A9	P-body
+Q9Y657	Nucleolus
+Q9Y6X2	Nuclear speckle
+P55265	Viroplasm
+Q14444	Viroplasm
+Q9BZB8	Viroplasm
+P05198	Viroplasm
+P05198	Stress granule
+Q13541	Viroplasm
+P19525	Viroplasm
+O95793	Viroplasm
+Q9UKV8	Viroplasm
+Q8NDV7	Viroplasm
+Q9UPQ9	Viroplasm
+Q13111	Viroplasm
+Q13112	Viroplasm
+O15116	Viroplasm
+O95453	Viroplasm
+Q13283	Stress granule
+Q13148	Stress granule
+P10636	Stress granule
+P10636	Nuclear speckle
+P10636	Nuclear speckle
+O60506	P-body
+P26196	P-body
+Q6P2E9	P-body
+Q9NPI6	P-body
+Q8IZD4	P-body
+Q8IZH2	P-body
+Q58A45	P-body
+P48436	Paraspeckle
+P48436	Nuclear speckle
+Q15233	Paraspeckle
+Q15233	Nuclear speckle
+Q96MU7	Nuclear stress body
+Q9UQ35	Nuclear speckle
+Q9UQ35	Nuclear speckle
+Q5UIP0	DNA damage foci
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nuclear body
+_	Nucleolus
+_	Nucleolus
+_	Cajal body
+_	Nuclear speckle
+_	P-body
+_	Nucleolus
+_	Stress granule
+_	Nucleolus
+_	Cajal body
+_	Nuclear speckle
+_	P-body
+_	Cajal body
+_	Stress granule
+_	Stress granule
+_	Stress granule
+_	Stress granule
+_	Stress granule
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	PML nuclear body
+_	Nuclear body
+_	Nuclear speckle
+_	PML nuclear body
+_	Nuclear body
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Nucleolus
+_	Paraspeckle
+_	Nuclear stress body
+A0A075B6S2	Paraspeckle
+A0A0A0MRZ7	Paraspeckle
+A0A0U1RRE5	P-body
+A0AV96	Stress granule
+A0AVK6	Nucleolus
+A0FGR8	Stress granule
+A0PJW6	Stress granule
+A0PK00	Nucleolus
+A1KXE4	Stress granule
+A1KZ92	Stress granule
+A1L020	P-body
+A1L020	Stress granule
+A1L162	Nucleolus
+A1L190	Nucleolus
+A1X283	Nucleolus
+A1Z1Q3	Nucleolus
+A2A2Z9	Nucleolus
+A2A3K4	P-body
+A2A3K4	P-body
+A2NJV5	Paraspeckle
+A2RRP1	Nucleolus
+A2VDJ0	Nucleolus
+A4D126	Nucleolus
+A4D1W8	Nuclear stress body
+A4D256	P-body
+A4IF30	Nucleolus
+A5YKK6	P-body
+A5YKK6	Stress granule
+A5YKK6	Stress granule
+A6NDG6	Stress granule
+A6NDG6	Stress granule
+A6NEL2	Nucleolus
+A6NFT4	Nucleolus
+A6NGC4	Nucleolus
+A6NHJ4	Nucleolus
+A6NHQ2	Nucleolus
+A6NHR9	Stress granule
+A6NIK2	Nucleolus
+A6NIT8	Nuclear stress body
+A6NJB7	Nucleolus
+A6NKD9	Stress granule
+A6NKD9	Nucleolus
+A6NKF1	Stress granule
+A6NKL6	Nuclear stress body
+A6NKT7	Stress granule
+A6NLJ7	Nuclear stress body
+A6NML5	Nucleolus
+A6NN01	Nuclear stress body
+A6NNA5	Nucleolus
+A6NNL5	Nucleolus
+A6NNR3	Nuclear stress body
+A6ZKI3	Stress granule
+A7KAX9	Nucleolus
+A8CZ64	Nuclear stress body
+A8K855	Nucleolus
+A8K8G0	Nuclear stress body
+A8MU93	Stress granule
+A8MV24	Nucleolus
+A8MV65	Nucleolus
+A8MWD9	Paraspeckle
+A8MWD9	Stress granule
+A8MWI8	Nuclear stress body
+A8MXP9	Nuclear stress body
+A8MXV4	Nucleolus
+A8MY67	Nuclear stress body
+A8MZ59	Nucleolus
+A9UHW6	Nucleolus
+B0YJC4	Nuclear stress body
+B2CW77	Nucleolus
+B2R603	Nuclear stress body
+B2RD01	Nucleolus
+B3KR49	Nuclear stress body
+B3KRS5	Nuclear stress body
+B3KX72	Nuclear stress body
+B4DDD6	Nuclear stress body
+B4DDE4	Nuclear stress body
+B4DDF7	Nuclear stress body
+B4DDM6	Nuclear stress body
+B4DDP6	Nuclear stress body
+B4DDU5	Nuclear stress body
+B4DEM2	Nuclear stress body
+B4DER1	Nuclear stress body
+B4DEV8	Nuclear stress body
+B4DFF1	Nuclear stress body
+B4DGB4	Nuclear stress body
+B4DH44	Nuclear stress body
+B4DHE5	Nuclear stress body
+B4DHN0	Nuclear stress body
+B4DHY1	Nuclear stress body
+B4DJ10	Nuclear stress body
+B4DLA9	Nuclear stress body
+B4DN45	Nuclear stress body
+B4DNT0	Nuclear stress body
+B4DP75	Nuclear stress body
+B4DQW2	Nuclear stress body
+B4DR52	Nuclear stress body
+B4DSU6	Nuclear stress body
+B4DUT7	Nuclear stress body
+B4DV12	Nuclear stress body
+B4DVV9	Nuclear stress body
+B4DW05	Nuclear stress body
+B4DW52	Nuclear stress body
+B4DX68	Nuclear stress body
+B4DY08	Nuclear stress body
+B4DY47	Nuclear stress body
+B4E335	Nuclear stress body
+B4E3A8	Nuclear stress body
+B5MCP9	Nuclear stress body
+B5MCX3	Nuclear stress body
+B5ME19	Stress granule
+B7WNR0	Nuclear stress body
+B7Z1C9	Nuclear stress body
+B7Z2D6	Nuclear stress body
+B7Z2F4	Nuclear stress body
+B7Z3X6	Nuclear stress body
+B7Z4T9	Nuclear stress body
+B7Z4V2	Nuclear stress body
+B7Z4Z7	Nuclear stress body
+B7Z525	Nuclear stress body
+B7Z6M1	Nuclear stress body
+B7Z6Q6	Nuclear stress body
+B7Z7M6	Nuclear stress body
+B7Z972	Nuclear stress body
+B7Z9L0	Nuclear stress body
+B7ZBH1	Nuclear stress body
+B9A067	Nuclear stress body
+C9IY94	Nuclear stress body
+C9IZQ6	Nuclear stress body
+C9IZU3	Nuclear stress body
+C9J0D1	Nuclear stress body
+C9J202	Nucleolus
+C9J2Q4	Nuclear stress body
+C9J442	Nucleolus
+C9J5V9	Nuclear stress body
+C9J7P1	Nuclear stress body
+C9J8B8	Nuclear stress body
+C9J8T6	Nuclear stress body
+C9J938	Nuclear stress body
+C9J9S3	Nuclear stress body
+C9JB25	Nuclear stress body
+C9JGC4	Nuclear stress body
+C9JKR2	Nuclear stress body
+C9JLW8	Stress granule
+C9JN71	Nucleolus
+C9JP48	Nuclear stress body
+C9JT33	Nuclear stress body
+C9JW96	Nuclear stress body
+C9JYS3	Nuclear stress body
+C9JZ20	Nuclear stress body
+D6R956	Nuclear stress body
+D6R974	Nuclear stress body
+D6R991	Nuclear stress body
+D6R9P3	Nuclear stress body
+D6RAW4	Nuclear stress body
+D6RBZ0	Nuclear stress body
+D6RD18	Nuclear stress body
+D6RE83	Nuclear stress body
+D6REM6	Nuclear stress body
+D6RHD5	Nuclear stress body
+E5RGA2	Nuclear stress body
+E5RGR0	Nuclear stress body
+E5RHS5	Nuclear stress body
+E5RI98	Nuclear stress body
+E5RII3	Nuclear stress body
+E5RIP5	Nuclear stress body
+E5RIU6	Nuclear stress body
+E5RJ25	Nuclear stress body
+E5RJ48	Nuclear stress body
+E7EPK6	Nuclear stress body
+E7ESE2	Nuclear stress body
+E7ESH4	Nuclear stress body
+E7ETD8	Nuclear stress body
+E7ETK0	Nuclear stress body
+E7EU71	Nuclear stress body
+E9PAS5	Nuclear stress body
+E9PAV3	Paraspeckle
+E9PBK7	Nuclear stress body
+E9PCW0	Nuclear stress body
+E9PD53	Nuclear stress body
+E9PEI0	Nuclear stress body
+E9PFU1	Nuclear stress body
+E9PH29	Nuclear stress body
+E9PH38	Nuclear stress body
+E9PHS0	Nuclear stress body
+E9PHT9	Nuclear stress body
+E9PI86	Nuclear stress body
+E9PIC4	Nuclear stress body
+E9PIM9	Nuclear stress body
+E9PIP1	Nuclear stress body
+E9PJ04	Nuclear stress body
+E9PJF0	Nuclear stress body
+E9PJT3	Nuclear stress body
+E9PJU8	Nuclear stress body
+E9PKK4	Nuclear stress body
+E9PKR8	Nuclear stress body
+E9PKW4	Nuclear stress body
+E9PLB3	Nuclear stress body
+E9PLC5	Nuclear stress body
+E9PLZ3	Nuclear stress body
+E9PMD7	Nuclear stress body
+E9PMJ3	Nuclear stress body
+E9PNS2	Nuclear stress body
+E9PNS6	Nuclear stress body
+E9PPB5	Nuclear stress body
+E9PPJ0	Nuclear stress body
+E9PPQ8	Nuclear stress body
+E9PQS1	Nuclear stress body
+E9PQW4	Nuclear stress body
+E9PR95	Nuclear stress body
+E9PSC3	Nuclear stress body
+F2Z2C0	Nuclear stress body
+F5GWA7	Nuclear stress body
+F5GWX5	Nuclear stress body
+F5GX11	Nuclear stress body
+F5GX23	Nuclear stress body
+F5GXK7	Nuclear stress body
+F5GY37	Nuclear stress body
+F5GY65	Nuclear stress body
+F5GYU3	Nuclear stress body
+F5GYZ3	Nuclear stress body
+F5GZ39	Nuclear stress body
+F5H041	Nuclear stress body
+F5H0C5	Nuclear stress body
+F5H169	Nuclear stress body
+F5H1S2	Nuclear stress body
+F5H265	Nuclear stress body
+F5H2D2	Nuclear stress body
+F5H2T0	Nuclear stress body
+F5H2Z3	Nuclear stress body
+F5H362	Nuclear stress body
+F5H388	Nuclear stress body
+F5H3X6	Nuclear stress body
+F5H5A1	Nuclear stress body
+F5H5V4	Nuclear stress body
+F5H5W3	Nuclear stress body
+F5H6Q2	Nuclear stress body
+F5H747	Nuclear stress body
+F5H755	Nuclear stress body
+F5H7X1	Nuclear stress body
+F6U211	Nuclear stress body
+F8VR82	Nuclear stress body
+F8VRV5	Nuclear stress body
+F8VTJ5	Nuclear stress body
+F8VXC8	Nuclear stress body
+F8VXL2	Nuclear stress body
+F8VYE8	Nuclear stress body
+F8VZ45	Nuclear stress body
+F8VZ49	Nuclear stress body
+F8W0W8	Nuclear stress body
+F8W646	Nuclear stress body
+F8W6I7	Nuclear stress body
+F8W720	Nuclear stress body
+F8W7P3	Nuclear stress body
+F8W8G1	Nuclear stress body
+F8WAY1	Nuclear stress body
+F8WBR5	Nuclear stress body
+G2XKQ0	PML nuclear body
+G3V1A9	Nuclear stress body
+G3V1R4	Nuclear stress body
+G3V251	Nuclear stress body
+G3V2Q1	Nuclear stress body
+G3V3K6	Nuclear stress body
+G3V479	Nuclear stress body
+G3V4C1	Nuclear stress body
+G3V4M8	Nuclear stress body
+G3V4W0	Nuclear stress body
+G3V555	Nuclear stress body
+G3V575	Nuclear stress body
+G3V576	Nuclear stress body
+G3V5X6	Nuclear stress body
+G8JLG1	Nuclear stress body
+H0Y449	Nuclear stress body
+H0Y5J4	Nuclear stress body
+H0Y6U5	Nuclear stress body
+H0Y7A7	Nuclear stress body
+H0Y9V0	Nuclear stress body
+H0YA55	Nuclear stress body
+H0YBP5	Nuclear stress body
+H0YBR5	Nuclear stress body
+H0YC23	Nuclear stress body
+H0YCG1	Nuclear stress body
+H0YFX9	Nuclear stress body
+H0YGC7	Nuclear stress body
+H0YJ97	Nuclear stress body
+H0YKC5	Nuclear stress body
+H0YKI0	Nuclear stress body
+H0YKK0	Nuclear stress body
+H0YMM5	Nuclear stress body
+H0YMP1	Nuclear stress body
+H0YN14	Nuclear stress body
+H0YNJ9	Nuclear stress body
+H0YNW5	Nuclear stress body
+H3BMG3	Nucleolus
+H3BS89	Nucleolus
+O00124	Nucleolus
+O00139	Stress granule
+O00139	Nucleolus
+O00151	Stress granule
+O00151	Stress granule
+O00154	Nuclear stress body
+O00154-2	Nuclear stress body
+O00154-3	Nuclear stress body
+O00154-4	Nuclear stress body
+O00154-5	Nuclear stress body
+O00154-6	Nuclear stress body
+O00159	P-body
+O00165	P-body
+O00165	Stress granule
+O00168	Nucleolus
+O00203	Stress granule
+O00221	Nucleolus
+O00233	Nuclear stress body
+O00233-2	Nuclear stress body
+O00238	Cajal body
+O00264	Nucleolus
+O00303	Stress granule
+O00311	P-body
+O00311	Nucleolus
+O00311	P-body
+O00327	Nuclear body
+O00399	Nucleolus
+O00401	Nucleolus
+O00408	P-body
+O00408	PML nuclear body
+O00408	P-body
+O00422	Nucleolus
+O00422	Splicesome
+O00422	Nuclear speckle
+O00425	P-body
+O00425	Stress granule
+O00443	Stress granule
+O00469	Nucleolus
+O00471	Stress granule
+O00483	Stress granule
+O00488	Nucleolus
+O00505	Stress granule
+O00505	Nucleolus
+O00534	Nucleolus
+O00541	P-body
+O00541	Nucleolus
+O00541	Nucleolus
+O00541	Nucleolus
+O00566	Nucleolus
+O00566	Nucleolus
+O00567	Nuclear body
+O00567	P-body
+O00567	Nucleolus
+O00567	Nucleolus
+O00567	Nucleolus
+O00567	SMN complex
+O00571	Nuclear body
+O00571	Stress granule
+O00571	Nucleolus
+O00571	Paraspeckle
+O00571	Stress granule
+O00571	Splicesome
+O00584	P-body
+O00585	Stress granule
+O00622	Stress granule
+O00623	Cajal body
+O00623	PML nuclear body
+O00629	Nucleolus
+O00712	Nucleolus
+O00746	P-body
+O00746	P-body
+O00750	P-body
+O00750	P-body
+O00750	Stress granule
+O00757	Nuclear speckle
+O00764	PML nuclear body
+O00764	Stress granule
+O00767	Stress granule
+O00767	Stress granule
+O02916	Nucleolus
+O14511	Stress granule
+O14511	Nucleolus
+O14513	Nucleolus
+O14523	Nucleolus
+O14547	Nucleolus
+O14548	Nucleolus
+O14558	Nucleolus
+O14562	Nucleolus
+O14578	Stress granule
+O14578	Nucleolus
+O14595	Stress granule
+O14595	Stress granule
+O14607	Nucleolus
+O14617	Stress granule
+O14638	Stress granule
+O14638	Nuclear speckle
+O14638	Stress granule
+O14646	Stress granule
+O14646	Nucleolus
+O14668	Stress granule
+O14669	Nucleolus
+O14717	Nucleolus
+O14732	Stress granule
+O14734	Stress granule
+O14735	Stress granule
+O14744	P-body
+O14744	Stress granule
+O14744	Splicesome
+O14746	Cajal body
+O14746	PML nuclear body
+O14776	Nucleolus
+O14776	Splicesome
+O14776	Nuclear speckle
+O14787	Stress granule
+O14787	Nucleolus
+O14795	Stress granule
+O14818	Nucleolus
+O14818	Stress granule
+O14832	Stress granule
+O14832	Cajal body
+O14832	Nuclear speckle
+O14832	Stress granule
+O14841	Nucleolus
+O14874	Nuclear speckle
+O14893	Nucleolus
+O14893	SMN complex
+O14897	Nucleolus
+O14907	Nucleolus
+O14908	Stress granule
+O14924	Nucleolus
+O14936	P-body
+O14936	P-body
+O14950	Nucleolus
+O14964	PML nuclear body
+O14965	Nuclear speckle
+O14965	Nuclear speckle
+O14974	P-body
+O14974	Stress granule
+O14974	P-body
+O14976	Stress granule
+O14979	Stress granule
+O14979	Nucleolus
+O14979	Stress granule
+O14980	Stress granule
+O14980	Nucleolus
+O14983	Stress granule
+O15020	Paraspeckle
+O15027	Stress granule
+O15042	Paraspeckle
+O15042	Stress granule
+O15042	Splicesome
+O15042	Nuclear speckle
+O15056	PML nuclear body
+O15063	P-body
+O15066	Nucleolus
+O15067	P-body
+O15067	Nucleolus
+O15067	P-body
+O15084	Stress granule
+O15116	P-body
+O15116	Stress granule
+O15126	Stress granule
+O15142	Nucleolus
+O15143	Stress granule
+O15143	Nucleolus
+O15144	Nucleolus
+O15145	Nucleolus
+O15146	Nucleolus
+O15155	Stress granule
+O15160	Nucleolus
+O15169	Nucleolus
+O15205	Nucleolus
+O15213	Nucleolus
+O15226	P-body
+O15226	Stress granule
+O15226	Nucleolus
+O15226	Nucleolus
+O15234	P-body
+O15234	Stress granule
+O15264	Nucleolus
+O15273	Stress granule
+O15287	Nucleolus
+O15297	P-body
+O15297	P-body
+O15342	P-body
+O15342	P-body
+O15347	Stress granule
+O15347	Nucleolus
+O15357	Stress granule
+O15371	Stress granule
+O15371	Stress granule
+O15372	Stress granule
+O15372	Stress granule
+O15381	Nucleolus
+O15381	Nucleolus
+O15397	Stress granule
+O15427	Stress granule
+O15439	Nucleolus
+O15441	Nucleolus
+O15446	Nucleolus
+O15446	Nucleolus
+O15479	Nucleolus
+O15480	Nuclear stress body
+O15488	Nucleolus
+O15511	Stress granule
+O15514	Nuclear body
+O15520	Stress granule
+O15523	Stress granule
+O15527	Stress granule
+O15530	P-body
+O15530	P-body
+O15535	Nuclear body
+O15541	Splicesome
+O15547	Nucleolus
+O15550	Nucleolus
+O43143	Nuclear body
+O43143	P-body
+O43143	Nucleolus
+O43143	Stress granule
+O43143	Splicesome
+O43143	Nuclear speckle
+O43148	Nucleolus
+O43156	Stress granule
+O43159	Nucleolus
+O43159	PML nuclear body
+O43159	Nucleolus
+O43159	Nucleolus
+O43166	Stress granule
+O43172	Stress granule
+O43172	Nucleolus
+O43172	Stress granule
+O43172	Splicesome
+O43172	Nuclear speckle
+O43175	Paraspeckle
+O43196	Stress granule
+O43242	Stress granule
+O43251	Stress granule
+O43251	Nuclear body
+O43251	Splicesome
+O43252	Nucleolus
+O43283	P-body
+O43283	P-body
+O43290	Paraspeckle
+O43290	Splicesome
+O43290	Nuclear speckle
+O43298	Nucleolus
+O43309	PML nuclear body
+O43318	Paraspeckle
+O43324	Stress granule
+O43328	Nucleolus
+O43347	P-body
+O43347	Stress granule
+O43379	Stress granule
+O43390	P-body
+O43390	Nucleolus
+O43390	Stress granule
+O43390	Splicesome
+O43390	SMN complex
+O43390	IMP1 ribonucleoprotein granule
+O43395	Stress granule
+O43395	Nucleolus
+O43395	Nucleolus
+O43395	Stress granule
+O43395	Splicesome
+O43395	Nuclear speckle
+O43396	Stress granule
+O43423	P-body
+O43423	P-body
+O43427	Stress granule
+O43432	Stress granule
+O43432	Stress granule
+O43447	P-body
+O43447	Nucleolus
+O43447	Nucleolus
+O43447	P-body
+O43447	Stress granule
+O43447	Splicesome
+O43463	Nuclear body
+O43474	Paraspeckle
+O43482	P-body
+O43482	P-body
+O43497	Stress granule
+O43520	P-body
+O43520	P-body
+O43541	Stress granule
+O43592	Stress granule
+O43610	Nucleolus
+O43617	Stress granule
+O43623	Nucleolus
+O43633	Stress granule
+O43657	Nucleolus
+O43660	Stress granule
+O43660	Nucleolus
+O43660	Splicesome
+O43670	Nucleolus
+O43670	Splicesome
+O43670	Nuclear speckle
+O43674	Stress granule
+O43679	Nucleolus
+O43681	Nucleolus
+O43683	Stress granule
+O43683	Stress granule
+O43684	Nucleolus
+O43684	Splicesome
+O43684	Nuclear stress body
+O43684-2	Nuclear stress body
+O43687	Nucleolus
+O43707	Paraspeckle
+O43707	IMP1 ribonucleoprotein granule
+O43709	Nucleolus
+O43709	Stress granule
+O43709	Nucleolus
+O43719	Splicesome
+O43734	P-body
+O43747	Stress granule
+O43765	Stress granule
+O43768	Nucleolus
+O43776	Stress granule
+O43795	Stress granule
+O43809	Stress granule
+O43809	Nucleolus
+O43809	Stress granule
+O43813	Stress granule
+O43813	Nuclear stress body
+O43818	Nucleolus
+O43819	Stress granule
+O43852	Stress granule
+O43903	Nucleolus
+O43924	P-body
+O43924	PML nuclear body
+O43924	P-body
+O43929	Nucleolus
+O43933	PML nuclear body
+O60216	Stress granule
+O60224	Nucleolus
+O60225	Nucleolus
+O60229	Nuclear stress body
+O60229-2	Nuclear stress body
+O60231	Splicesome
+O60232	Stress granule
+O60239	Nuclear speckle
+O60248	Nucleolus
+O60256	Paraspeckle
+O60264	P-body
+O60264	Nucleolus
+O60264	Nucleolus
+O60285	Nucleolus
+O60287	Nucleolus
+O60287	Nucleolus
+O60293	Nucleolus
+O60306	Stress granule
+O60306	Splicesome
+O60306	Nuclear speckle
+O60313	Stress granule
+O60315	Nucleolus
+O60331	P-body
+O60331	PML nuclear body
+O60331	Nuclear speckle
+O60331	P-body
+O60333	Stress granule
+O60336	Nucleolus
+O60343	Stress granule
+O60437	Stress granule
+O60506	P-body
+O60506	Stress granule
+O60506	Paraspeckle
+O60506	Splicesome
+O60506	IMP1 ribonucleoprotein granule
+O60508	Splicesome
+O60610	Stress granule
+O60645	Stress granule
+O60678	Stress granule
+O60684	Stress granule
+O60716	Stress granule
+O60716	Stress granule
+O60729	P-body
+O60729	P-body
+O60760	Stress granule
+O60762	Stress granule
+O60763	Stress granule
+O60763	Nucleolus
+O60765	Nucleolus
+O60812	P-body
+O60812	Nuclear stress body
+O60814	Nucleolus
+O60814	Stress granule
+O60814	Nuclear stress body
+O60828	Stress granule
+O60828	Nucleolus
+O60828	PML nuclear body
+O60828	Splicesome
+O60832	Nuclear body
+O60832	Stress granule
+O60832	Nucleolus
+O60832	Nucleolus
+O60832	Nucleolus
+O60841	Nucleolus
+O60841	Stress granule
+O60869	Nucleolus
+O60870	Nucleolus
+O60870	Splicesome
+O60879	Nucleolus
+O60884	Nucleolus
+O60907	Nucleolus
+O60911	Nucleolus
+O60925	Nucleolus
+O60927	PML nuclear body
+O75044	Stress granule
+O75051	Cajal body
+O75061	Splicesome
+O75071	Nucleolus
+O75083	Stress granule
+O75096	Nucleolus
+O75113	Nucleolus
+O75131	Nucleolus
+O75145	Nucleolus
+O75150	Nucleolus
+O75150	Stress granule
+O75150	PML nuclear body
+O75151	P-body
+O75151	Nucleolus
+O75151	Cajal body
+O75151	P-body
+O75151	Nucleolus
+O75152	Stress granule
+O75152	Nuclear speckle
+O75152	Nuclear speckle
+O75164	Nucleolus
+O75165	Stress granule
+O75175	P-body
+O75175	P-body
+O75179	P-body
+O75179	Stress granule
+O75179	Stress granule
+O75191	Nucleolus
+O75251	Stress granule
+O75319	Nucleolus
+O75319	Nucleolus
+O75340	P-body
+O75340	Nucleolus
+O75342	Nuclear stress body
+O75347	Stress granule
+O75347	Nucleolus
+O75348	Stress granule
+O75348	Nucleolus
+O75352	Stress granule
+O75367	P-body
+O75369	Stress granule
+O75369	Paraspeckle
+O75381	Cajal body
+O75381	Nucleolus
+O75382	Stress granule
+O75386	Nucleolus
+O75398	Nucleolus
+O75400	Splicesome
+O75400	Nuclear speckle
+O75420	Stress granule
+O75431	Nucleolus
+O75459	Nucleolus
+O75477	Stress granule
+O75489	Stress granule
+O75494	Stress granule
+O75494	Splicesome
+O75525	Stress granule
+O75525	Sam68 nuclear body
+O75525	Splicesome
+O75528	Nuclear body
+O75531	Stress granule
+O75531	Nucleolus
+O75533	P-body
+O75533	Stress granule
+O75533	Splicesome
+O75533	Nuclear speckle
+O75533	Nuclear stress body
+O75534	Stress granule
+O75534	Stress granule
+O75554	Cajal body
+O75563	P-body
+O75569	Stress granule
+O75569	Stress granule
+O75582	P-body
+O75582	P-body
+O75586	Stress granule
+O75592	Stress granule
+O75607	Nucleolus
+O75607	Nucleolus
+O75607	Nucleolus
+O75608	Nuclear stress body
+O75608-2	Nuclear stress body
+O75616	Stress granule
+O75626	Nucleolus
+O75643	Nuclear body
+O75643	Nucleolus
+O75643	Stress granule
+O75643	Splicesome
+O75663	Stress granule
+O75676	Stress granule
+O75683	Nucleolus
+O75683	Nucleolus
+O75683	Nucleolus
+O75688	P-body
+O75688	Paraspeckle
+O75688	Nuclear speckle
+O75688	P-body
+O75688	Nucleolus
+O75691	Nucleolus
+O75694	Nuclear body
+O75694	Stress granule
+O75747	P-body
+O75747	P-body
+O75817	Nucleolus
+O75817	Nucleolus
+O75818	Nucleolus
+O75821	Stress granule
+O75821	Paraspeckle
+O75822	Stress granule
+O75830	P-body
+O75830	P-body
+O75838	Cajal body
+O75880	Stress granule
+O75907	Nucleolus
+O75911	Nucleolus
+O75914	P-body
+O75914	PML nuclear body
+O75914	P-body
+O75918	Nucleolus
+O75925	Nuclear speckle
+O75934	Splicesome
+O75934	Nuclear speckle
+O75935	Nucleolus
+O75937	Stress granule
+O75937	Nucleolus
+O75937	Splicesome
+O75940	Nucleolus
+O75940	Splicesome
+O75962	Stress granule
+O75992	Nucleolus
+O76003	Stress granule
+O76021	Stress granule
+O76021	Nucleolus
+O76021	Nucleolus
+O76038	Stress granule
+O76071	Stress granule
+O76075	Nucleolus
+O76094	Stress granule
+O76094	Nucleolus
+O76094	Stress granule
+O94760	Nucleolus
+O94762	P-body
+O94762	Nucleolus
+O94762	PML nuclear body
+O94762	P-body
+O94766	Stress granule
+O94768	P-body
+O94768	P-body
+O94804	Nuclear speckle
+O94805	Nucleolus
+O94806	Nucleolus
+O94832	P-body
+O94842	Nucleolus
+O94875	Nuclear stress body
+O94900	Nucleolus
+O94901	Stress granule
+O94903	Paraspeckle
+O94906	Stress granule
+O94906	Splicesome
+O94906	Nuclear speckle
+O94915	Stress granule
+O94921	P-body
+O94921	Nucleolus
+O94921	PML nuclear body
+O94921	P-body
+O94927	Stress granule
+O94964	Nucleolus
+O94967	Stress granule
+O94979	Stress granule
+O94988	Nucleolus
+O95059	Nucleolus
+O95076	Nucleolus
+O95104	Paraspeckle
+O95125	Nucleolus
+O95140	P-body
+O95140	P-body
+O95147	P-body
+O95147	P-body
+O95155	Stress granule
+O95163	Stress granule
+O95163	Nuclear stress body
+O95170	Nucleolus
+O95231	Nucleolus
+O95232	Stress granule
+O95232	Nuclear speckle
+O95238	Nucleolus
+O95239	Stress granule
+O95248	Stress granule
+O95249	Stress granule
+O95271	Stress granule
+O95292	Stress granule
+O95295	Nucleolus
+O95319	Stress granule
+O95336	Nuclear stress body
+O95347	Nucleolus
+O95347	Stress granule
+O95347	Nucleolus
+O95347	Nuclear stress body
+O95347-2	Nuclear stress body
+O95359	Stress granule
+O95373	Stress granule
+O95373	Nuclear stress body
+O95382	Nuclear speckle
+O95391	Splicesome
+O95394	Nucleolus
+O95394	PML nuclear body
+O95400	Splicesome
+O95402	Stress granule
+O95402	Cajal body
+O95402	Nuclear stress body
+O95402-2	Nuclear stress body
+O95425	Stress granule
+O95433	Stress granule
+O95433	Stress granule
+O95453	Stress granule
+O95453	Nucleolus
+O95455	Nucleolus
+O95466	Stress granule
+O95478	Nucleolus
+O95478	Nucleolus
+O95486	Nucleolus
+O95573	Stress granule
+O95573	Nucleolus
+O95602	Nucleolus
+O95602	Nucleolus
+O95628	P-body
+O95628	Stress granule
+O95631	Stress granule
+O95672	Nucleolus
+O95685	Nucleolus
+O95707	Nucleolus
+O95721	Stress granule
+O95747	P-body
+O95747	P-body
+O95751	Nucleolus
+O95755	P-body
+O95758	Stress granule
+O95758	Paraspeckle
+O95777	Splicesome
+O95782	Stress granule
+O95786	Stress granule
+O95793	Stress granule
+O95803	Stress granule
+O95816	Stress granule
+O95816	Splicesome
+O95817	Stress granule
+O95819	Stress granule
+O95831	Stress granule
+O95835	Stress granule
+O95848	Nucleolus
+O95861	P-body
+O95861	P-body
+O95863	Nuclear body
+O95864	Stress granule
+O95881	Paraspeckle
+O95922	Nucleolus
+O95926	Splicesome
+O95968	Stress granule
+O95985	Stress granule
+O95997	Nucleolus
+O96000	Stress granule
+O96011	Stress granule
+O96013	P-body
+O96013	Stress granule
+O96013	Nucleolus
+O96013	PML nuclear body
+O96013	P-body
+O96015	Nucleolus
+P00001	Nucleolus
+P00338	Nucleolus
+P00505	Nucleolus
+P00533	PML nuclear body
+P00558	Nucleolus
+P00746	Nucleolus
+P00749	PML nuclear body
+P01033	Nuclear body
+P01106	P-body
+P01106	Nucleolus
+P01106	P-body
+P01876	P-body
+P02278	Nuclear body
+P02278	Nucleolus
+P02304	Nuclear body
+P02304	Nucleolus
+P02403	Nucleolus
+P02404	Nucleolus
+P02433	Nucleolus
+P02452	Stress granule
+P02511	Stress granule
+P02511	Stress granule
+P02545	Nuclear body
+P02545	Stress granule
+P02545	Nucleolus
+P02545	Paraspeckle
+P02570	Nucleolus
+P02571	Nuclear body
+P02647	P-body
+P02649	Stress granule
+P02656	Nucleolus
+P02745	Stress granule
+P02768	P-body
+P02768	Nuclear stress body
+P02768-2	Nuclear stress body
+P02787	P-body
+P03950	Stress granule
+P03950	Nucleolus
+P04054	Nucleolus
+P04075	Stress granule
+P04080	Stress granule
+P04080	Nucleolus
+P04083	Stress granule
+P04150	Stress granule
+P04198	Nucleolus
+P04406	Nucleolus
+P04406	Paraspeckle
+P04629	Nucleolus
+P04643	Nucleolus
+P04645	Nucleolus
+P04720	Nucleolus
+P04765	Nuclear body
+P04765	Nucleolus
+P04792	P-body
+P04792	Stress granule
+P04792	Splicesome
+P04818	Stress granule
+P04844	Stress granule
+P04908	Nucleolus
+P04908	SMN complex
+P04908	Nuclear stress body
+P05089	P-body
+P05109	P-body
+P05114	Stress granule
+P05114	Nucleolus
+P05141	P-body
+P05198	P-body
+P05198	Nucleolus
+P05198	Nucleolus
+P05198	Nuclear speckle
+P05198	P-body
+P05204	Nucleolus
+P05217	Nucleolus
+P05305	Nucleolus
+P05386	Stress granule
+P05387	Nucleolus
+P05388	Nuclear body
+P05388	IMP1 ribonucleoprotein granule
+P05455	Nucleolus
+P05556	Stress granule
+P05787	Stress granule
+P06213	Stress granule
+P06213	Nucleolus
+P06213	PML nuclear body
+P06213	Stress granule
+P06239	Nucleolus
+P06351	Nuclear body
+P06366	Nucleolus
+P06493	Stress granule
+P06493	Nucleolus
+P06493	Nuclear stress body
+P06493-2	Nuclear stress body
+P06576	Nucleolus
+P06576	Paraspeckle
+P06702	P-body
+P06702	Stress granule
+P06729	Nucleolus
+P06730	P-body
+P06730	Stress granule
+P06730	P-body
+P06732	Stress granule
+P06737	Stress granule
+P06748	P-body
+P06748	Nucleolus
+P06748	Nucleolus
+P06748	Cajal body
+P06748	P-body
+P06748	Nucleolus
+P06748	Nucleolus
+P06748	SMN complex
+P06748	Nuclear stress body
+P06748-2	Nuclear stress body
+P06753	Paraspeckle
+P06899	Stress granule
+P07108	Nuclear stress body
+P07196	PML nuclear body
+P07199	Stress granule
+P07199	Nucleolus
+P07205	Cajal body
+P07237	Stress granule
+P07237	Paraspeckle
+P07305	Stress granule
+P07332	Cajal body
+P07355	Nucleolus
+P07437	Nuclear body
+P07437	Nucleolus
+P07550	Stress granule
+P07737	Stress granule
+P07738	Nucleolus
+P07814	Stress granule
+P07858	Nucleolus
+P07900	Stress granule
+P07900	Nuclear stress body
+P07900-2	Nuclear stress body
+P07910	P-body
+P07910	Nucleolus
+P07910	Stress granule
+P07910	Splicesome
+P07910	Nuclear stress body
+P07910-2	Nuclear stress body
+P07910-3	Nuclear stress body
+P07910-4	Nuclear stress body
+P07919	Stress granule
+P07947	Stress granule
+P07951	Stress granule
+P07951	Stress granule
+P08048	Nucleolus
+P08107	IMP1 ribonucleoprotein granule
+P08129	Nucleolus
+P08133	Stress granule
+P08133	Stress granule
+P08238	Nucleolus
+P08240	Stress granule
+P08526	Nucleolus
+P08567	Nucleolus
+P08574	Stress granule
+P08578	Nuclear body
+P08578	Nucleolus
+P08579	Cajal body
+P08579	Splicesome
+P08590	Nucleolus
+P08621	Nuclear body
+P08621	Nucleolus
+P08621	Paraspeckle
+P08621	Stress granule
+P08621	Splicesome
+P08621	Nuclear speckle
+P08621	SMN complex
+P08631	Stress granule
+P08651	Nucleolus
+P08670	Nuclear body
+P08670	Nucleolus
+P08670	Paraspeckle
+P08670	Stress granule
+P08670	Nuclear stress body
+P08708	Nucleolus
+P08708	Nucleolus
+P08754	Stress granule
+P08754	Nucleolus
+P08758	Nuclear stress body
+P08865	Nucleolus
+P08865	Stress granule
+P08922	Cajal body
+P09012	Nucleolus
+P09012	Splicesome
+P09058	Nuclear body
+P09058	Nucleolus
+P09067	Nucleolus
+P09132	Nucleolus
+P09234	Nuclear body
+P09234	Stress granule
+P09234	Nucleolus
+P09234	Stress granule
+P09234	Splicesome
+P09326	Nucleolus
+P09429	Paraspeckle
+P09429	Stress granule
+P09467	PML nuclear body
+P09493	Stress granule
+P09493	Paraspeckle
+P09496	Stress granule
+P09497	Stress granule
+P09543	Stress granule
+P09601	Stress granule
+P09651	Nuclear body
+P09651	Stress granule
+P09651	Nucleolus
+P09651	Paraspeckle
+P09651	Splicesome
+P09651	Nuclear stress body
+P09651	IMP1 ribonucleoprotein granule
+P09651	Sam68 nuclear body
+P09651-2	Nuclear stress body
+P09651-3	Nuclear stress body
+P09661	Nuclear body
+P09661	Nucleolus
+P09661	Stress granule
+P09661	Splicesome
+P09661	Nuclear speckle
+P09661	SMN complex
+P09661	Nuclear stress body
+P09758	Nucleolus
+P09874	Nucleolus
+P09874	Nuclear speckle
+P09896	Nucleolus
+P09923	Nuclear speckle
+P09936	Nuclear stress body
+P09972	Nucleolus
+P09972	Nuclear speckle
+P0C0S8	Nuclear stress body
+P0C221	Nucleolus
+P0C2W1	Stress granule
+P0C7T5	P-body
+P0C7T5	PML nuclear body
+P0C7T5	P-body
+P0C7W0	Nucleolus
+P0C7X2	Nuclear speckle
+P0CG23	Nucleolus
+P0CG47	Nuclear stress body
+P0CG48	Nuclear stress body
+P0CJ78	Nucleolus
+P0CW24	Nucleolus
+P0DMM9	Stress granule
+P0DMU7	Nucleolus
+P0DMU8	Nucleolus
+P0DMU9	Nucleolus
+P0DMV0	Nucleolus
+P0DMV1	Nucleolus
+P0DMV2	Nucleolus
+P0DMV8	Splicesome
+P0DMV9	Splicesome
+P0DN79	Nucleolus
+P0DOY2	P-body
+P0DP23	Stress granule
+P0DP24	Stress granule
+P0DP24	Stress granule
+P10070	Nucleolus
+P10074	Nuclear body
+P10155	P-body
+P10155	Stress granule
+P10155	IMP1 ribonucleoprotein granule
+P10321	Stress granule
+P10398	Nucleolus
+P10412	Nucleolus
+P10412	Paraspeckle
+P10599	Stress granule
+P10620	Stress granule
+P10644	Paraspeckle
+P10660	Nuclear body
+P10660	Nucleolus
+P10721	Nuclear speckle
+P10809	Stress granule
+P10809	Nucleolus
+P10809	Nuclear stress body
+P10827	Stress granule
+P11021	Nuclear body
+P11021	Stress granule
+P11021	Nucleolus
+P11021	Paraspeckle
+P11142	Nucleolus
+P11142	Splicesome
+P11142	SMN complex
+P11142	IMP1 ribonucleoprotein granule
+P11166	Stress granule
+P11216	Stress granule
+P11234	Stress granule
+P11308	IMP1 ribonucleoprotein granule
+P11309	Nucleolus
+P11387	Nucleolus
+P11387	Nucleolus
+P11387	Nucleolus
+P11388	P-body
+P11388	Nucleolus
+P11388	Stress granule
+P11388	Nucleolus
+P11474	Nucleolus
+P11487	Stress granule
+P11518	Nuclear body
+P11518	Nucleolus
+P11532	Paraspeckle
+P11532	Stress granule
+P11586	Stress granule
+P11802	Nucleolus
+P11940	P-body
+P11940	Stress granule
+P11940	P-body
+P11940	Splicesome
+P11940	IMP1 ribonucleoprotein granule
+P12004	Stress granule
+P12004	Nucleolus
+P12034	Nucleolus
+P12035	Stress granule
+P12236	P-body
+P12236	Stress granule
+P12270	Nucleolus
+P12270	Paraspeckle
+P12273	P-body
+P12532	P-body
+P12532	P-body
+P12750	Nuclear body
+P12750	Nucleolus
+P12751	Nucleolus
+P12883	Stress granule
+P12947	Nuclear body
+P12947	Nucleolus
+P12955	Stress granule
+P12955	PML nuclear body
+P12956	P-body
+P12956	Nucleolus
+P13010	P-body
+P13010	Nucleolus
+P13010	Stress granule
+P13385	P-body
+P13473	Stress granule
+P13489	Stress granule
+P13489	Nuclear stress body
+P13498	Paraspeckle
+P13639	Stress granule
+P13639	Nucleolus
+P13639	Paraspeckle
+P13641	Nuclear body
+P13647	Paraspeckle
+P13686	Nucleolus
+P13797	Nuclear stress body
+P13861	Stress granule
+P13862	Nucleolus
+P13984	Nucleolus
+P13987	Stress granule
+P13994	Splicesome
+P13995	Stress granule
+P14060	Nucleolus
+P14118	Nuclear body
+P14118	Nucleolus
+P14174	Nuclear stress body
+P14207	P-body
+P14373	Nucleolus
+P14555	Cajal body
+P14555	Nuclear speckle
+P14616	Nuclear speckle
+P14635	Nucleolus
+P14678	Splicesome
+P14678	SMN complex
+P14798	Nucleolus
+P14866	Nuclear body
+P14866	Nucleolus
+P14866	Stress granule
+P14866	Nuclear stress body
+P14866	IMP1 ribonucleoprotein granule
+P14866	Sam68 nuclear body
+P14868	Stress granule
+P14923	Splicesome
+P14923	Nuclear stress body
+P15018	Stress granule
+P15104	Nuclear stress body
+P15170	Stress granule
+P15170	Stress granule
+P15259	Stress granule
+P15259	Stress granule
+P15259	Nucleolus
+P15311	Paraspeckle
+P15407	Nuclear body
+P15408	PML nuclear body
+P15531	Paraspeckle
+P15863	Stress granule
+P15880	Nuclear body
+P15880	Stress granule
+P15880	Nucleolus
+P15924	Stress granule
+P15924	Paraspeckle
+P15927	P-body
+P15927	Paraspeckle
+P15927	P-body
+P15976	Paraspeckle
+P16066	Nucleolus
+P16104	Nuclear stress body
+P16144	Stress granule
+P16284	Nuclear speckle
+P16298	Nucleolus
+P16298	PML nuclear body
+P16401	Nucleolus
+P16402	Nucleolus
+P16403	Nucleolus
+P16403	Nucleolus
+P16475	Nuclear body
+P16499	P-body
+P16499	PML nuclear body
+P16499	P-body
+P16615	Stress granule
+P16632	Nucleolus
+P16989	Stress granule
+P16989	Paraspeckle
+P16989	Stress granule
+P16989	Splicesome
+P17008	Nuclear body
+P17008	Nucleolus
+P17010	Nucleolus
+P17020	Nucleolus
+P17028	Paraspeckle
+P17029	Nuclear body
+P17080	Nucleolus
+P17096	Stress granule
+P17096	Nucleolus
+P17096	Nucleolus
+P17152	Stress granule
+P17252	P-body
+P17252	P-body
+P17252	Stress granule
+P17480	Nucleolus
+P17480	Nucleolus
+P17516	Nucleolus
+P17612	Stress granule
+P17812	Stress granule
+P17844	Nucleolus
+P17844	Splicesome
+P17844	SMN complex
+P17858	P-body
+P17858	P-body
+P17948	Cajal body
+P17980	Nucleolus
+P17987	Stress granule
+P18074	Nucleolus
+P18075	Nucleolus
+P18077	Nucleolus
+P18124	Nucleolus
+P18124	Nucleolus
+P18433	Nucleolus
+P18583	Nuclear body
+P18583	Nuclear speckle
+P18615	Stress granule
+P18621	Nucleolus
+P18669	Nucleolus
+P18754	Stress granule
+P18754	Nucleolus
+P18847	Nucleolus
+P18887	Nucleolus
+P19105	Nucleolus
+P19138	Nucleolus
+P19237	Nucleolus
+P19338	Nucleolus
+P19338	Nucleolus
+P19338	Cajal body
+P19338	Nucleolus
+P19338	IMP1 ribonucleoprotein granule
+P19387	Stress granule
+P19388	Nuclear body
+P19388	Nucleolus
+P19388	Stress granule
+P19474	Stress granule
+P19525	P-body
+P19525	Stress granule
+P19525	Nucleolus
+P19525	Stress granule
+P19622	Nucleolus
+P19784	Nucleolus
+P19784	Stress granule
+P19878	Nucleolus
+P20042	Stress granule
+P20042	Nucleolus
+P20042	Nucleolus
+P20042	Nucleolus
+P20073	Stress granule
+P20472	Nucleolus
+P20618	Stress granule
+P20670	Nucleolus
+P20671	Nuclear stress body
+P20700	P-body
+P20700	Nucleolus
+P20823	Stress granule
+P20908	Stress granule
+P20962	Nucleolus
+P21127	Stress granule
+P21127	Nucleolus
+P21127	PML nuclear body
+P21127	Nuclear speckle
+P21127	Stress granule
+P21266	Nuclear stress body
+P21359	Stress granule
+P21399	Stress granule
+P21462	Nucleolus
+P21675	Nucleolus
+P21781	Nucleolus
+P21796	Nucleolus
+P21796	Stress granule
+P21860	Cajal body
+P21953	Nucleolus
+P21980	Stress granule
+P22061	Nuclear stress body
+P22061-2	Nuclear stress body
+P22087	Nuclear body
+P22087	P-body
+P22087	Stress granule
+P22087	Nucleolus
+P22087	P-body
+P22087	Stress granule
+P22087	Nucleolus
+P22087	SMN complex
+P22102	Paraspeckle
+P22102	Stress granule
+P22314	Stress granule
+P22314	Nuclear stress body
+P22392	Paraspeckle
+P22413	Nucleolus
+P22455	PML nuclear body
+P22466	Nuclear body
+P22612	Stress granule
+P22612	Stress granule
+P22626	Nuclear body
+P22626	Stress granule
+P22626	Nucleolus
+P22626	Paraspeckle
+P22626	Splicesome
+P22626	SMN complex
+P22626	Nuclear stress body
+P22626	IMP1 ribonucleoprotein granule
+P22626	Sam68 nuclear body
+P22626-2	Nuclear stress body
+P22694	Cajal body
+P22694	Stress granule
+P23131	Nuclear body
+P23131	Nucleolus
+P23152	Nuclear body
+P23152	Nucleolus
+P23193	Stress granule
+P23193	Nucleolus
+P23193	Nucleolus
+P23197	Nucleolus
+P23246	Nuclear body
+P23246	Nucleolus
+P23246	Paraspeckle
+P23246	SMN complex
+P23246	Nuclear stress body
+P23246-2	Nuclear stress body
+P23284	Nucleolus
+P23381	Paraspeckle
+P23396	P-body
+P23396	Stress granule
+P23396	IMP1 ribonucleoprotein granule
+P23411	Nucleolus
+P23443	Stress granule
+P23468	P-body
+P23468	P-body
+P23469	P-body
+P23469	P-body
+P23497	P-body
+P23497	P-body
+P23511	PML nuclear body
+P23528	Stress granule
+P23528	Paraspeckle
+P23588	Stress granule
+P23588	Paraspeckle
+P23677	P-body
+P23677	P-body
+P23786	Nucleolus
+P23821	Nucleolus
+P23919	PML nuclear body
+P23919	Stress granule
+P23921	Stress granule
+P24534	Paraspeckle
+P24534	Nucleolus
+P24539	Stress granule
+P24666	Stress granule
+P24821	Stress granule
+P24844	Nucleolus
+P24928	Nuclear body
+P24928	Nuclear speckle
+P24941	Nucleolus
+P25063	Stress granule
+P25098	Nucleolus
+P25111	Nucleolus
+P25112	Nuclear body
+P25112	Nucleolus
+P25120	Nuclear body
+P25120	Nucleolus
+P25205	Nucleolus
+P25205	Paraspeckle
+P25205	Stress granule
+P25232	Nucleolus
+P25311	P-body
+P25388	Nucleolus
+P25398	Nucleolus
+P25398	Paraspeckle
+P25490	Nucleolus
+P25705	Stress granule
+P25705	Paraspeckle
+P25786	Nuclear stress body
+P25786-2	Nuclear stress body
+P25788	Nuclear speckle
+P25789	P-body
+P25789	Nucleolus
+P25789	P-body
+P26196	P-body
+P26196	Stress granule
+P26196	P-body
+P26232	Stress granule
+P26358	Nucleolus
+P26358	Stress granule
+P26368	Nuclear body
+P26368	Stress granule
+P26368	Nucleolus
+P26368	Paraspeckle
+P26368	Nucleolus
+P26368	Stress granule
+P26368	Splicesome
+P26368	Nuclear speckle
+P26373	Nucleolus
+P26373	Nucleolus
+P26373	Nucleolus
+P26373	Nuclear stress body
+P26374	Stress granule
+P26378	Stress granule
+P26439	Nucleolus
+P26447	Nucleolus
+P26583	Nucleolus
+P26599	Nuclear body
+P26599	Stress granule
+P26599	Nucleolus
+P26599	Stress granule
+P26599	Nuclear body
+P26599	Splicesome
+P26640	Stress granule
+P26641	Nucleolus
+P26651	P-body
+P26651	Stress granule
+P26651	PML nuclear body
+P26885	Stress granule
+P27169	Stress granule
+P27348	Stress granule
+P27348	Paraspeckle
+P27348	Nucleolus
+P27361	P-body
+P27361	P-body
+P27361	Nuclear stress body
+P27361-2	Nuclear stress body
+P27361-3	Nuclear stress body
+P27448	Nuclear speckle
+P27635	Nucleolus
+P27694	Stress granule
+P27694	Nucleolus
+P27694	Stress granule
+P27695	Stress granule
+P27695	Nucleolus
+P27695	Cajal body
+P27695	Nuclear speckle
+P27708	Stress granule
+P27797	Stress granule
+P27815	Stress granule
+P27815	Cajal body
+P27815	Stress granule
+P27816	Stress granule
+P27816	Paraspeckle
+P27986	P-body
+P27986	P-body
+P28070	Nuclear speckle
+P28161	Stress granule
+P28289	Paraspeckle
+P28340	Stress granule
+P28356	Nucleolus
+P28370	Stress granule
+P28482	Stress granule
+P28482	Nuclear stress body
+P28562	Nucleolus
+P28676	Stress granule
+P29034	Nucleolus
+P29043	Nucleolus
+P29084	Stress granule
+P29084	Nucleolus
+P29122	P-body
+P29316	Nucleolus
+P29323	Nucleolus
+P29350	Nucleolus
+P29372	Stress granule
+P29376	Cajal body
+P29508	P-body
+P29558	Stress granule
+P29590	PML nuclear body
+P29590	PML nuclear body
+P29692	Paraspeckle
+P29692	Stress granule
+P29692	Nucleolus
+P29728	Stress granule
+P29966	Stress granule
+P29966	Nuclear stress body
+P30040	Stress granule
+P30041	Stress granule
+P30048	Paraspeckle
+P30048	Nuclear stress body
+P30050	Nuclear body
+P30050	Nucleolus
+P30085	Stress granule
+P30101	Nuclear body
+P30101	Stress granule
+P30101	Stress granule
+P30153	Stress granule
+P30153	Nucleolus
+P30153	PML nuclear body
+P30153	Stress granule
+P30153	Nuclear stress body
+P30154	Stress granule
+P30154	PML nuclear body
+P30154	Nuclear stress body
+P30154-2	Nuclear stress body
+P30260	Stress granule
+P30291	Nucleolus
+P30305	Nuclear speckle
+P30307	P-body
+P30307	P-body
+P30405	Nucleolus
+P30519	Stress granule
+P30536	Stress granule
+P30613	P-body
+P30613	PML nuclear body
+P30613	P-body
+P30626	Stress granule
+P30740	Nuclear stress body
+P30876	Nuclear body
+P30876	Stress granule
+P30876	Stress granule
+P31040	Nucleolus
+P31153	Nuclear stress body
+P31327	Nucleolus
+P31483	Stress granule
+P31483	Nucleolus
+P31689	Nuclear body
+P31689	Stress granule
+P31689	Nucleolus
+P31942	Stress granule
+P31942	Nucleolus
+P31942	Paraspeckle
+P31942	Splicesome
+P31942	SMN complex
+P31942	Nuclear stress body
+P31942-2	Nuclear stress body
+P31942-3	Nuclear stress body
+P31942-4	Nuclear stress body
+P31942-5	Nuclear stress body
+P31942-6	Nuclear stress body
+P31943	Stress granule
+P31943	Nucleolus
+P31943	Paraspeckle
+P31943	Stress granule
+P31943	Splicesome
+P31943	Nuclear speckle
+P31943	SMN complex
+P31946	Nuclear body
+P31946	Stress granule
+P31946	Nucleolus
+P31947	Stress granule
+P31947	Nucleolus
+P31948	Stress granule
+P31948	Paraspeckle
+P32019	PML nuclear body
+P32119	Paraspeckle
+P32189	Cajal body
+P32322	Stress granule
+P32391	Nucleolus
+P32455	P-body
+P32969	Nucleolus
+P32969	Nucleolus
+P33076	Nuclear stress body
+P33240	Nuclear body
+P33316	Nuclear stress body
+P33316-2	Nuclear stress body
+P33527	Stress granule
+P33897	Stress granule
+P33981	Nucleolus
+P33991	Stress granule
+P33991	Nucleolus
+P33991	Stress granule
+P33992	Stress granule
+P33992	Nucleolus
+P33992	Paraspeckle
+P33992	Stress granule
+P33993	P-body
+P33993	Stress granule
+P33993	Nucleolus
+P34741	Stress granule
+P34897	Nucleolus
+P34932	Stress granule
+P34991	Nucleolus
+P35030	Nuclear stress body
+P35030-2	Nuclear stress body
+P35030-3	Nuclear stress body
+P35030-4	Nuclear stress body
+P35052	Stress granule
+P35080	Stress granule
+P35080	Stress granule
+P35221	Stress granule
+P35222	Stress granule
+P35226	Nucleolus
+P35232	Stress granule
+P35232	Nuclear stress body
+P35237	Nuclear stress body
+P35241	Stress granule
+P35244	Paraspeckle
+P35249	Stress granule
+P35249	Nucleolus
+P35249	Stress granule
+P35250	Nucleolus
+P35250	Stress granule
+P35251	Nucleolus
+P35251	Stress granule
+P35268	Nucleolus
+P35268	Nucleolus
+P35269	Nucleolus
+P35269	Cajal body
+P35462	P-body
+P35520	Nucleolus
+P35520	Nuclear stress body
+P35520-2	Nuclear stress body
+P35544	Stress granule
+P35544	Nucleolus
+P35573	P-body
+P35579	Nucleolus
+P35579	Paraspeckle
+P35580	P-body
+P35580	Paraspeckle
+P35611	Stress granule
+P35611	Paraspeckle
+P35637	Nuclear body
+P35637	Stress granule
+P35637	Nucleolus
+P35637	Paraspeckle
+P35637	Splicesome
+P35658	Stress granule
+P35659	Nucleolus
+P35908	Paraspeckle
+P35998	Nucleolus
+P35998	Nuclear speckle
+P35998	Stress granule
+P36269	Nucleolus
+P36383	Nucleolus
+P36404	Nucleolus
+P36551	Nuclear stress body
+P36578	Nuclear body
+P36578	Nucleolus
+P36578	Stress granule
+P36578	Nucleolus
+P36639	Stress granule
+P36873	Nucleolus
+P36873	Nuclear stress body
+P36873-2	Nuclear stress body
+P36888	Cajal body
+P36897	PML nuclear body
+P37108	Stress granule
+P37108	Nucleolus
+P37108	Nucleolus
+P37140	Nucleolus
+P37287	Nuclear speckle
+P37802	Nuclear stress body
+P38159	Nuclear body
+P38159	P-body
+P38159	Stress granule
+P38159	Nucleolus
+P38159	Paraspeckle
+P38159	Stress granule
+P38159	Splicesome
+P38159	Nuclear stress body
+P38159	Sam68 nuclear body
+P38159-2	Nuclear stress body
+P38432	Nuclear body
+P38432	Nucleolus
+P38432	Cajal body
+P38432	PML nuclear body
+P38432	Nucleolus
+P38432	Cajal body
+P38435	Stress granule
+P38646	Stress granule
+P38646	Nucleolus
+P38646	Nuclear stress body
+P38663	Nuclear body
+P38663	Nucleolus
+P38919	Nuclear body
+P38919	P-body
+P38919	Stress granule
+P38919	Nucleolus
+P38919	Splicesome
+P39019	Stress granule
+P39019	Nucleolus
+P39023	Nucleolus
+P39023	Stress granule
+P39023	Nucleolus
+P39023	Nucleolus
+P39026	Nucleolus
+P39027	Nucleolus
+P39028	Nucleolus
+P39030	Nuclear body
+P39030	Nucleolus
+P39656	Stress granule
+P39748	P-body
+P39748	Nucleolus
+P39748	Nucleolus
+P40222	Stress granule
+P40227	Stress granule
+P40261	Stress granule
+P40306	Nucleolus
+P40429	Nucleolus
+P40429	Nucleolus
+P40429	Nucleolus
+P40616	Stress granule
+P40763	Stress granule
+P40926	Nucleolus
+P40937	Nucleolus
+P40938	Stress granule
+P40938	Nucleolus
+P40938	Stress granule
+P40939	Paraspeckle
+P40939	Stress granule
+P41091	Nucleolus
+P41091	Stress granule
+P41212	Nucleolus
+P41214	Stress granule
+P41218	Nucleolus
+P41223	Splicesome
+P41225	Stress granule
+P41227	Cajal body
+P41227	Stress granule
+P41227	Nucleolus
+P41235	Nuclear body
+P41250	Stress granule
+P41567	Stress granule
+P41743	P-body
+P41743	P-body
+P42025	Stress granule
+P42166	Nuclear body
+P42166	Paraspeckle
+P42167	Paraspeckle
+P42224	Stress granule
+P42224	Stress granule
+P42285	Nucleolus
+P42285	Stress granule
+P42330	Nucleolus
+P42338	Nucleolus
+P42345	Stress granule
+P42345	Stress granule
+P42356	Stress granule
+P42655	Nucleolus
+P42677	Nucleolus
+P42677	Stress granule
+P42677	Nucleolus
+P42681	Stress granule
+P42681	Stress granule
+P42684	Nucleolus
+P42684	Cajal body
+P42684	PML nuclear body
+P42684	Nuclear speckle
+P42694	Stress granule
+P42694	Stress granule
+P42694	Nucleolus
+P42695	Nucleolus
+P42695	Nuclear stress body
+P42696	Nucleolus
+P42696	Nucleolus
+P42696	Nucleolus
+P42704	Stress granule
+P42704	Nuclear stress body
+P42765	Stress granule
+P42766	Nuclear body
+P42766	Nucleolus
+P42771	Stress granule
+P42771	Nucleolus
+P42858	P-body
+P43003	Nucleolus
+P43119	Stress granule
+P43243	P-body
+P43243	Paraspeckle
+P43243	Stress granule
+P43243	Splicesome
+P43243	Nuclear stress body
+P43246	Paraspeckle
+P43250	Stress granule
+P43250	Stress granule
+P43268	Nucleolus
+P43307	Stress granule
+P43330	Nuclear body
+P43330	Nucleolus
+P43331	Nuclear body
+P43331	Nucleolus
+P43355	Stress granule
+P43358	Stress granule
+P43378	Nucleolus
+P43403	Stress granule
+P43403	Stress granule
+P43487	Stress granule
+P45379	Nucleolus
+P45880	Nucleolus
+P45973	Nuclear body
+P45973	Nucleolus
+P45974	Stress granule
+P45974	Nuclear stress body
+P45974-2	Nuclear stress body
+P45984	PML nuclear body
+P45985	Nuclear stress body
+P45985-2	Nuclear stress body
+P46013	Stress granule
+P46013	Nucleolus
+P46013	Nucleolus
+P46055	Nucleolus
+P46060	Stress granule
+P46063	Stress granule
+P46063	Nucleolus
+P46063	Nuclear stress body
+P46087	P-body
+P46087	Nucleolus
+P46087	Nucleolus
+P46087	P-body
+P46087	Nucleolus
+P46087	Nucleolus
+P46100	Nucleolus
+P46100	Stress granule
+P46109	Stress granule
+P46109	Nuclear stress body
+P46734	Stress granule
+P46776	Nuclear body
+P46776	Nucleolus
+P46777	Nucleolus
+P46777	Nucleolus
+P46778	Nucleolus
+P46778	Nucleolus
+P46779	Nucleolus
+P46779	Nucleolus
+P46781	Stress granule
+P46781	Nucleolus
+P46781	IMP1 ribonucleoprotein granule
+P46782	Nuclear body
+P46782	Nucleolus
+P46782	Nucleolus
+P46783	Nuclear body
+P46783	Nucleolus
+P46783	Stress granule
+P46783	Nuclear stress body
+P46821	Stress granule
+P46821	Paraspeckle
+P46926	P-body
+P46926	Stress granule
+P46937	Nucleolus
+P46977	Stress granule
+P47755	Stress granule
+P47756	Paraspeckle
+P47914	Nucleolus
+P47914	Nucleolus
+P47929	P-body
+P47929	Nuclear stress body
+P47989	Nucleolus
+P48047	Nuclear stress body
+P48059	Stress granule
+P48145	Stress granule
+P48444	Stress granule
+P48506	Nucleolus
+P48539	Nucleolus
+P48552	Nucleolus
+P48634	Stress granule
+P48634	Stress granule
+P48643	Stress granule
+P48729	Nucleolus
+P48730	P-body
+P48730	Nucleolus
+P48730	Nucleolus
+P48730	Nucleolus
+P48736	PML nuclear body
+P48741	Splicesome
+P49069	Stress granule
+P49069	Nucleolus
+P49207	Nucleolus
+P49207	Nucleolus
+P49207	Nucleolus
+P49241	Nuclear body
+P49321	Nuclear stress body
+P49321-2	Nuclear stress body
+P49321-3	Nuclear stress body
+P49336	P-body
+P49336	P-body
+P49368	Stress granule
+P49411	Stress granule
+P49411	Nucleolus
+P49411	Stress granule
+P49411	Nuclear stress body
+P49450	Nucleolus
+P49458	Stress granule
+P49458	Nucleolus
+P49585	P-body
+P49585	P-body
+P49588	Stress granule
+P49593	Stress granule
+P49593	Stress granule
+P49736	Nucleolus
+P49748	Cajal body
+P49748	Nucleolus
+P49750	Stress granule
+P49756	P-body
+P49756	Stress granule
+P49756	P-body
+P49756	Stress granule
+P49756	Splicesome
+P49756	Nuclear speckle
+P49758	Nucleolus
+P49760	Nuclear speckle
+P49761	Cajal body
+P49765	Stress granule
+P49770	Stress granule
+P49789	Nucleolus
+P49790	Stress granule
+P49792	Nuclear body
+P49792	P-body
+P49795	Nucleolus
+P49902	Nucleolus
+P49915	Nuclear stress body
+P49916	Stress granule
+P49959	Nucleolus
+P49959	Stress granule
+P49961	Stress granule
+P50219	Nucleolus
+P50225	Nuclear stress body
+P50226	Nuclear stress body
+P50238	Stress granule
+P50395	Paraspeckle
+P50479	Stress granule
+P50539	Nucleolus
+P50550	Nucleolus
+P50552	Stress granule
+P50579	Stress granule
+P50607	Nucleolus
+P50613	Nucleolus
+P50748	Stress granule
+P50750	Nucleolus
+P50750	Stress granule
+P50851	Stress granule
+P50895	Nucleolus
+P50914	Nuclear body
+P50914	Nucleolus
+P50990	Stress granule
+P50991	Nucleolus
+P50991	Stress granule
+P50991	Nuclear stress body
+P50995	Stress granule
+P51114	Stress granule
+P51116	Stress granule
+P51116	Stress granule
+P51178	Nucleolus
+P51452	Stress granule
+P51513	Nucleolus
+P51531	Stress granule
+P51553	Stress granule
+P51553	Nucleolus
+P51570	Stress granule
+P51575	P-body
+P51610	Nuclear body
+P51659	Nucleolus
+P51665	Stress granule
+P51784	Stress granule
+P51805	P-body
+P51812	Stress granule
+P51812	Nucleolus
+P51813	P-body
+P51813	Nucleolus
+P51813	Cajal body
+P51813	PML nuclear body
+P51813	P-body
+P51817	Cajal body
+P51858	Nuclear stress body
+P51991	Nuclear body
+P51991	Stress granule
+P51991	Stress granule
+P51991	Splicesome
+P51991	Nuclear stress body
+P51991-2	Nuclear stress body
+P52272	Nuclear body
+P52272	P-body
+P52272	Nucleolus
+P52272	Stress granule
+P52272	Splicesome
+P52292	Stress granule
+P52292	Nucleolus
+P52294	Nuclear body
+P52294	Stress granule
+P52298	Nuclear body
+P52298	Stress granule
+P52298	Splicesome
+P52433	Nuclear body
+P52434	Nucleolus
+P52434	Stress granule
+P52436	Nucleolus
+P52594	Stress granule
+P52597	Nuclear body
+P52597	Stress granule
+P52597	Nucleolus
+P52597	Paraspeckle
+P52597	Stress granule
+P52597	Splicesome
+P52597	Nuclear speckle
+P52630	Stress granule
+P52701	Stress granule
+P52701	Stress granule
+P52732	Paraspeckle
+P52735	Stress granule
+P52737	Nucleolus
+P52739	Nuclear speckle
+P52746	Nucleolus
+P52756	Splicesome
+P52789	P-body
+P52789	P-body
+P52789	Stress granule
+P52815	Nucleolus
+P52815	Paraspeckle
+P52895	Nucleolus
+P52907	Paraspeckle
+P52907	Nuclear stress body
+P52926	Nucleolus
+P52943	Nucleolus
+P52948	Stress granule
+P52948	Stress granule
+P53007	Stress granule
+P53025	Nucleolus
+P53041	P-body
+P53041	P-body
+P53350	Stress granule
+P53365	Nucleolus
+P53370	P-body
+P53370	P-body
+P53582	Stress granule
+P53582	Nucleolus
+P53582	Stress granule
+P53597	Stress granule
+P53680	Stress granule
+P53779	P-body
+P53779	P-body
+P53803	Nucleolus
+P53804	Nucleolus
+P53985	Stress granule
+P53992	Stress granule
+P53992	Stress granule
+P53999	Nucleolus
+P53999	Nucleolus
+P54105	Stress granule
+P54105	Paraspeckle
+P54105	Splicesome
+P54132	Nucleolus
+P54136	Stress granule
+P54252	Nucleolus
+P54253	Nucleolus
+P54257	Nucleolus
+P54274	Nucleolus
+P54577	Stress granule
+P54577	Stress granule
+P54619	Stress granule
+P54652	P-body
+P54753	Nuclear speckle
+P54760	Nucleolus
+P54821	P-body
+P54821	Nuclear speckle
+P54821	P-body
+P54829	Nuclear speckle
+P54886	Stress granule
+P55010	Stress granule
+P55036	Paraspeckle
+P55060	Stress granule
+P55072	Stress granule
+P55081	Nuclear body
+P55081	Stress granule
+P55081	Splicesome
+P55081	Nuclear speckle
+P55145	Nucleolus
+P55199	PML nuclear body
+P55265	Stress granule
+P55265	Nucleolus
+P55265	Stress granule
+P55265	Nucleolus
+P55265	Nuclear stress body
+P55265-2	Nuclear stress body
+P55265-3	Nuclear stress body
+P55265-4	Nuclear stress body
+P55265-5	Nuclear stress body
+P55317	Nucleolus
+P55327	Nuclear body
+P55344	Stress granule
+P55769	Nucleolus
+P55769	Splicesome
+P55786	Stress granule
+P55795	Nuclear body
+P55795	Stress granule
+P55795	Splicesome
+P55795	Nuclear speckle
+P55854	Nuclear body
+P55884	Stress granule
+P55884	Stress granule
+P56182	Nucleolus
+P56182	Nucleolus
+P56182	Nucleolus
+P56192	Stress granule
+P56192	Stress granule
+P56378	Nucleolus
+P56537	Nucleolus
+P56537	Nuclear stress body
+P56556	Stress granule
+P56557	Nucleolus
+P56962	Nucleolus
+P57053	Nuclear stress body
+P57078	P-body
+P57088	Stress granule
+P57678	Stress granule
+P57678	SMN complex
+P57721	Paraspeckle
+P57740	Stress granule
+P58107	Stress granule
+P58317	Nucleolus
+P58397	Stress granule
+P58397	Nucleolus
+P58876	Nucleolus
+P58876	Nuclear stress body
+P59534	Stress granule
+P59998	Nucleolus
+P60228	Stress granule
+P60228	Stress granule
+P60228	Nuclear stress body
+P60520	Stress granule
+P60660	Stress granule
+P60709	Paraspeckle
+P60709	Nuclear stress body
+P60709	IMP1 ribonucleoprotein granule
+P60842	Stress granule
+P60842	Stress granule
+P60900	P-body
+P60900	P-body
+P60981	Stress granule
+P61011	Nucleolus
+P61026	Stress granule
+P61026	Stress granule
+P61073	Stress granule
+P61081	Stress granule
+P61081	Stress granule
+P61088	Nucleolus
+P61106	Nuclear stress body
+P61163	Stress granule
+P61218	Nucleolus
+P61221	Stress granule
+P61247	Stress granule
+P61247	Nucleolus
+P61247	Nucleolus
+P61247	IMP1 ribonucleoprotein granule
+P61254	P-body
+P61254	Stress granule
+P61254	Nucleolus
+P61278	Stress granule
+P61289	Nuclear speckle
+P61313	Nucleolus
+P61326	Splicesome
+P61353	Paraspeckle
+P61513	Stress granule
+P61626	P-body
+P61758	Stress granule
+P61923	Stress granule
+P61956	Cajal body
+P61956	PML nuclear body
+P61964	Paraspeckle
+P61964	Stress granule
+P61966	Stress granule
+P61978	Stress granule
+P61978	Paraspeckle
+P61978	Splicesome
+P61978	Nuclear stress body
+P61978-2	Nuclear stress body
+P61978-3	Nuclear stress body
+P61981	P-body
+P61981	Nucleolus
+P62068	Nucleolus
+P62081	Nuclear stress body
+P62136	Stress granule
+P62136	Splicesome
+P62136	Nuclear stress body
+P62140	Paraspeckle
+P62140	Nucleolus
+P62140	Nuclear stress body
+P62158	Paraspeckle
+P62158	Nuclear stress body
+P62241	Paraspeckle
+P62241	Nucleolus
+P62241	Nuclear stress body
+P62241	IMP1 ribonucleoprotein granule
+P62249	P-body
+P62258	Nucleolus
+P62263	Nucleolus
+P62277	Nucleolus
+P62280	Stress granule
+P62280	Nucleolus
+P62304	Cajal body
+P62304	Splicesome
+P62304	SMN complex
+P62306	Stress granule
+P62306	Splicesome
+P62306	SMN complex
+P62308	Paraspeckle
+P62308	Cajal body
+P62308	Splicesome
+P62308	SMN complex
+P62310	P-body
+P62310	Stress granule
+P62310	P-body
+P62310	Nucleolus
+P62310	Splicesome
+P62310	Nuclear speckle
+P62312	P-body
+P62312	Splicesome
+P62314	Stress granule
+P62314	Cajal body
+P62314	Splicesome
+P62314	SMN complex
+P62316	Stress granule
+P62316	Splicesome
+P62316	SMN complex
+P62318	Splicesome
+P62318	Nuclear speckle
+P62318	SMN complex
+P62333	Stress granule
+P62380	Nucleolus
+P62424	Nucleolus
+P62495	P-body
+P62495	Stress granule
+P62701	P-body
+P62701	IMP1 ribonucleoprotein granule
+P62714	Stress granule
+P62714	Nuclear stress body
+P62736	Stress granule
+P62750	Nucleolus
+P62750	Nucleolus
+P62753	Stress granule
+P62753	Nucleolus
+P62805	Nuclear stress body
+P62807	Nuclear stress body
+P62820	Stress granule
+P62826	Stress granule
+P62841	Nucleolus
+P62841	Nuclear stress body
+P62847	Stress granule
+P62847	Stress granule
+P62847	Nuclear stress body
+P62847-2	Nuclear stress body
+P62847-3	Nuclear stress body
+P62851	Nucleolus
+P62854	Nucleolus
+P62861	Stress granule
+P62861	Nucleolus
+P62879	Stress granule
+P62888	Paraspeckle
+P62899	Nucleolus
+P62906	Nucleolus
+P62910	Stress granule
+P62910	Nucleolus
+P62913	P-body
+P62913	Nucleolus
+P62913	P-body
+P62913	Stress granule
+P62913	Nucleolus
+P62917	Nucleolus
+P62952	Nucleolus
+P62979	P-body
+P62979	Nucleolus
+P62979	PML nuclear body
+P62979	Nucleolus
+P62979	Nuclear stress body
+P62987	Nuclear stress body
+P62993	Stress granule
+P62995	Stress granule
+P62995	Stress granule
+P62995	Splicesome
+P62995	Nuclear speckle
+P63000	Stress granule
+P63000	Nucleolus
+P63010	Stress granule
+P63096	Nucleolus
+P63098	PML nuclear body
+P63104	Nucleolus
+P63162	Cajal body
+P63165	Nuclear speckle
+P63165	Nucleolus
+P63167	Stress granule
+P63167	Nuclear stress body
+P63208	Stress granule
+P63220	Stress granule
+P63241	Stress granule
+P63244	Stress granule
+P63244	Splicesome
+P63261	Paraspeckle
+P63261	Stress granule
+P63261	Nuclear stress body
+P67775	Nuclear stress body
+P67809	P-body
+P67809	Stress granule
+P67809	Paraspeckle
+P67809	Nucleolus
+P67809	P-body
+P67809	Stress granule
+P67809	Splicesome
+P67809	Nuclear stress body
+P67809	IMP1 ribonucleoprotein granule
+P68032	Stress granule
+P68104	Nucleolus
+P68363	Paraspeckle
+P68366	P-body
+P68366	Stress granule
+P68366	Stress granule
+P68371	Paraspeckle
+P68402	Nucleolus
+P78312	P-body
+P78316	Nucleolus
+P78317	Stress granule
+P78317	Nucleolus
+P78317	Stress granule
+P78332	Paraspeckle
+P78337	Nucleolus
+P78344	Stress granule
+P78344	Stress granule
+P78345	Nucleolus
+P78346	Nucleolus
+P78346	Stress granule
+P78346	Nucleolus
+P78347	Nucleolus
+P78347	Stress granule
+P78362	Splicesome
+P78371	Nucleolus
+P78406	Nuclear body
+P78406	Nucleolus
+P78406	Nucleolus
+P78406	Nucleolus
+P78509	Stress granule
+P78527	Stress granule
+P78527	Nucleolus
+P80192	Nucleolus
+P80404	Cajal body
+P81605	Stress granule
+P82650	Stress granule
+P82914	Nucleolus
+P82930	Stress granule
+P82933	Stress granule
+P82979	Nucleolus
+P82979	Nucleolus
+P82979	Cajal body
+P82979	Nuclear speckle
+P83369	SMN complex
+P83731	Paraspeckle
+P83876	Splicesome
+P83881	Stress granule
+P83916	Stress granule
+P84077	Stress granule
+P84090	Paraspeckle
+P84090	Stress granule
+P84090	Nuclear speckle
+P84090	SMN complex
+P84095	Stress granule
+P84098	Stress granule
+P84098	Nucleolus
+P84098	Nucleolus
+P84101	Nucleolus
+P84103	Stress granule
+P84103	Splicesome
+P84103	SMN complex
+P85037	Nucleolus
+P86397	Nucleolus
+P98073	Nucleolus
+P98082	Nucleolus
+P98161	Nuclear speckle
+P98170	Paraspeckle
+P98173	Nucleolus
+P98175	Paraspeckle
+P98175	Stress granule
+P98175	Splicesome
+P98175	Nuclear speckle
+P98179	Stress granule
+P98179	Nucleolus
+Q00005	Stress granule
+Q00005	Nucleolus
+Q00005	Nuclear speckle
+Q00005	Stress granule
+Q00325	PML nuclear body
+Q00325	Stress granule
+Q00341	Stress granule
+Q00341	Stress granule
+Q00403	Nucleolus
+Q00403	Stress granule
+Q00535	Stress granule
+Q00577	Stress granule
+Q00577	Stress granule
+Q00604	Nucleolus
+Q00610	Nuclear body
+Q00610	Nuclear stress body
+Q00610-2	Nuclear stress body
+Q00839	Nuclear body
+Q00839	P-body
+Q00839	Nucleolus
+Q00839	Splicesome
+Q00839	SMN complex
+Q00839	Nuclear stress body
+Q00839	IMP1 ribonucleoprotein granule
+Q00839-2	Nuclear stress body
+Q01081	Nuclear body
+Q01081	Stress granule
+Q01081	Nuclear speckle
+Q01081	Stress granule
+Q01081	Splicesome
+Q01081	Nuclear speckle
+Q01082	P-body
+Q01082	Paraspeckle
+Q01082	Stress granule
+Q01085	Stress granule
+Q01085	Stress granule
+Q01130	Nuclear body
+Q01130	Stress granule
+Q01130	Nucleolus
+Q01130	Stress granule
+Q01130	Splicesome
+Q01130	Nuclear speckle
+Q01469	P-body
+Q01469	Stress granule
+Q01518	Stress granule
+Q01780	Nucleolus
+Q01780	Stress granule
+Q01780	Nucleolus
+Q01804	Stress granule
+Q01804	Paraspeckle
+Q01831	Stress granule
+Q01844	Nuclear body
+Q01844	Nucleolus
+Q01844	Paraspeckle
+Q01844	Stress granule
+Q01844	Nucleolus
+Q01844	SMN complex
+Q01851	Stress granule
+Q01968	Nucleolus
+Q01968	Cajal body
+Q01974	Cajal body
+Q02040	Nuclear speckle
+Q02045	Nucleolus
+Q02224	Stress granule
+Q02241	P-body
+Q02241	Stress granule
+Q02241	Stress granule
+Q02297	Nucleolus
+Q02413	P-body
+Q02543	Nucleolus
+Q02543	Nucleolus
+Q02546	Nucleolus
+Q02877	Nucleolus
+Q02878	Nucleolus
+Q02878	Nucleolus
+Q02878	Nuclear stress body
+Q02880	P-body
+Q02880	Nucleolus
+Q02962	Nucleolus
+Q02978	Stress granule
+Q02978	Nuclear stress body
+Q03001	Stress granule
+Q03169	Stress granule
+Q03252	P-body
+Q03252	Paraspeckle
+Q03252	Paraspeckle
+Q03393	Paraspeckle
+Q03405	Stress granule
+Q03701	Nucleolus
+Q03721	Nucleolus
+Q03924	Nucleolus
+Q03989	Nucleolus
+Q04323	Stress granule
+Q04637	Stress granule
+Q04637	Stress granule
+Q04726	Sam68 nuclear body
+Q04726	Nuclear speckle
+Q04741	Nucleolus
+Q04760	Stress granule
+Q04771	Nucleolus
+Q04917	Stress granule
+Q04917	Paraspeckle
+Q04917	Nucleolus
+Q04984	Nucleolus
+Q05048	Stress granule
+Q05397	P-body
+Q05397	P-body
+Q05472	Nucleolus
+Q05516	P-body
+Q05516	Nucleolus
+Q05516	PML nuclear body
+Q05516	Nuclear speckle
+Q05516	P-body
+Q05519	Paraspeckle
+Q05639	Nucleolus
+Q05682	Stress granule
+Q05823	Stress granule
+Q05925	Nucleolus
+Q05952	Nucleolus
+Q05996	Stress granule
+Q06124	PML nuclear body
+Q06124	Nucleolus
+Q06210	Stress granule
+Q06210	Nucleolus
+Q06265	Nuclear body
+Q06265	Nucleolus
+Q06265	Stress granule
+Q06265	Nucleolus
+Q06323	Stress granule
+Q06587	Nucleolus
+Q06609	Nucleolus
+Q06730	Nucleolus
+Q06732	Nucleolus
+Q06787	P-body
+Q06787	Stress granule
+Q06787	Nucleolus
+Q06787	PML nuclear body
+Q06787	Stress granule
+Q06830	Stress granule
+Q06830	Nucleolus
+Q06830	Paraspeckle
+Q07011	Nucleolus
+Q07020	Nucleolus
+Q07020	Stress granule
+Q07020	Nucleolus
+Q07021	Paraspeckle
+Q07065	Stress granule
+Q07065	Nuclear stress body
+Q07157	Stress granule
+Q07161	Nuclear stress body
+Q07244	Nuclear body
+Q07244	Nucleolus
+Q07352	P-body
+Q07666	Stress granule
+Q07666	Nucleolus
+Q07666	Stress granule
+Q07666	Splicesome
+Q07666	Nuclear stress body
+Q07666	Sam68 nuclear body
+Q07666-2	Nuclear stress body
+Q07666-3	Nuclear stress body
+Q07864	Nuclear body
+Q07912	Nucleolus
+Q07955	Stress granule
+Q07955	Nucleolus
+Q07955	Nucleolus
+Q07955	PML nuclear body
+Q07955	Nuclear speckle
+Q07955	Splicesome
+Q07955	Nuclear speckle
+Q08050	Nucleolus
+Q08170	Nuclear body
+Q08170	Stress granule
+Q08170	Splicesome
+Q08174	Nucleolus
+Q08209	Nucleolus
+Q08211	Nuclear body
+Q08211	P-body
+Q08211	Stress granule
+Q08211	Nucleolus
+Q08211	Stress granule
+Q08211	Stress granule
+Q08211	Splicesome
+Q08211	Nuclear stress body
+Q08211	IMP1 ribonucleoprotein granule
+Q08345	P-body
+Q08345	P-body
+Q08379	Stress granule
+Q08379	Stress granule
+Q08493	P-body
+Q08493	Nucleolus
+Q08493	Cajal body
+Q08493	P-body
+Q08554	P-body
+Q08752	Nucleolus
+Q08945	Nucleolus
+Q08945	Stress granule
+Q08999	Nucleolus
+Q08AD1	Stress granule
+Q08J23	Stress granule
+Q08J23	Nuclear stress body
+Q09013	P-body
+Q09013	P-body
+Q09028	Nuclear body
+Q09028	Stress granule
+Q09028	Nucleolus
+Q09028	Nuclear stress body
+Q09028-3	Nuclear stress body
+Q09161	Nuclear body
+Q09161	P-body
+Q09161	Stress granule
+Q09161	Splicesome
+Q09428	Nucleolus
+Q09472	Stress granule
+Q09666	Paraspeckle
+Q09666	Nuclear stress body
+Q09FC8	Nucleolus
+Q0P6H9	Nucleolus
+Q0PNE2	Stress granule
+Q0VGE8	Nucleolus
+Q0ZGT2	Stress granule
+Q10471	Stress granule
+Q10567	Stress granule
+Q10586	Stress granule
+Q12766	Nucleolus
+Q12768	Stress granule
+Q12769	Stress granule
+Q12788	Nucleolus
+Q12789	Nucleolus
+Q12792	Nuclear speckle
+Q12796	P-body
+Q12796	Nucleolus
+Q12797	Stress granule
+Q12802	Stress granule
+Q12802	Stress granule
+Q12803	Nucleolus
+Q12816	Nucleolus
+Q12824	Nucleolus
+Q12840	Stress granule
+Q12849	Stress granule
+Q12851	Nuclear speckle
+Q12873	P-body
+Q12873	Nucleolus
+Q12873	Cajal body
+Q12873	P-body
+Q12873	Nucleolus
+Q12874	Nucleolus
+Q12874	Splicesome
+Q12874	Nuclear speckle
+Q12887	Nucleolus
+Q12905	P-body
+Q12905	Splicesome
+Q12905	Nuclear stress body
+Q12905	IMP1 ribonucleoprotein granule
+Q12906	P-body
+Q12906	Stress granule
+Q12906	Nucleolus
+Q12906	Stress granule
+Q12906	Nucleolus
+Q12906	Nuclear body
+Q12906	Nucleolus
+Q12906	Splicesome
+Q12906	IMP1 ribonucleoprotein granule
+Q12907	Stress granule
+Q12923	Nucleolus
+Q12926	P-body
+Q12926	Stress granule
+Q12931	Stress granule
+Q12933	Stress granule
+Q12951	Nucleolus
+Q12965	Stress granule
+Q12972	Stress granule
+Q12972	Nuclear speckle
+Q12972	Splicesome
+Q12986	Stress granule
+Q12986	Stress granule
+Q12987	Nucleolus
+Q13011	Stress granule
+Q13018	Stress granule
+Q13042	Stress granule
+Q13045	Stress granule
+Q13085	Nuclear body
+Q13085	Nucleolus
+Q13106	Nucleolus
+Q13111	Stress granule
+Q13123	Stress granule
+Q13123	Stress granule
+Q13123	Nuclear body
+Q13123	Splicesome
+Q13126	Stress granule
+Q13129	Nucleolus
+Q13131	P-body
+Q13131	Nucleolus
+Q13131	P-body
+Q13136	Stress granule
+Q13145	Nucleolus
+Q13148	Stress granule
+Q13148	Paraspeckle
+Q13148	Stress granule
+Q13148	Cajal body
+Q13151	Nucleolus
+Q13151	Paraspeckle
+Q13151	Splicesome
+Q13151	Nuclear stress body
+Q13162	Paraspeckle
+Q13162	Stress granule
+Q13163	Nucleolus
+Q13185	Nucleolus
+Q13185	Paraspeckle
+Q13185	Stress granule
+Q13190	Stress granule
+Q13200	Stress granule
+Q13200	Stress granule
+Q13203	Nucleolus
+Q13206	P-body
+Q13206	Nucleolus
+Q13206	Nucleolus
+Q13228	Nucleolus
+Q13232	Stress granule
+Q13232	Nuclear stress body
+Q13233	Nucleolus
+Q13233	PML nuclear body
+Q13242	Nuclear body
+Q13242	P-body
+Q13242	Stress granule
+Q13242	Cajal body
+Q13242	P-body
+Q13242	Stress granule
+Q13242	Nucleolus
+Q13242	Splicesome
+Q13242	Nuclear speckle
+Q13243	Nuclear body
+Q13243	P-body
+Q13243	Stress granule
+Q13243	Nucleolus
+Q13243	Cajal body
+Q13243	P-body
+Q13243	Stress granule
+Q13243	Nucleolus
+Q13243	Splicesome
+Q13247	Nucleolus
+Q13247	Stress granule
+Q13247	Splicesome
+Q13247	Nuclear speckle
+Q13263	Nucleolus
+Q13263	Stress granule
+Q13263	Nuclear stress body
+Q13263-2	Nuclear stress body
+Q13283	Stress granule
+Q13283	Paraspeckle
+Q13308	P-body
+Q13308	P-body
+Q13310	Stress granule
+Q13310	Stress granule
+Q13310	Nuclear body
+Q13310	IMP1 ribonucleoprotein granule
+Q13315	Nucleolus
+Q13342	Nucleolus
+Q13347	Stress granule
+Q13356	Splicesome
+Q13370	P-body
+Q13370	P-body
+Q13409	Paraspeckle
+Q13409	Stress granule
+Q13409	Nucleolus
+Q13425	Stress granule
+Q13427	Nuclear speckle
+Q13427	Splicesome
+Q13428	Nucleolus
+Q13428	Nucleolus
+Q13435	Nuclear body
+Q13435	Nucleolus
+Q13435	Paraspeckle
+Q13435	Splicesome
+Q13435	Nuclear speckle
+Q13435	Nuclear stress body
+Q13442	Stress granule
+Q13454	Stress granule
+Q13464	Stress granule
+Q13480	Nucleolus
+Q13490	Nucleolus
+Q13501	P-body
+Q13501	P-body
+Q13501	Stress granule
+Q13503	Nuclear body
+Q13503	Nucleolus
+Q13503	Nucleolus
+Q13507	P-body
+Q13509	Stress granule
+Q13509	Stress granule
+Q13522	Nucleolus
+Q13522	Cajal body
+Q13523	Nucleolus
+Q13523	Cajal body
+Q13523	Splicesome
+Q13523	Nuclear speckle
+Q13526	Stress granule
+Q13526	Nucleolus
+Q13526	Cajal body
+Q13526	Nuclear speckle
+Q13526	Stress granule
+Q13547	Nuclear body
+Q13547	Nucleolus
+Q13547	Nuclear stress body
+Q13555	Nucleolus
+Q13561	Paraspeckle
+Q13573	Nuclear body
+Q13573	Nucleolus
+Q13573	Splicesome
+Q13573	Nuclear speckle
+Q13595	Stress granule
+Q13595	Nucleolus
+Q13595	Splicesome
+Q13595	Nuclear speckle
+Q13596	Stress granule
+Q13601	Nucleolus
+Q13601	Nuclear body
+Q13601	Nucleolus
+Q13608	Nuclear speckle
+Q13610	Stress granule
+Q13610	Nucleolus
+Q13610	Nucleolus
+Q13616	Nucleolus
+Q13619	Stress granule
+Q13620	Stress granule
+Q13627	P-body
+Q13627	P-body
+Q13627	Nucleolus
+Q13642	Stress granule
+Q13642	Stress granule
+Q13705	P-body
+Q13705	P-body
+Q13748	Stress granule
+Q13765	Paraspeckle
+Q13769	Splicesome
+Q13772	Nucleolus
+Q13813	P-body
+Q13813	Paraspeckle
+Q13813	Stress granule
+Q13813	Nuclear stress body
+Q13813-2	Nuclear stress body
+Q13813-3	Nuclear stress body
+Q13822	Cajal body
+Q13823	Nucleolus
+Q13823	Nucleolus
+Q13829	Nucleolus
+Q13835	Stress granule
+Q13835	Nucleolus
+Q13835	PML nuclear body
+Q13838	Nuclear body
+Q13838	Nucleolus
+Q13838	Splicesome
+Q13868	Nucleolus
+Q13868	Nucleolus
+Q13882	Stress granule
+Q13882	Nucleolus
+Q13882	Stress granule
+Q13885	Paraspeckle
+Q13888	Nucleolus
+Q13895	Stress granule
+Q13895	Nucleolus
+Q13895	Stress granule
+Q13895	Nucleolus
+Q13901	Nucleolus
+Q13946	Cajal body
+Q13946	Nuclear speckle
+Q13951	Stress granule
+Q14004	Nuclear speckle
+Q14008	Stress granule
+Q14008	Nucleolus
+Q14011	Stress granule
+Q14011	Splicesome
+Q14055	P-body
+Q14061	Nuclear stress body
+Q14088	Nucleolus
+Q14103	Stress granule
+Q14103	Paraspeckle
+Q14103	Stress granule
+Q14103	Splicesome
+Q14103	IMP1 ribonucleoprotein granule
+Q14135	Nucleolus
+Q14137	Nucleolus
+Q14137	PML nuclear body
+Q14137	Nucleolus
+Q14145	Stress granule
+Q14146	Nucleolus
+Q14146	Nucleolus
+Q14151	P-body
+Q14151	Stress granule
+Q14152	Stress granule
+Q14152	Stress granule
+Q14153	Paraspeckle
+Q14155	Stress granule
+Q14157	Stress granule
+Q14157	Stress granule
+Q14160	Stress granule
+Q14166	Stress granule
+Q14181	Stress granule
+Q14183	Nucleolus
+Q14185	Stress granule
+Q14191	Nucleolus
+Q14192	Stress granule
+Q14195	Stress granule
+Q14201	P-body
+Q14203	Stress granule
+Q14203	Stress granule
+Q14204	Nucleolus
+Q14204	Nuclear stress body
+Q14232	Stress granule
+Q14232	Stress granule
+Q14240	Stress granule
+Q14240	Stress granule
+Q14241	Nucleolus
+Q14241	Nucleolus
+Q14244	Stress granule
+Q14247	Paraspeckle
+Q14257	Paraspeckle
+Q14258	Stress granule
+Q14258	Stress granule
+Q14258	Nuclear stress body
+Q14259	Nuclear body
+Q14259	Nucleolus
+Q14281	Nucleolus
+Q14296	P-body
+Q14296	Stress granule
+Q14296	P-body
+Q14315	Paraspeckle
+Q14315	Stress granule
+Q14320	Splicesome
+Q14331	Nucleolus
+Q14331	Stress granule
+Q14331	Splicesome
+Q14332	Stress granule
+Q14432	P-body
+Q14432	Cajal body
+Q14432	P-body
+Q14432	Stress granule
+Q14444	Stress granule
+Q14444	Paraspeckle
+Q14444	Nuclear speckle
+Q14493	Stress granule
+Q14493	Nucleolus
+Q14498	Nucleolus
+Q14498	Splicesome
+Q14498	Nuclear speckle
+Q14524	Nucleolus
+Q14554	Nucleolus
+Q14558	Stress granule
+Q14562	Nucleolus
+Q14562	Splicesome
+Q14566	Nucleolus
+Q14566	Paraspeckle
+Q14566	Stress granule
+Q14576	Stress granule
+Q14656	Nucleolus
+Q14671	P-body
+Q14671	Stress granule
+Q14671	Nucleolus
+Q14671	Cajal body
+Q14671	P-body
+Q14671	Stress granule
+Q14677	Stress granule
+Q14681	Paraspeckle
+Q14683	P-body
+Q14683	Nucleolus
+Q14683	Nucleolus
+Q14683	Stress granule
+Q14683	Nuclear stress body
+Q14684	Nucleolus
+Q14684	Stress granule
+Q14684	Nucleolus
+Q14687	Nuclear body
+Q14690	Nucleolus
+Q14690	Nucleolus
+Q14692	Nucleolus
+Q14692	Nucleolus
+Q14694	Stress granule
+Q14694	Stress granule
+Q14738	Stress granule
+Q14739	Stress granule
+Q14766	Paraspeckle
+Q14781	Polycomb body
+Q14839	Nuclear body
+Q14839	Nucleolus
+Q14839	Nuclear stress body
+Q14839-2	Nuclear stress body
+Q14847	Stress granule
+Q14934	Stress granule
+Q14957	P-body
+Q14966	Stress granule
+Q14974	Nuclear body
+Q14974	Stress granule
+Q14978	Stress granule
+Q14978	Nucleolus
+Q14978	Cajal body
+Q14978	Nucleolus
+Q14978	Nucleolus
+Q14980	P-body
+Q14980	Nuclear stress body
+Q14980-2	Nuclear stress body
+Q14981	Nucleolus
+Q14BN4	Nuclear stress body
+Q14BN4-6	Nuclear stress body
+Q14BN4-7	Nuclear stress body
+Q14C86	Stress granule
+Q14D04	Nucleolus
+Q15003	Stress granule
+Q15006	Stress granule
+Q15007	Nuclear speckle
+Q15013	Nucleolus
+Q15019	Nucleolus
+Q15019	Stress granule
+Q15019	Nuclear stress body
+Q15019-2	Nuclear stress body
+Q15020	Stress granule
+Q15021	Stress granule
+Q15021	Nucleolus
+Q15022	Nucleolus
+Q15024	Nucleolus
+Q15024	Stress granule
+Q15027	Stress granule
+Q15029	P-body
+Q15029	Nucleolus
+Q15029	Stress granule
+Q15029	Splicesome
+Q15029	Nuclear speckle
+Q15031	Stress granule
+Q15032	Stress granule
+Q15038	Stress granule
+Q15041	Stress granule
+Q15042	Stress granule
+Q15046	Stress granule
+Q15050	Nucleolus
+Q15050	Nucleolus
+Q15050	Nucleolus
+Q15056	Stress granule
+Q15057	Paraspeckle
+Q15061	Nucleolus
+Q15067	Nucleolus
+Q15072	Nucleolus
+Q15084	Paraspeckle
+Q15102	Stress granule
+Q15109	Nucleolus
+Q15118	Nucleolus
+Q15120	Nucleolus
+Q15124	Stress granule
+Q15124	Nucleolus
+Q15124	Nuclear speckle
+Q15124	Stress granule
+Q15131	Splicesome
+Q15149	Nucleolus
+Q15149	Stress granule
+Q15165	Stress granule
+Q15172	PML nuclear body
+Q15173	Nucleolus
+Q15181	Paraspeckle
+Q15181	Nuclear stress body
+Q15185	Stress granule
+Q15185	Stress granule
+Q15198	Nucleolus
+Q15208	PML nuclear body
+Q15233	Nuclear body
+Q15233	P-body
+Q15233	Nucleolus
+Q15233	Paraspeckle
+Q15233	Nucleolus
+Q15233	P-body
+Q15233	Stress granule
+Q15233	Nucleolus
+Q15233	Paraspeckle
+Q15233	SMN complex
+Q15233	Nuclear stress body
+Q15256	Cajal body
+Q15257	Stress granule
+Q15257	Cajal body
+Q15257	Stress granule
+Q15269	Nucleolus
+Q15269	Nucleolus
+Q15286	Stress granule
+Q15287	Nuclear speckle
+Q15287	Splicesome
+Q15287	Nuclear speckle
+Q15291	Nuclear speckle
+Q15291	Nucleolus
+Q15327	Nucleolus
+Q15329	Nucleolus
+Q15357	Nuclear body
+Q15357	Nucleolus
+Q15361	P-body
+Q15361	Nucleolus
+Q15361	P-body
+Q15361	Nucleolus
+Q15365	P-body
+Q15365	Stress granule
+Q15365	Nucleolus
+Q15365	Splicesome
+Q15366	P-body
+Q15366	Stress granule
+Q15366	Stress granule
+Q15366	Splicesome
+Q15369	Nucleolus
+Q15370	Stress granule
+Q15375	Nucleolus
+Q15375	Nuclear speckle
+Q15382	Stress granule
+Q15386	Stress granule
+Q15392	Stress granule
+Q15393	Stress granule
+Q15393	Nucleolus
+Q15393	Splicesome
+Q15393	Nuclear speckle
+Q15397	Nucleolus
+Q15397	Nucleolus
+Q15398	Stress granule
+Q15404	Stress granule
+Q15417	Stress granule
+Q15417	Stress granule
+Q15418	Cajal body
+Q15418	Nuclear speckle
+Q15427	Nuclear body
+Q15427	Splicesome
+Q15427	Nuclear speckle
+Q15428	Paraspeckle
+Q15428	Splicesome
+Q15434	Stress granule
+Q15434	Nucleolus
+Q15435	Nucleolus
+Q15438	Nucleolus
+Q15459	Nuclear body
+Q15459	Paraspeckle
+Q15459	Splicesome
+Q15459	Nuclear speckle
+Q15475	Nucleolus
+Q15477	Stress granule
+Q15527	Stress granule
+Q15527	Nucleolus
+Q15543	Nucleolus
+Q15555	Stress granule
+Q15555	Stress granule
+Q15572	Nucleolus
+Q15583	PML nuclear body
+Q15620	Stress granule
+Q15628	Stress granule
+Q15629	Stress granule
+Q15631	Stress granule
+Q15637	Stress granule
+Q15637	Splicesome
+Q15643	Nuclear stress body
+Q15646	Stress granule
+Q15650	Stress granule
+Q15654	Stress granule
+Q15678	PML nuclear body
+Q15691	Stress granule
+Q15717	P-body
+Q15717	Stress granule
+Q15717	Nucleolus
+Q15717	Nucleolus
+Q15717	Splicesome
+Q15735	Nucleolus
+Q15738	Stress granule
+Q15742	Nuclear body
+Q15750	Paraspeckle
+Q15773	Nuclear speckle
+Q15777	Nucleolus
+Q15785	Stress granule
+Q15785	Stress granule
+Q15796	Nucleolus
+Q15800	Stress granule
+Q15815	Nucleolus
+Q15935	Nucleolus
+Q15937	Nucleolus
+Q15942	Paraspeckle
+Q15942	Stress granule
+Q16051	Nucleolus
+Q16181	Nucleolus
+Q16181	Nucleolus
+Q16186	Nuclear body
+Q16288	Nucleolus
+Q16384	Nucleolus
+Q16385	Nucleolus
+Q16514	Stress granule
+Q16527	Stress granule
+Q16531	Nucleolus
+Q16531	Stress granule
+Q16533	Nucleolus
+Q16540	Nucleolus
+Q16543	Stress granule
+Q16543	Paraspeckle
+Q16555	Stress granule
+Q16559	Nucleolus
+Q16560	Nucleolus
+Q16563	Stress granule
+Q16566	P-body
+Q16566	Nucleolus
+Q16566	P-body
+Q16566	Nucleolus
+Q16576	Nucleolus
+Q16576	Paraspeckle
+Q16584	Nucleolus
+Q16629	Stress granule
+Q16629	Nucleolus
+Q16629	Stress granule
+Q16629	Splicesome
+Q16629	Nuclear speckle
+Q16630	Stress granule
+Q16630	Nucleolus
+Q16630	Stress granule
+Q16630	Paraspeckle
+Q16630	Nuclear speckle
+Q16633	Nuclear body
+Q16637	Stress granule
+Q16637	Stress granule
+Q16637	Splicesome
+Q16637	SMN complex
+Q16643	Paraspeckle
+Q16643	Stress granule
+Q16658	Stress granule
+Q16666	Cajal body
+Q16666	Nucleolus
+Q16670	Nucleolus
+Q16690	Cajal body
+Q16690	PML nuclear body
+Q16695	Nucleolus
+Q16740	Stress granule
+Q16777	Nuclear stress body
+Q16778	Nucleolus
+Q16795	Stress granule
+Q16825	Nucleolus
+Q16828	P-body
+Q16828	P-body
+Q16836	Nucleolus
+Q16836	Stress granule
+Q16850	Nucleolus
+Q16854	Nuclear speckle
+Q16875	Cajal body
+Q16877	Nucleolus
+Q16877	Nucleolus
+Q16891	Nuclear stress body
+Q16891-2	Nuclear stress body
+Q16891-3	Nuclear stress body
+Q17RN3	Nucleolus
+Q17RY0	Stress granule
+Q1ED39	Nucleolus
+Q1KMD3	Stress granule
+Q1MSJ5	PML nuclear body
+Q27J81	Stress granule
+Q29RF7	Stress granule
+Q2I0M4	Nucleolus
+Q2KHN1	Nuclear speckle
+Q2M2I8	PML nuclear body
+Q2M389	Stress granule
+Q2NKX9	Nucleolus
+Q2Q1W2	P-body
+Q2Q1W2	Stress granule
+Q2Q1W2	P-body
+Q2QGD7	Nucleolus
+Q2TAY7	Stress granule
+Q2TAY7	Splicesome
+Q2TAY7	Nuclear speckle
+Q2TB10	Nucleolus
+Q2TB10	Nucleolus
+Q2TU79	Nuclear stress body
+Q2YD98	Paraspeckle
+Q32M84	Nucleolus
+Q32MK0	Nuclear speckle
+Q32MZ4	Stress granule
+Q32NC0	Nucleolus
+Q32P28	Stress granule
+Q32P28	Nucleolus
+Q32P41	Nucleolus
+Q3B726	Nucleolus
+Q3KQU3	Nuclear stress body
+Q3KQU3-2	Nuclear stress body
+Q3KQU3-4	Nuclear stress body
+Q3KR37	Nucleolus
+Q3MHD2	Stress granule
+Q3MHD2	Stress granule
+Q3MIX3	Stress granule
+Q3MIX3	Stress granule
+Q3SXM5	Stress granule
+Q3SXR2	Nucleolus
+Q3SY89	Nuclear speckle
+Q3YBR2	Stress granule
+Q3ZCM7	Stress granule
+Q3ZCQ8	Nuclear stress body
+Q3ZCQ8-2	Nuclear stress body
+Q460N3	Stress granule
+Q460N5	Stress granule
+Q494X3	Nucleolus
+Q49A92	Nucleolus
+Q49AG3	Nucleolus
+Q4AC94	Stress granule
+Q4G0J3	Nuclear speckle
+Q4G0N7	Nucleolus
+Q4G0S7	Nuclear stress body
+Q4G176	Nuclear stress body
+Q4VC31	Nucleolus
+Q4VCS5	Paraspeckle
+Q4VX76	Nucleolus
+Q4VXU2	Stress granule
+Q504Q3	P-body
+Q52LC2	Nucleolus
+Q52LJ0	Paraspeckle
+Q53EP0	Stress granule
+Q53EV4	Nucleolus
+Q53F19	Splicesome
+Q53GA4	Nucleolus
+Q53GL7	Nucleolus
+Q53GS7	Stress granule
+Q53GS7	Nucleolus
+Q53GS9	Splicesome
+Q53H12	Nuclear speckle
+Q53H47	Nucleolus
+Q53H80	PML nuclear body
+Q53H96	Stress granule
+Q53HC9	Nucleolus
+Q53HL2	Nucleolus
+Q53HL2	Nucleolus
+Q53HV7	Nucleolus
+Q53S58	Nucleolus
+Q53T59	Nucleolus
+Q53T94	Nucleolus
+Q562R1	P-body
+Q562R1	Stress granule
+Q569K4	Nucleolus
+Q56A73	Nucleolus
+Q58A45	P-body
+Q59F66	Nuclear stress body
+Q5BJF2	Stress granule
+Q5BJH7	Stress granule
+Q5BKY9	Nucleolus
+Q5C9Z4	Nucleolus
+Q5DJT8	Nucleolus
+Q5EB52	Stress granule
+Q5EBN2	Nucleolus
+Q5F1R6	Stress granule
+Q5GLZ8	Nucleolus
+Q5HYI8	Stress granule
+Q5HYJ3	Nucleolus
+Q5HYJ3	Nuclear speckle
+Q5HYK3	Stress granule
+Q5HYK3	Nucleolus
+Q5HYN5	Nucleolus
+Q5JR95	Nuclear stress body
+Q5JSL3	Nucleolus
+Q5JST6	Nucleolus
+Q5JSZ5	Stress granule
+Q5JSZ5	Stress granule
+Q5JTH9	Nucleolus
+Q5JTW2	Stress granule
+Q5JVF3	Stress granule
+Q5JVF3	Nucleolus
+Q5JVS0	Stress granule
+Q5JXX7	Nucleolus
+Q5JY01	Nuclear stress body
+Q5JY02	Nuclear stress body
+Q5JYT7	Nucleolus
+Q5K651	Stress granule
+Q5M775	Stress granule
+Q5M775	Nucleolus
+Q5M7Z0	Nucleolus
+Q5M9Q1	Nuclear body
+Q5MJ09	Nucleolus
+Q5MJ10	Nucleolus
+Q5PRF9	Stress granule
+Q5QJ38	Nucleolus
+Q5QJE6	Nucleolus
+Q5QNW6	Nuclear stress body
+Q5QP82	Nucleolus
+Q5QPL9	Nuclear stress body
+Q5QPM0	Nuclear stress body
+Q5QPM1	Nuclear stress body
+Q5QPM2	Nuclear stress body
+Q5RKV6	Stress granule
+Q5S007	P-body
+Q5S007	P-body
+Q5SGD2	Stress granule
+Q5SGD2	Nucleolus
+Q5SGD2	Cajal body
+Q5SGD2	Nuclear speckle
+Q5SGD2	Stress granule
+Q5SQQ9	Nucleolus
+Q5SQT6	Nuclear stress body
+Q5SRE5	Nucleolus
+Q5SXM1	Nucleolus
+Q5SY16	Nucleolus
+Q5SZ07	Nuclear stress body
+Q5SZ08	Nuclear stress body
+Q5SZC9	Nuclear stress body
+Q5SZQ8	Stress granule
+Q5T0B9	Nucleolus
+Q5T124	Nucleolus
+Q5T1M5	Nucleolus
+Q5T280	Nucleolus
+Q5T3I0	Nucleolus
+Q5T447	Paraspeckle
+Q5T481	Nucleolus
+Q5T4B2	Nucleolus
+Q5T4S7	Paraspeckle
+Q5T4S7	Stress granule
+Q5T6C5	Nucleolus
+Q5T6F2	Stress granule
+Q5T6F2	Stress granule
+Q5T6V5	Stress granule
+Q5T6W2	Nuclear stress body
+Q5T7V8	Nucleolus
+Q5T8D3	Stress granule
+Q5T8I3	Nucleolus
+Q5T8P6	Stress granule
+Q5T8P6	Nuclear speckle
+Q5TAP6	Nucleolus
+Q5TAX3	P-body
+Q5TAX3	Stress granule
+Q5TAX3	Nucleolus
+Q5TB30	Nucleolus
+Q5TBA9	Stress granule
+Q5TC79	Nucleolus
+Q5TC82	Stress granule
+Q5TEA3	Nucleolus
+Q5TEE2	Nuclear stress body
+Q5TF21	Stress granule
+Q5TZA2	Stress granule
+Q5U5Q3	Stress granule
+Q5UAW9	Nucleolus
+Q5VIR6	Stress granule
+Q5VT25	Nucleolus
+Q5VT66	Stress granule
+Q5VT97	Nucleolus
+Q5VTB9	Stress granule
+Q5VUJ6	Nucleolus
+Q5VV52	Nucleolus
+Q5VV67	Stress granule
+Q5VW38	Stress granule
+Q5VWJ9	Nucleolus
+Q5VWX1	Sam68 nuclear body
+Q5VY09	Nucleolus
+Q5VYK3	Stress granule
+Q5VZF2	Stress granule
+Q5VZL5	Nucleolus
+Q5VZY2	Nucleolus
+Q5W0B1	P-body
+Q5W0B1	Paraspeckle
+Q63HK3	Nucleolus
+Q63HM1	Stress granule
+Q63HN8	Stress granule
+Q63ZY3	Stress granule
+Q63ZY3	Stress granule
+Q641Q2	Nucleolus
+Q658P3	Nucleolus
+Q659C4	Stress granule
+Q66K14	Nucleolus
+Q66K74	Stress granule
+Q66LE6	PML nuclear body
+Q66LE6	Nuclear speckle
+Q66PJ3	Nuclear speckle
+Q674X7	PML nuclear body
+Q67FW5	Nucleolus
+Q68CZ2	Stress granule
+Q68D10	Nucleolus
+Q68D86	Paraspeckle
+Q68DC2	Nucleolus
+Q68DE3	Nucleolus
+Q68E01	Nucleolus
+Q68EA5	Nucleolus
+Q68G74	Nucleolus
+Q68G75	Nucleolus
+Q69YG0	Nucleolus
+Q69YH5	Nuclear stress body
+Q69YN4	Nuclear speckle
+Q69YQ0	Stress granule
+Q69YQ0	Stress granule
+Q6AI12	Nucleolus
+Q6AW86	Nucleolus
+Q6AZW8	Nucleolus
+Q6BEB4	Nucleolus
+Q6DHV5	Nucleolus
+Q6DKI1	Nucleolus
+Q6DKI1	Nucleolus
+Q6DKI7	Nucleolus
+Q6DN90	Nucleolus
+Q6E0U4	P-body
+Q6EMK4	Nucleolus
+Q6FI13	Nuclear stress body
+Q6GMV2	Stress granule
+Q6I9Y2	Splicesome
+Q6IA17	Nucleolus
+Q6IAN0	Stress granule
+Q6IE36	PML nuclear body
+Q6IPT2	Nucleolus
+Q6IPU0	Nucleolus
+Q6IQ16	Cajal body
+Q6IQ49	Splicesome
+Q6IS24	Nucleolus
+Q6ISU1	Stress granule
+Q6J9G0	Nuclear speckle
+Q6K0P9	Nuclear body
+Q6NSI3	Paraspeckle
+Q6NSI8	Nucleolus
+Q6NSZ9	Nucleolus
+Q6NUM9	Nucleolus
+Q6NW34	Nucleolus
+Q6NW34	Nucleolus
+Q6NX45	PML nuclear body
+Q6NXE6	Stress granule
+Q6NXT1	PML nuclear body
+Q6NYC8	Stress granule
+Q6NZ67	Stress granule
+Q6NZI2	Stress granule
+Q6P050	Nucleolus
+Q6P0N0	Nucleolus
+Q6P158	Stress granule
+Q6P158	Nucleolus
+Q6P158	Splicesome
+Q6P1J9	Stress granule
+Q6P1N0	Nucleolus
+Q6P1Q0	Nucleolus
+Q6P1Q9	Stress granule
+Q6P2C8	Nucleolus
+Q6P2E9	P-body
+Q6P2E9	Stress granule
+Q6P2E9	Nucleolus
+Q6P2E9	Nuclear speckle
+Q6P2E9	P-body
+Q6P2E9	Stress granule
+Q6P2H3	P-body
+Q6P2H3	Nucleolus
+Q6P2Q9	Stress granule
+Q6P2Q9	Splicesome
+Q6P2Q9	Nuclear speckle
+Q6P2Q9	Nuclear stress body
+Q6P3W7	Cajal body
+Q6P3X3	Nucleolus
+Q6P4F7	Nucleolus
+Q6P5R6	Nucleolus
+Q6P5Z2	PML nuclear body
+Q6P996	Stress granule
+Q6P9B6	Nucleolus
+Q6P9G0	Nucleolus
+Q6PEW1	PML nuclear body
+Q6PF15	Nucleolus
+Q6PG37	Nucleolus
+Q6PGP7	Stress granule
+Q6PGQ1	Nucleolus
+Q6PGQ7	Nucleolus
+Q6PHR2	Nucleolus
+Q6PHR2	Cajal body
+Q6PI98	Nucleolus
+Q6PJG6	Stress granule
+Q6PJP8	Nucleolus
+Q6PJT7	Stress granule
+Q6PJT7	Nucleolus
+Q6PJT7	Nuclear speckle
+Q6PK04	Nucleolus
+Q6PK81	Nucleolus
+Q6PKG0	Stress granule
+Q6PKG0	Stress granule
+Q6PL18	Stress granule
+Q6QHC5	Nucleolus
+Q6R2W3	Nucleolus
+Q6RFH5	Nucleolus
+Q6SA08	PML nuclear body
+Q6T311	Nucleolus
+Q6TCH4	Nucleolus
+Q6TFL3	Nucleolus
+Q6UWH4	Nucleolus
+Q6UWP8	P-body
+Q6UWX4	PML nuclear body
+Q6UX04	Paraspeckle
+Q6UX04	Splicesome
+Q6UX34	Nucleolus
+Q6UX72	Nucleolus
+Q6UXB0	Nucleolus
+Q6UXF1	Nucleolus
+Q6UXN9	Stress granule
+Q6UXN9	Nucleolus
+Q6UY11	Nucleolus
+Q6WCQ1	Stress granule
+Q6XZF7	Stress granule
+Q6XZF7	Nucleolus
+Q6Y7W6	Stress granule
+Q6Y7W6	Stress granule
+Q6YP21	Nucleolus
+Q6ZMQ8	Nuclear speckle
+Q6ZMT4	Nucleolus
+Q6ZMV7	Nucleolus
+Q6ZMY3	Nucleolus
+Q6ZN04	P-body
+Q6ZN04	Stress granule
+Q6ZN11	Nucleolus
+Q6ZN17	Stress granule
+Q6ZN17	Nucleolus
+Q6ZNB5	Nucleolus
+Q6ZNF0	P-body
+Q6ZNF0	Nucleolus
+Q6ZNF0	Nuclear speckle
+Q6ZNF0	P-body
+Q6ZNX1	Stress granule
+Q6ZNX1	Nucleolus
+Q6ZQX7	Nucleolus
+Q6ZRH7	Nucleolus
+Q6ZSC3	Nucleolus
+Q6ZT12	Nucleolus
+Q6ZTQ4	Nucleolus
+Q6ZU67	Nucleolus
+Q6ZUJ8	P-body
+Q6ZUJ8	Nucleolus
+Q6ZUJ8	Cajal body
+Q6ZUJ8	P-body
+Q6ZUS6	Nucleolus
+Q6ZUT1	Nucleolus
+Q6ZUT6	Stress granule
+Q6ZUT9	Nucleolus
+Q6ZUU3	Nucleolus
+Q6ZVD7	Nucleolus
+Q6ZVF9	Nucleolus
+Q70EK9	Nucleolus
+Q70IA6	Nucleolus
+Q70J99	Stress granule
+Q70Z53	Splicesome
+Q712K3	Nucleolus
+Q719H9	Nucleolus
+Q71F23	P-body
+Q71RC2	Stress granule
+Q71RC2	Stress granule
+Q71RC2	Nucleolus
+Q71UI9	Stress granule
+Q71UM5	Nucleolus
+Q75WM6	Nucleolus
+Q76FK4	Nucleolus
+Q76I76	PML nuclear body
+Q76NI1	Stress granule
+Q7KZF4	Stress granule
+Q7L014	Stress granule
+Q7L014	Splicesome
+Q7L014	Nuclear speckle
+Q7L0Y3	Stress granule
+Q7L190	Nucleolus
+Q7L2E3	P-body
+Q7L2E3	Stress granule
+Q7L2E3	Stress granule
+Q7L2H7	Stress granule
+Q7L2H7	Stress granule
+Q7L3S4	Nucleolus
+Q7L3T8	Nucleolus
+Q7L4I2	Nucleolus
+Q7L523	Stress granule
+Q7L576	Stress granule
+Q7L590	Nucleolus
+Q7L5A3	Nucleolus
+Q7L5D6	Stress granule
+Q7L5D6	Nucleolus
+Q7L7L0	Nuclear stress body
+Q7L8W6	Nucleolus
+Q7L945	Nucleolus
+Q7L9L4	Nucleolus
+Q7RTN6	P-body
+Q7RTN6	P-body
+Q7RTT5	Nucleolus
+Q7RTV0	Stress granule
+Q7RTV0	Nucleolus
+Q7RTV0	Nuclear speckle
+Q7RTV0	Stress granule
+Q7RTV0	Stress granule
+Q7RTV0	Splicesome
+Q7Z2E3	Nucleolus
+Q7Z2T5	Nucleolus
+Q7Z2T5	Nucleolus
+Q7Z2W4	P-body
+Q7Z2W4	Stress granule
+Q7Z2W4	Stress granule
+Q7Z2Y5	P-body
+Q7Z2Y5	PML nuclear body
+Q7Z2Y5	P-body
+Q7Z3J2	Stress granule
+Q7Z3K6	P-body
+Q7Z3U7	Stress granule
+Q7Z3U7	Nucleolus
+Q7Z3V5	Nucleolus
+Q7Z3Z4	Stress granule
+Q7Z401	Nucleolus
+Q7Z417	Stress granule
+Q7Z417	Stress granule
+Q7Z419	Nucleolus
+Q7Z429	Nucleolus
+Q7Z460	Stress granule
+Q7Z481	Nucleolus
+Q7Z4B0	Nucleolus
+Q7Z4F1	Nucleolus
+Q7Z4G4	Nuclear stress body
+Q7Z4G4-2	Nuclear stress body
+Q7Z4G4-3	Nuclear stress body
+Q7Z4H3	Nucleolus
+Q7Z4I7	Stress granule
+Q7Z4W1	Nucleolus
+Q7Z5E3	Nucleolus
+Q7Z638	Nucleolus
+Q7Z692	Nucleolus
+Q7Z6E9	Splicesome
+Q7Z6Z7	Stress granule
+Q7Z739	Stress granule
+Q7Z739	Stress granule
+Q7Z7J5	Nuclear body
+Q7Z7J9	P-body
+Q7Z7J9	P-body
+Q7Z7M9	Nucleolus
+Q86SE8	Nucleolus
+Q86SE9	Nucleolus
+Q86SG5	Stress granule
+Q86SQ0	Stress granule
+Q86T58	Nucleolus
+Q86T82	Nucleolus
+Q86TB9	P-body
+Q86TB9	Stress granule
+Q86TB9	P-body
+Q86TG7	Stress granule
+Q86TG7	Stress granule
+Q86TI0	Nucleolus
+Q86TJ5	Nucleolus
+Q86TM3	Nucleolus
+Q86U06	Nuclear speckle
+Q86U06	Splicesome
+Q86U12	Nuclear stress body
+Q86U38	Nucleolus
+Q86U38	Nucleolus
+Q86U42	Paraspeckle
+Q86U42	Nuclear speckle
+Q86U42	IMP1 ribonucleoprotein granule
+Q86UA6	Nucleolus
+Q86UC2	PML nuclear body
+Q86UC4	Nucleolus
+Q86UD0	Nucleolus
+Q86UE4	Stress granule
+Q86UE8	Stress granule
+Q86UK0	Nucleolus
+Q86UK7	Stress granule
+Q86UN2	Stress granule
+Q86UP2	Stress granule
+Q86UP3	Nucleolus
+Q86UP6	Nucleolus
+Q86US8	Stress granule
+Q86US8	Nucleolus
+Q86UU1	Stress granule
+Q86UV5	Stress granule
+Q86UW6	P-body
+Q86V48	Stress granule
+Q86V81	Nucleolus
+Q86V81	Paraspeckle
+Q86V81	Stress granule
+Q86V81	Splicesome
+Q86VI3	Nucleolus
+Q86VM3	Nucleolus
+Q86VM9	Splicesome
+Q86VP6	Stress granule
+Q86VQ1	Nucleolus
+Q86VZ6	Nucleolus
+Q86W54	Nuclear body
+Q86W56	Stress granule
+Q86W92	Stress granule
+Q86WB0	Nucleolus
+Q86WG5	Cajal body
+Q86WX3	Nucleolus
+Q86WX3	Nucleolus
+Q86WX3	Nucleolus
+Q86X24	Nucleolus
+Q86X53	Nucleolus
+Q86X55	Nuclear speckle
+Q86XF7	Nucleolus
+Q86XI2	Nucleolus
+Q86XI2	Nuclear stress body
+Q86XI2-2	Nuclear stress body
+Q86XN8	Stress granule
+Q86XP3	Paraspeckle
+Q86XP3	Stress granule
+Q86XP3	Splicesome
+Q86XP3	Nuclear speckle
+Q86XR5	Nucleolus
+Q86XZ4	Stress granule
+Q86XZ4	Stress granule
+Q86Y13	Stress granule
+Q86Y37	Nuclear body
+Q86Y56	Stress granule
+Q86YF9	Stress granule
+Q86YT6	Stress granule
+Q86YV6	Nucleolus
+Q86YW9	Nucleolus
+Q86Z02	PML nuclear body
+Q8IU60	P-body
+Q8IU69	Nucleolus
+Q8IUC6	Nucleolus
+Q8IUF8	Nucleolus
+Q8IUH3	PML nuclear body
+Q8IUK7	Nuclear stress body
+Q8IUX4	P-body
+Q8IUY3	Nucleolus
+Q8IV03	Nucleolus
+Q8IV32	Stress granule
+Q8IV42	Nucleolus
+Q8IVF2	Stress granule
+Q8IVF4	Stress granule
+Q8IVF5	Nucleolus
+Q8IVF6	Nucleolus
+Q8IVL6	Nucleolus
+Q8IVL9	Nucleolus
+Q8IVM0	Stress granule
+Q8IVR9	Nucleolus
+Q8IVU1	Stress granule
+Q8IVV2	Stress granule
+Q8IVY1	Nucleolus
+Q8IW16	Nucleolus
+Q8IWB6	P-body
+Q8IWC1	Stress granule
+Q8IWG8	Nucleolus
+Q8IWI9	Paraspeckle
+Q8IWJ2	Stress granule
+Q8IWQ3	Nuclear speckle
+Q8IWR0	Stress granule
+Q8IWS0	Nucleolus
+Q8IWS0	Nucleolus
+Q8IWU2	PML nuclear body
+Q8IWV8	Stress granule
+Q8IWX8	Paraspeckle
+Q8IWX8	Stress granule
+Q8IWX8	Splicesome
+Q8IWX8	Nuclear speckle
+Q8IWZ3	P-body
+Q8IWZ3	Stress granule
+Q8IWZ8	Splicesome
+Q8IX01	Stress granule
+Q8IX12	Stress granule
+Q8IX12	Paraspeckle
+Q8IX12	Splicesome
+Q8IX12	Nuclear speckle
+Q8IX15	Nucleolus
+Q8IXB1	Stress granule
+Q8IXJ6	Nucleolus
+Q8IXJ9	Nucleolus
+Q8IXK0	Polycomb body
+Q8IXN7	Nucleolus
+Q8IXQ4	Nucleolus
+Q8IXT5	Stress granule
+Q8IXW5	Nucleolus
+Q8IY12	Nucleolus
+Q8IY17	Stress granule
+Q8IY37	Nucleolus
+Q8IY47	Nucleolus
+Q8IY50	Nucleolus
+Q8IY57	Nucleolus
+Q8IY81	Stress granule
+Q8IY81	Nucleolus
+Q8IY81	Nucleolus
+Q8IY81	Nucleolus
+Q8IYB3	Splicesome
+Q8IYB3	Nuclear speckle
+Q8IYB7	Stress granule
+Q8IYF1	Nuclear speckle
+Q8IYF1	Nucleolus
+Q8IYH0	Nucleolus
+Q8IYH5	Nucleolus
+Q8IYI9	Nucleolus
+Q8IYJ2	Nucleolus
+Q8IYL9	Nucleolus
+Q8IYM9	Cajal body
+Q8IYS1	Nuclear stress body
+Q8IYT2	PML nuclear body
+Q8IYX3	Nuclear body
+Q8IZ81	Nucleolus
+Q8IZ83	Stress granule
+Q8IZ83	PML nuclear body
+Q8IZA0	Nucleolus
+Q8IZD0	Nucleolus
+Q8IZD4	P-body
+Q8IZD4	Stress granule
+Q8IZD4	Cajal body
+Q8IZD4	Nuclear speckle
+Q8IZE3	PML nuclear body
+Q8IZH2	P-body
+Q8IZH2	Stress granule
+Q8IZJ4	P-body
+Q8IZL8	Nucleolus
+Q8IZN3	Nucleolus
+Q8IZP0	Stress granule
+Q8IZQ1	Nucleolus
+Q8IZQ5	Nucleolus
+Q8IZU0	Nucleolus
+Q8IZU3	Stress granule
+Q8IZX4	Cajal body
+Q8N0T1	Nucleolus
+Q8N0T1	Nucleolus
+Q8N0W8	Nucleolus
+Q8N0X7	Stress granule
+Q8N0X7	Stress granule
+Q8N0Y2	Nucleolus
+Q8N0Y2	Paraspeckle
+Q8N122	P-body
+Q8N122	Stress granule
+Q8N138	Stress granule
+Q8N140	Nucleolus
+Q8N163	Paraspeckle
+Q8N163	Splicesome
+Q8N187	Stress granule
+Q8N187	Nucleolus
+Q8N1B4	Stress granule
+Q8N1F7	Stress granule
+Q8N1F8	Stress granule
+Q8N1G4	Nucleolus
+Q8N1H7	Nucleolus
+Q8N1I0	Nucleolus
+Q8N1L9	Nucleolus
+Q8N1Q1	Nucleolus
+Q8N220	Nucleolus
+Q8N2H9	Nucleolus
+Q8N2I9	Nuclear speckle
+Q8N302	Splicesome
+Q8N319	Nucleolus
+Q8N357	Stress granule
+Q8N394	Stress granule
+Q8N3C0	Stress granule
+Q8N3C0	Paraspeckle
+Q8N3C0	Stress granule
+Q8N3D4	Stress granule
+Q8N3J5	Nuclear speckle
+Q8N3R9	P-body
+Q8N3R9	P-body
+Q8N3R9	Stress granule
+Q8N3Z6	Nucleolus
+Q8N417	Nucleolus
+Q8N427	PML nuclear body
+Q8N474	Nucleolus
+Q8N4C6	Nucleolus
+Q8N4C6	Nuclear speckle
+Q8N4C6	Nucleolus
+Q8N4C8	PML nuclear body
+Q8N4L1	Nucleolus
+Q8N4L8	Nucleolus
+Q8N4N8	Nucleolus
+Q8N4N8	Nuclear stress body
+Q8N4P3	P-body
+Q8N4P3	Nucleolus
+Q8N4P3	Cajal body
+Q8N4P3	PML nuclear body
+Q8N4P3	Nuclear speckle
+Q8N4P3	P-body
+Q8N554	Nucleolus
+Q8N567	Nucleolus
+Q8N567	Nucleolus
+Q8N594	Nucleolus
+Q8N5A5	Cajal body
+Q8N5B7	Nucleolus
+Q8N5C7	Nucleolus
+Q8N5C8	Paraspeckle
+Q8N5F7	Nuclear speckle
+Q8N5F7	Splicesome
+Q8N5G0	Nucleolus
+Q8N5K1	Stress granule
+Q8N5K1	Nucleolus
+Q8N5M9	Stress granule
+Q8N5P1	PML nuclear body
+Q8N5P1	Paraspeckle
+Q8N5X7	Stress granule
+Q8N5X7	Nucleolus
+Q8N684	Stress granule
+Q8N684	Nucleolus
+Q8N684	Paraspeckle
+Q8N684	Stress granule
+Q8N6H7	Stress granule
+Q8N6M0	Stress granule
+Q8N6R0	Stress granule
+Q8N6U8	Nucleolus
+Q8N6Z8	Nucleolus
+Q8N715	Nuclear body
+Q8N726	Nucleolus
+Q8N752	Nuclear speckle
+Q8N766	Stress granule
+Q8N7C4	Nucleolus
+Q8N7U6	Nucleolus
+Q8N7W2	Nucleolus
+Q8N831	Nucleolus
+Q8N859	Nucleolus
+Q8N8A6	Nucleolus
+Q8N8A6	Nucleolus
+Q8N8D1	Nucleolus
+Q8N8J6	Nucleolus
+Q8N8Q3	Stress granule
+Q8N935	Nucleolus
+Q8N983	Stress granule
+Q8N9E0	Nucleolus
+Q8N9E5	Nucleolus
+Q8N9I9	Nucleolus
+Q8N9N2	Stress granule
+Q8N9N2	Stress granule
+Q8N9Q2	Nucleolus
+Q8N9T8	Nucleolus
+Q8N9V3	Nucleolus
+Q8NAA5	Nucleolus
+Q8NAV1	Splicesome
+Q8NAV1	Nuclear speckle
+Q8NB06	Nucleolus
+Q8NB16	Nucleolus
+Q8NB16	Stress granule
+Q8NB90	Stress granule
+Q8NBB4	Nucleolus
+Q8NBE6	Nucleolus
+Q8NBI2	Nucleolus
+Q8NBJ7	Stress granule
+Q8NBM4	Stress granule
+Q8NBP5	Nucleolus
+Q8NBQ5	Stress granule
+Q8NBQ7	Nucleolus
+Q8NBT2	Nucleolus
+Q8NBT2	Nuclear stress body
+Q8NBU5	Stress granule
+Q8NBU5	Nucleolus
+Q8NBZ0	Nucleolus
+Q8NBZ0	PML nuclear body
+Q8NC51	Stress granule
+Q8NC51	Paraspeckle
+Q8NC51	Nuclear stress body
+Q8NC51-2	Nuclear stress body
+Q8NC51-3	Nuclear stress body
+Q8NC51-4	Nuclear stress body
+Q8NC69	Nucleolus
+Q8NC69	PML nuclear body
+Q8NCA5	Stress granule
+Q8NCA5	Stress granule
+Q8NCB2	Cajal body
+Q8NCD3	Nucleolus
+Q8NCD9	Nucleolus
+Q8NCQ7	Nucleolus
+Q8NCS4	Nucleolus
+Q8NCW0	Nucleolus
+Q8ND24	Stress granule
+Q8ND56	P-body
+Q8ND56	Stress granule
+Q8ND56	P-body
+Q8ND82	Nucleolus
+Q8NDC0	Stress granule
+Q8NDD1	Nucleolus
+Q8NDD1	Nucleolus
+Q8NDH6	Stress granule
+Q8NDT2	P-body
+Q8NDV7	P-body
+Q8NDV7	Stress granule
+Q8NDZ2	Nucleolus
+Q8NE71	Stress granule
+Q8NE71	Stress granule
+Q8NE86	Stress granule
+Q8NEA4	Nucleolus
+Q8NEF9	Stress granule
+Q8NEF9	Nucleolus
+Q8NEJ0	P-body
+Q8NEJ0	P-body
+Q8NEJ9	Nucleolus
+Q8NEJ9	Nucleolus
+Q8NEJ9	Sam68 nuclear body
+Q8NEM7	Nucleolus
+Q8NEN9	Nucleolus
+Q8NEP7	Nucleolus
+Q8NF99	Nucleolus
+Q8NFD5	Nuclear speckle
+Q8NFH4	Stress granule
+Q8NFN8	Stress granule
+Q8NFP9	Nucleolus
+Q8NFR7	Nucleolus
+Q8NFU5	P-body
+Q8NFU5	P-body
+Q8NFW8	Nucleolus
+Q8NFW9	Nucleolus
+Q8NG27	Nucleolus
+Q8NG27	PML nuclear body
+Q8NG50	Nucleolus
+Q8NHL6	P-body
+Q8NHQ9	Nucleolus
+Q8NHR7	Nucleolus
+Q8NHS4	Nucleolus
+Q8NHS8	Nucleolus
+Q8NHU0	Nucleolus
+Q8NHU6	P-body
+Q8NHU6	Stress granule
+Q8NHV4	P-body
+Q8NHV4	P-body
+Q8NHX9	Nucleolus
+Q8NI27	Stress granule
+Q8NI27	Splicesome
+Q8NI27	Nuclear speckle
+Q8NI28	Stress granule
+Q8NI36	Nucleolus
+Q8NI36	Nucleolus
+Q8NI77	Stress granule
+Q8TAA3	Paraspeckle
+Q8TAD8	Splicesome
+Q8TAF7	Nucleolus
+Q8TAQ2	Nuclear stress body
+Q8TAQ2-2	Nuclear stress body
+Q8TAU0	Nucleolus
+Q8TAW3	Nuclear body
+Q8TB66	Nucleolus
+Q8TB69	Nucleolus
+Q8TB72	P-body
+Q8TB72	Stress granule
+Q8TB72	P-body
+Q8TB72	Stress granule
+Q8TB73	Nucleolus
+Q8TBB5	Nucleolus
+Q8TBK6	Nucleolus
+Q8TBK6	Nuclear body
+Q8TBK6	Splicesome
+Q8TBM8	Nuclear body
+Q8TBR6	Nucleolus
+Q8TBZ6	Nucleolus
+Q8TC07	Stress granule
+Q8TC21	Nucleolus
+Q8TC44	Stress granule
+Q8TC57	Nucleolus
+Q8TC59	Stress granule
+Q8TC92	Paraspeckle
+Q8TCB0	P-body
+Q8TCG1	Stress granule
+Q8TCJ2	Stress granule
+Q8TCN5	Nucleolus
+Q8TCS8	Stress granule
+Q8TCV6	Nucleolus
+Q8TD17	PML nuclear body
+Q8TD31	P-body
+Q8TDB6	Stress granule
+Q8TDD1	Nucleolus
+Q8TDD1	Nucleolus
+Q8TDD1	Nucleolus
+Q8TDD5	Nucleolus
+Q8TDI0	Nuclear stress body
+Q8TDN6	P-body
+Q8TDN6	Nucleolus
+Q8TDN6	Nucleolus
+Q8TDQ0	Stress granule
+Q8TDX7	Cajal body
+Q8TDX7	Stress granule
+Q8TDY0	Nucleolus
+Q8TE04	Nuclear speckle
+Q8TE49	Nucleolus
+Q8TE77	PML nuclear body
+Q8TE82	Nucleolus
+Q8TE99	PML nuclear body
+Q8TEA7	Nucleolus
+Q8TEA8	Nucleolus
+Q8TED0	P-body
+Q8TED0	Nucleolus
+Q8TED1	Stress granule
+Q8TEP8	P-body
+Q8TEQ6	P-body
+Q8TEQ6	Stress granule
+Q8TEQ6	Nuclear speckle
+Q8TEQ6	Stress granule
+Q8TEQ8	Nucleolus
+Q8TEU7	Stress granule
+Q8TEX9	Stress granule
+Q8TEX9	Nuclear stress body
+Q8TEX9-2	Nuclear stress body
+Q8TEZ1	Nucleolus
+Q8TF05	P-body
+Q8TF05	Nucleolus
+Q8TF05	P-body
+Q8TF39	Nucleolus
+Q8TF46	P-body
+Q8WTP8	Nucleolus
+Q8WTP8	Nucleolus
+Q8WTS6	Nucleolus
+Q8WTT2	Nucleolus
+Q8WTV1	Nucleolus
+Q8WU08	P-body
+Q8WU08	P-body
+Q8WU79	Stress granule
+Q8WU90	Paraspeckle
+Q8WUA2	Paraspeckle
+Q8WUA2	Splicesome
+Q8WUD4	Splicesome
+Q8WUF5	Stress granule
+Q8WUJ1	Nucleolus
+Q8WUK0	Stress granule
+Q8WUM4	P-body
+Q8WUM4	Stress granule
+Q8WUM4	Stress granule
+Q8WUM4	Nuclear stress body
+Q8WUP2	Nucleolus
+Q8WUQ7	Splicesome
+Q8WUT4	Nucleolus
+Q8WUW1	Stress granule
+Q8WUY1	Stress granule
+Q8WUY3	Stress granule
+Q8WUY5	Nucleolus
+Q8WUZ1	Nucleolus
+Q8WV22	Nucleolus
+Q8WV24	Nucleolus
+Q8WV44	Nucleolus
+Q8WV53	Nucleolus
+Q8WV74	Nucleolus
+Q8WV99	Nucleolus
+Q8WVB3	Nucleolus
+Q8WVB8	Nucleolus
+Q8WVC0	Nucleolus
+Q8WVF1	Nucleolus
+Q8WVI7	Nucleolus
+Q8WVJ9	Nucleolus
+Q8WVK2	Splicesome
+Q8WVL7	Nucleolus
+Q8WVM0	Stress granule
+Q8WVV9	Nucleolus
+Q8WVY7	Nucleolus
+Q8WW01	Nucleolus
+Q8WWM7	P-body
+Q8WWM7	Stress granule
+Q8WWM7	P-body
+Q8WWM7	Stress granule
+Q8WWN9	Nucleolus
+Q8WWR8	Nuclear body
+Q8WWY3	Stress granule
+Q8WWY3	Paraspeckle
+Q8WWY3	Nucleolus
+Q8WWY3	Stress granule
+Q8WWY3	Splicesome
+Q8WWY3	Nuclear speckle
+Q8WX93	Stress granule
+Q8WX94	Nuclear stress body
+Q8WX94-2	Nuclear stress body
+Q8WX94-3	Nuclear stress body
+Q8WXD5	Stress granule
+Q8WXD5	SMN complex
+Q8WXE9	Nucleolus
+Q8WXF1	Stress granule
+Q8WXF1	Paraspeckle
+Q8WXF1	Nucleolus
+Q8WXF1	Paraspeckle
+Q8WXG1	Nucleolus
+Q8WXG6	P-body
+Q8WXG6	P-body
+Q8WXI4	P-body
+Q8WXS4	Nucleolus
+Q8WXX5	Stress granule
+Q8WXZ8	Nucleolus
+Q8WY54	Nucleolus
+Q8WYA1	Nucleolus
+Q8WYA6	Nucleolus
+Q8WYA6	Splicesome
+Q8WYA6	Nuclear speckle
+Q8WYK1	Nucleolus
+Q8WYL5	P-body
+Q8WYL5	P-body
+Q8WYN3	Nucleolus
+Q8WYP3	Nucleolus
+Q8WYP5	Nucleolus
+Q8WYQ5	Stress granule
+Q8WYQ5	Nucleolus
+Q8WYQ9	Stress granule
+Q8WZ42	Stress granule
+Q92484	Nucleolus
+Q92499	Stress granule
+Q92499	Nucleolus
+Q92519	Nuclear speckle
+Q92522	Stress granule
+Q92522	Nucleolus
+Q92522	Stress granule
+Q92522	Nucleolus
+Q92530	Stress granule
+Q92538	Stress granule
+Q92540	P-body
+Q92545	P-body
+Q92547	Nucleolus
+Q92551	Nucleolus
+Q92552	Nucleolus
+Q92567	Stress granule
+Q92569	Cajal body
+Q92569	Nuclear speckle
+Q92572	Stress granule
+Q92600	P-body
+Q92600	Stress granule
+Q92609	Stress granule
+Q92613	Nucleolus
+Q92614	Stress granule
+Q92615	Stress granule
+Q92616	Nucleolus
+Q92620	Stress granule
+Q92620	Splicesome
+Q92621	Stress granule
+Q92621	Stress granule
+Q92626	Stress granule
+Q92628	P-body
+Q92630	P-body
+Q92630	Stress granule
+Q92630	PML nuclear body
+Q92630	P-body
+Q92636	Nucleolus
+Q92665	Nucleolus
+Q92686	P-body
+Q92686	PML nuclear body
+Q92686	P-body
+Q92692	Nucleolus
+Q92729	P-body
+Q92729	Nuclear speckle
+Q92729	P-body
+Q92733	Splicesome
+Q92747	Nucleolus
+Q92747	Stress granule
+Q92750	Nucleolus
+Q92766	Nucleolus
+Q92769	Nucleolus
+Q92769	Nuclear stress body
+Q92786	Nuclear body
+Q92794	Stress granule
+Q92794	PML nuclear body
+Q92794	Stress granule
+Q92794	Nucleolus
+Q92796	Nucleolus
+Q92804	Stress granule
+Q92804	Nucleolus
+Q92804	Paraspeckle
+Q92824	P-body
+Q92824	P-body
+Q92841	Nuclear body
+Q92841	Nucleolus
+Q92841	Splicesome
+Q92841	SMN complex
+Q92841	Nuclear stress body
+Q92841-1	Nuclear stress body
+Q92841-2	Nuclear stress body
+Q92841-3	Nuclear stress body
+Q92844	Nucleolus
+Q92878	Stress granule
+Q92878	Nuclear stress body
+Q92878-2	Nuclear stress body
+Q92878-3	Nuclear stress body
+Q92879	Stress granule
+Q92879	Splicesome
+Q92888	Stress granule
+Q92890	Nucleolus
+Q92900	P-body
+Q92900	Stress granule
+Q92915	Nucleolus
+Q92917	Splicesome
+Q92918	Nuclear speckle
+Q92922	Nuclear stress body
+Q92945	P-body
+Q92945	Stress granule
+Q92945	Paraspeckle
+Q92945	Stress granule
+Q92945	Nuclear speckle
+Q92953	Nucleolus
+Q92966	Nucleolus
+Q92968	Cajal body
+Q92973	Stress granule
+Q92974	Stress granule
+Q92979	Nucleolus
+Q92979	Nucleolus
+Q92993	P-body
+Q92997	P-body
+Q93008	Stress granule
+Q93009	PML nuclear body
+Q93052	Stress granule
+Q93052	Stress granule
+Q93068	Nucleolus
+Q93077	Nucleolus
+Q93077	Nuclear stress body
+Q93079	Nuclear stress body
+Q93096	Stress granule
+Q93100	P-body
+Q93100	P-body
+Q969E8	Nucleolus
+Q969G3	Paraspeckle
+Q969G9	Nucleolus
+Q969H6	Nucleolus
+Q969K4	Nucleolus
+Q969L4	SMN complex
+Q969N2	Stress granule
+Q969Q0	Stress granule
+Q969Q0	PML nuclear body
+Q969S3	Nucleolus
+Q969S3	Nucleolus
+Q969S8	Nuclear stress body
+Q969S8-2	Nuclear stress body
+Q969T9	Stress granule
+Q969U7	Stress granule
+Q969X5	Stress granule
+Q969X6	Nucleolus
+Q969X6	Nucleolus
+Q96A00	P-body
+Q96A00	Nucleolus
+Q96A00	P-body
+Q96A19	Nuclear stress body
+Q96A52	Nucleolus
+Q96A61	Nucleolus
+Q96A65	Stress granule
+Q96A65	Nucleolus
+Q96A72	Stress granule
+Q96A72	Paraspeckle
+Q96A72	Stress granule
+Q96A78	Nucleolus
+Q96AE4	Stress granule
+Q96AE4	SMN complex
+Q96AE7	P-body
+Q96AN5	Nucleolus
+Q96AQ9	Nucleolus
+Q96AT5	Nucleolus
+Q96AY4	Nucleolus
+Q96B02	Nucleolus
+Q96B26	Nucleolus
+Q96B26	Stress granule
+Q96B26	Nucleolus
+Q96B52	Nucleolus
+Q96B54	Nucleolus
+Q96B70	Nucleolus
+Q96BF6	Nucleolus
+Q96BH1	Stress granule
+Q96BK5	Nucleolus
+Q96BK5	Nucleolus
+Q96BN8	Stress granule
+Q96BP2	Nucleolus
+Q96BP3	Splicesome
+Q96BQ5	Nucleolus
+Q96BT1	Nucleolus
+Q96BW5	Nuclear stress body
+Q96BW5-2	Nuclear stress body
+Q96BW9	Stress granule
+Q96BY6	Stress granule
+Q96C19	Paraspeckle
+Q96C32	Nuclear stress body
+Q96C36	Stress granule
+Q96C57	Nucleolus
+Q96C57	Nucleolus
+Q96C57	Nucleolus
+Q96C61	Nucleolus
+Q96CB9	Stress granule
+Q96CG3	Nucleolus
+Q96CJ1	Cajal body
+Q96CL3	Nucleolus
+Q96CS2	Stress granule
+Q96CS4	Nucleolus
+Q96CT7	Stress granule
+Q96CT7	Stress granule
+Q96CW5	Stress granule
+Q96CX3	Nucleolus
+Q96D46	Nucleolus
+Q96D46	Nucleolus
+Q96DB6	Nucleolus
+Q96DE0	Nucleolus
+Q96DF8	Splicesome
+Q96DH6	Stress granule
+Q96DH6	Stress granule
+Q96DI7	Paraspeckle
+Q96DI7	Stress granule
+Q96DI7	Splicesome
+Q96DK2	Nucleolus
+Q96DU3	Nucleolus
+Q96DX7	Nuclear body
+Q96E11	Nucleolus
+Q96E39	P-body
+Q96E39	Nucleolus
+Q96E39	Nuclear stress body
+Q96E87	Nucleolus
+Q96E91	Nucleolus
+Q96EE3	Stress granule
+Q96EF0	P-body
+Q96EF0	P-body
+Q96EG3	Nucleolus
+Q96EK2	Nucleolus
+Q96EP5	Stress granule
+Q96EQ8	Nucleolus
+Q96ES7	Nucleolus
+Q96EU6	Nucleolus
+Q96EY4	Nucleolus
+Q96EY4	Nucleolus
+Q96EY5	Stress granule
+Q96F25	Nucleolus
+Q96F45	Nuclear body
+Q96F86	P-body
+Q96F86	Stress granule
+Q96FA3	Nucleolus
+Q96FB5	Nucleolus
+Q96FC9	Nucleolus
+Q96FD2	Nucleolus
+Q96FI4	Nucleolus
+Q96FJ1	Nucleolus
+Q96FJ2	Stress granule
+Q96FJ2	Stress granule
+Q96FK6	Nucleolus
+Q96FQ6	Nucleolus
+Q96FS4	Nucleolus
+Q96FT1	Nucleolus
+Q96FV9	Splicesome
+Q96FZ7	Paraspeckle
+Q96G21	Nucleolus
+Q96G21	Nucleolus
+Q96G23	Stress granule
+Q96G74	Nucleolus
+Q96G92	Nucleolus
+Q96GC5	Stress granule
+Q96GC9	Nucleolus
+Q96GD0	Stress granule
+Q96GD4	Nucleolus
+Q96GM8	Cajal body
+Q96GM8	Splicesome
+Q96GN5	Nucleolus
+Q96GN5	Nuclear body
+Q96GQ5	Nucleolus
+Q96GQ7	P-body
+Q96GQ7	Nucleolus
+Q96GQ7	Nucleolus
+Q96H35	Nucleolus
+Q96H79	Stress granule
+Q96HA1	Stress granule
+Q96HA4	Nucleolus
+Q96HC4	Stress granule
+Q96HD1	Nucleolus
+Q96HF1	P-body
+Q96HI0	Nucleolus
+Q96HJ3	Nucleolus
+Q96HJ9	Stress granule
+Q96HQ0	Nucleolus
+Q96HS1	Stress granule
+Q96HW7	Nucleolus
+Q96HY6	Nucleolus
+Q96HZ4	Nucleolus
+Q96I08	Nucleolus
+Q96I24	Stress granule
+Q96I25	Stress granule
+Q96I25	Splicesome
+Q96I25	Nuclear speckle
+Q96IC2	Nucleolus
+Q96IF1	Cajal body
+Q96IT1	Nuclear body
+Q96IU4	Nucleolus
+Q96IX5	Stress granule
+Q96IZ0	Stress granule
+Q96IZ2	Nucleolus
+Q96IZ7	P-body
+Q96IZ7	Nuclear speckle
+Q96IZ7	P-body
+Q96J01	Splicesome
+Q96J10	Nucleolus
+Q96J92	P-body
+Q96J92	P-body
+Q96J95	Nucleolus
+Q96JB2	Stress granule
+Q96JB5	Nucleolus
+Q96JC1	Stress granule
+Q96JD3	Nucleolus
+Q96JF0	Nucleolus
+Q96JI7	Nucleolus
+Q96JJ3	Stress granule
+Q96JM2	Nuclear body
+Q96JM7	Nucleolus
+Q96JN2	Nucleolus
+Q96JN4	Nucleolus
+Q96JY7	Nucleolus
+Q96K12	Nucleolus
+Q96K58	Nucleolus
+Q96K62	PML nuclear body
+Q96KA5	Stress granule
+Q96KB5	Stress granule
+Q96KB5	Nuclear stress body
+Q96KG9	Stress granule
+Q96KG9	Paraspeckle
+Q96KK5	Nuclear stress body
+Q96KP1	Stress granule
+Q96KR1	P-body
+Q96KR1	Nucleolus
+Q96L03	Nucleolus
+Q96L34	P-body
+Q96L34	P-body
+Q96L58	Stress granule
+Q96LA8	Nucleolus
+Q96LC1	Nucleolus
+Q96LD4	Stress granule
+Q96LI5	P-body
+Q96LU7	Nucleolus
+Q96LW9	Nucleolus
+Q96LX8	Nucleolus
+Q96LZ3	P-body
+Q96LZ3	PML nuclear body
+Q96LZ3	P-body
+Q96M32	PML nuclear body
+Q96M83	Nucleolus
+Q96MD7	Nucleolus
+Q96ME1	Stress granule
+Q96ME1	Nuclear speckle
+Q96MF4	Nucleolus
+Q96MF7	Cajal body
+Q96MP5	Nucleolus
+Q96MW7	Nucleolus
+Q96N11	Nucleolus
+Q96N19	Nucleolus
+Q96N20	Nucleolus
+Q96N46	Nuclear speckle
+Q96N46	Splicesome
+Q96N67	Stress granule
+Q96NB3	Splicesome
+Q96NC0	Nucleolus
+Q96NC0	Splicesome
+Q96ND8	Nucleolus
+Q96NI6	Nucleolus
+Q96NT1	PML nuclear body
+Q96NY9	Nucleolus
+Q96P11	Nucleolus
+Q96P11	Nucleolus
+Q96P63	P-body
+Q96P66	Stress granule
+Q96P70	Stress granule
+Q96PE7	Nucleolus
+Q96PF2	Nucleolus
+Q96PK5	Nucleolus
+Q96PK6	Stress granule
+Q96PK6	Paraspeckle
+Q96PK6	Stress granule
+Q96PK6	Paraspeckle
+Q96PN7	Nucleolus
+Q96PN8	Nucleolus
+Q96PU8	Stress granule
+Q96PU8	Paraspeckle
+Q96PU8	Splicesome
+Q96PV7	Nucleolus
+Q96PZ2	Nucleolus
+Q96Q04	Stress granule
+Q96Q27	Nucleolus
+Q96QA5	P-body
+Q96QC0	Stress granule
+Q96QD5	Nucleolus
+Q96QD9	Nuclear speckle
+Q96QG7	P-body
+Q96QG7	P-body
+Q96QJ8	Nucleolus
+Q96QK1	Stress granule
+Q96QR8	Stress granule
+Q96QR8	Stress granule
+Q96QU8	Stress granule
+Q96QU8	Nucleolus
+Q96QV6	Nuclear stress body
+Q96R06	Stress granule
+Q96R06	Stress granule
+Q96RE7	P-body
+Q96RE7	PML nuclear body
+Q96RE7	P-body
+Q96RE9	Nucleolus
+Q96RQ1	Nucleolus
+Q96RR4	P-body
+Q96RR4	P-body
+Q96RT7	Stress granule
+Q96RT8	Stress granule
+Q96RU2	P-body
+Q96RU2	P-body
+Q96RY5	Nucleolus
+Q96S44	Stress granule
+Q96S52	Stress granule
+Q96S53	Nucleolus
+Q96S94	Stress granule
+Q96SB4	P-body
+Q96SB4	Nucleolus
+Q96SB4	Cajal body
+Q96SB4	P-body
+Q96SB4	Splicesome
+Q96SB8	PML nuclear body
+Q96SI9	P-body
+Q96SS3	Nucleolus
+Q96SU4	Stress granule
+Q96T21	Stress granule
+Q96T37	P-body
+Q96T37	Stress granule
+Q96T37	Nuclear speckle
+Q96T49	Cajal body
+Q96T51	Stress granule
+Q96T60	Nuclear speckle
+Q96T60	Nucleolus
+Q96T76	Stress granule
+Q96TA6	Nucleolus
+Q96TG8	Nucleolus
+Q99417	Paraspeckle
+Q99436	Stress granule
+Q99459	Stress granule
+Q99459	Splicesome
+Q99459	Nuclear speckle
+Q99497	Stress granule
+Q99502	P-body
+Q99527	Stress granule
+Q99547	Nucleolus
+Q99547	Nucleolus
+Q99558	PML nuclear body
+Q99558	Nuclear speckle
+Q99558	Nucleolus
+Q99567	Stress granule
+Q99570	Stress granule
+Q99575	Nucleolus
+Q99575	Nucleolus
+Q99584	Nucleolus
+Q99584	Nucleolus
+Q99590	P-body
+Q99590	P-body
+Q99598	Stress granule
+Q99598	Nuclear stress body
+Q99612	Nucleolus
+Q99613	Stress granule
+Q99623	Nuclear stress body
+Q99633	Stress granule
+Q99633	Splicesome
+Q99640	P-body
+Q99640	Nucleolus
+Q99640	P-body
+Q99640	Nucleolus
+Q99650	Nucleolus
+Q99661	Nucleolus
+Q99661	Nuclear stress body
+Q99661-2	Nuclear stress body
+Q99700	Stress granule
+Q99700	Stress granule
+Q99704	Cajal body
+Q99708	Nuclear body
+Q99714	Paraspeckle
+Q99720	Stress granule
+Q99726	Nucleolus
+Q99729	Stress granule
+Q99729	Nucleolus
+Q99729	Paraspeckle
+Q99729	Stress granule
+Q99729	Splicesome
+Q99729	Nuclear stress body
+Q99729	IMP1 ribonucleoprotein granule
+Q99729-2	Nuclear stress body
+Q99729-3	Nuclear stress body
+Q99729-4	Nuclear stress body
+Q99735	Stress granule
+Q99755	P-body
+Q99755	P-body
+Q99759	P-body
+Q99759	P-body
+Q99784	Nucleolus
+Q99816	Nucleolus
+Q99832	Nucleolus
+Q99832	Stress granule
+Q99832	Nuclear stress body
+Q99836	Stress granule
+Q99848	Nucleolus
+Q99848	Nucleolus
+Q99871	Stress granule
+Q99871	Nucleolus
+Q99873	Stress granule
+Q99873	Paraspeckle
+Q99877	Nucleolus
+Q99877	Nuclear stress body
+Q99878	Nucleolus
+Q99878	Nuclear stress body
+Q99879	Nuclear stress body
+Q99880	Nucleolus
+Q99880	Nuclear stress body
+Q99909	Nucleolus
+Q99941	Nucleolus
+Q99959	Stress granule
+Q99959	Nucleolus
+Q99983	Nucleolus
+Q99986	Nucleolus
+Q99996	Stress granule
+Q9BPV9	Nucleolus
+Q9BPX3	Stress granule
+Q9BPY3	Cajal body
+Q9BPY6	Nucleolus
+Q9BPZ7	Stress granule
+Q9BQ02	Nucleolus
+Q9BQ04	Stress granule
+Q9BQ04	Stress granule
+Q9BQ04	Paraspeckle
+Q9BQ39	P-body
+Q9BQ39	Stress granule
+Q9BQ39	Nucleolus
+Q9BQ39	Nucleolus
+Q9BQ39	Nucleolus
+Q9BQ39	Nucleolus
+Q9BQ61	Splicesome
+Q9BQ67	Nucleolus
+Q9BQ67	Nucleolus
+Q9BQ70	Stress granule
+Q9BQ75	Nucleolus
+Q9BQ75	Stress granule
+Q9BQ75	Nucleolus
+Q9BQA1	Paraspeckle
+Q9BQA1	Splicesome
+Q9BQA5	Nucleolus
+Q9BQB6	Stress granule
+Q9BQD3	Nucleolus
+Q9BQE3	Stress granule
+Q9BQE5	Stress granule
+Q9BQE6	Nucleolus
+Q9BQG0	Nucleolus
+Q9BQG0	SMN complex
+Q9BQI3	Stress granule
+Q9BQI9	Splicesome
+Q9BR76	Stress granule
+Q9BRA2	Stress granule
+Q9BRC9	Nucleolus
+Q9BRD0	Nuclear body
+Q9BRD0	Splicesome
+Q9BRF6	Nucleolus
+Q9BRJ6	Nucleolus
+Q9BRJ6	Stress granule
+Q9BRJ6	Nucleolus
+Q9BRJ6	Nucleolus
+Q9BRJ7	Nucleolus
+Q9BRJ9	Nucleolus
+Q9BRK3	Nucleolus
+Q9BRP8	Nucleolus
+Q9BRR6	Nucleolus
+Q9BRR6	Cajal body
+Q9BRR8	Splicesome
+Q9BRS2	Paraspeckle
+Q9BRS2	Nucleolus
+Q9BRT6	Nucleolus
+Q9BRT6	Nucleolus
+Q9BRU9	Nucleolus
+Q9BRU9	Nucleolus
+Q9BRX2	Stress granule
+Q9BRX2	Nucleolus
+Q9BRX2	Nucleolus
+Q9BRX9	Splicesome
+Q9BRZ2	Stress granule
+Q9BRZ2	Stress granule
+Q9BS26	Stress granule
+Q9BSC4	Nucleolus
+Q9BSD7	Stress granule
+Q9BSE2	Nucleolus
+Q9BSE4	Nucleolus
+Q9BSF4	Stress granule
+Q9BSF8	Nucleolus
+Q9BSH5	Nucleolus
+Q9BSJ1	Nucleolus
+Q9BSJ2	Stress granule
+Q9BSJ8	Stress granule
+Q9BSK1	Nucleolus
+Q9BSU1	Nucleolus
+Q9BT17	Stress granule
+Q9BT22	Nucleolus
+Q9BT49	PML nuclear body
+Q9BTD8	Stress granule
+Q9BTD8	Splicesome
+Q9BTE1	Paraspeckle
+Q9BTE7	Nucleolus
+Q9BTM1	Nuclear stress body
+Q9BTM1-2	Nuclear stress body
+Q9BTT0	Stress granule
+Q9BTT0	Nucleolus
+Q9BTT0	Stress granule
+Q9BTT4	Nucleolus
+Q9BTV4	Stress granule
+Q9BTW9	Stress granule
+Q9BU02	Nucleolus
+Q9BU19	Nucleolus
+Q9BU23	Stress granule
+Q9BU76	Nucleolus
+Q9BU76	Nucleolus
+Q9BU89	Nucleolus
+Q9BUA3	Paraspeckle
+Q9BUB5	PML nuclear body
+Q9BUF5	Stress granule
+Q9BUJ2	Stress granule
+Q9BUJ2	Paraspeckle
+Q9BUJ2	Stress granule
+Q9BUJ2	Splicesome
+Q9BUL8	Stress granule
+Q9BUL9	Nucleolus
+Q9BUM1	P-body
+Q9BUM1	P-body
+Q9BUP0	Nucleolus
+Q9BUQ8	Nucleolus
+Q9BUQ8	Nucleolus
+Q9BUQ8	Splicesome
+Q9BUQ8	Nuclear speckle
+Q9BUR4	Cajal body
+Q9BUT3	Nucleolus
+Q9BUT9	Stress granule
+Q9BUU2	Nucleolus
+Q9BUU2	Nuclear body
+Q9BUV0	Nuclear body
+Q9BV20	Nucleolus
+Q9BV38	Nucleolus
+Q9BV44	Nucleolus
+Q9BV47	Stress granule
+Q9BV47	Nucleolus
+Q9BV47	Stress granule
+Q9BV57	Nuclear stress body
+Q9BV57-2	Nuclear stress body
+Q9BV86	Stress granule
+Q9BVC6	Stress granule
+Q9BVG4	Nucleolus
+Q9BVI4	Nucleolus
+Q9BVI4	Nucleolus
+Q9BVJ6	Nucleolus
+Q9BVJ6	Nucleolus
+Q9BVM4	Nuclear stress body
+Q9BVP2	Nucleolus
+Q9BVP2	Nucleolus
+Q9BVP6	Nucleolus
+Q9BVQ7	Stress granule
+Q9BVQ7	Nucleolus
+Q9BW11	Nucleolus
+Q9BW11	PML nuclear body
+Q9BW27	Stress granule
+Q9BW30	Nucleolus
+Q9BW60	Stress granule
+Q9BW60	Nucleolus
+Q9BW61	Nucleolus
+Q9BW66	Stress granule
+Q9BW93	Nucleolus
+Q9BWC9	Nucleolus
+Q9BWD4	Nucleolus
+Q9BWF3	Stress granule
+Q9BWF3	Nucleolus
+Q9BWF3	Stress granule
+Q9BWF3	Splicesome
+Q9BWJ5	Splicesome
+Q9BWL9	Nucleolus
+Q9BWM7	Stress granule
+Q9BWU0	Paraspeckle
+Q9BWU1	Stress granule
+Q9BWU1	PML nuclear body
+Q9BWU1	Stress granule
+Q9BWV7	Nucleolus
+Q9BX40	P-body
+Q9BX40	Stress granule
+Q9BX40	Nucleolus
+Q9BX66	Stress granule
+Q9BXA6	P-body
+Q9BXA6	Nucleolus
+Q9BXA6	P-body
+Q9BXK4	Nucleolus
+Q9BXP5	Stress granule
+Q9BXP5	Splicesome
+Q9BXP5	Nuclear speckle
+Q9BXS6	Nucleolus
+Q9BXS6	Nucleolus
+Q9BXT2	Nucleolus
+Q9BXV9	Nucleolus
+Q9BXW9	Nucleolus
+Q9BXX2	Nucleolus
+Q9BXX3	Nucleolus
+Q9BXY0	Nucleolus
+Q9BXY0	Sam68 nuclear body
+Q9BXY5	Nucleolus
+Q9BY11	PML nuclear body
+Q9BY12	Stress granule
+Q9BY42	Nucleolus
+Q9BY42	Stress granule
+Q9BY42	Nucleolus
+Q9BY44	Stress granule
+Q9BY44	Nucleolus
+Q9BY44	Stress granule
+Q9BY66	Nucleolus
+Q9BY77	Nuclear speckle
+Q9BYB4	Nuclear stress body
+Q9BYB4-2	Nuclear stress body
+Q9BYC9	Nucleolus
+Q9BYE0	Nucleolus
+Q9BYG0	Nucleolus
+Q9BYG3	P-body
+Q9BYG3	Stress granule
+Q9BYG3	Stress granule
+Q9BYG3	Stress granule
+Q9BYG3	Nucleolus
+Q9BYG3	Nucleolus
+Q9BYG9	Nuclear stress body
+Q9BYJ4	Nucleolus
+Q9BYJ9	Stress granule
+Q9BYK8	Stress granule
+Q9BYN8	Nuclear body
+Q9BYT3	Cajal body
+Q9BYT3	Nucleolus
+Q9BYX4	Stress granule
+Q9BZ23	Nuclear speckle
+Q9BZ29	Stress granule
+Q9BZ67	Nucleolus
+Q9BZ67	Nuclear speckle
+Q9BZ95	Nuclear body
+Q9BZA7	Stress granule
+Q9BZB8	P-body
+Q9BZB8	Stress granule
+Q9BZE4	P-body
+Q9BZE4	Nucleolus
+Q9BZE4	P-body
+Q9BZE4	Nucleolus
+Q9BZG1	Stress granule
+Q9BZG8-3	Nuclear stress body
+Q9BZH6	Stress granule
+Q9BZI1	Nucleolus
+Q9BZI7	P-body
+Q9BZI7	Stress granule
+Q9BZI7	Nucleolus
+Q9BZI7	Nucleolus
+Q9BZJ0	Splicesome
+Q9BZJ0	Nuclear speckle
+Q9BZL1	Stress granule
+Q9BZL1	Splicesome
+Q9BZL4	P-body
+Q9BZL4	Nucleolus
+Q9BZL4	P-body
+Q9BZP6	P-body
+Q9BZQ1	Nucleolus
+Q9BZZ5	Nuclear speckle
+Q9C086	Nucleolus
+Q9C086	Nucleolus
+Q9C098	P-body
+Q9C098	P-body
+Q9C0A1	Nucleolus
+Q9C0B9	Stress granule
+Q9C0B9	Nucleolus
+Q9C0C2	P-body
+Q9C0C2	Stress granule
+Q9C0C2	Paraspeckle
+Q9C0C2	Stress granule
+Q9C0J1	Nucleolus
+Q9C0J8	P-body
+Q9C0J8	Nucleolus
+Q9C0K0	Nucleolus
+Q9C0K3	Stress granule
+Q9C0K7	P-body
+Q9C0K7	Nucleolus
+Q9C0K7	P-body
+Q9GZL7	Nucleolus
+Q9GZL7	Nucleolus
+Q9GZM8	P-body
+Q9GZM8	Stress granule
+Q9GZM8	Nucleolus
+Q9GZM8	P-body
+Q9GZM8	Nuclear body
+Q9GZN7	Stress granule
+Q9GZN8	Stress granule
+Q9GZR2	Nucleolus
+Q9GZR7	Nucleolus
+Q9GZR7	Nucleolus
+Q9GZS1	Nucleolus
+Q9GZS1	Nucleolus
+Q9GZS3	Stress granule
+Q9GZT3	Stress granule
+Q9GZU5	Stress granule
+Q9GZU7	Stress granule
+Q9GZU7	Nuclear speckle
+Q9GZU7	Stress granule
+Q9GZV4	Nucleolus
+Q9GZV9	Stress granule
+Q9GZW3	Nucleolus
+Q9GZY8	Stress granule
+Q9H000	Stress granule
+Q9H019	Stress granule
+Q9H027	Nucleolus
+Q9H063	Nucleolus
+Q9H093	Nucleolus
+Q9H093	Nuclear speckle
+Q9H0A0	Nucleolus
+Q9H0A0	Nucleolus
+Q9H0A0	Nucleolus
+Q9H0B3	Stress granule
+Q9H0B3	Paraspeckle
+Q9H0B8	Nucleolus
+Q9H0C8	PML nuclear body
+Q9H0D6	Stress granule
+Q9H0D6	Nucleolus
+Q9H0D6	Nucleolus
+Q9H0E7	Nucleolus
+Q9H0G5	Splicesome
+Q9H0H5	Stress granule
+Q9H0H5	Stress granule
+Q9H0J9	Stress granule
+Q9H0M0	Stress granule
+Q9H0S4	Stress granule
+Q9H0S4	Nucleolus
+Q9H0S4	Nucleolus
+Q9H0U3	Stress granule
+Q9H0U9	Nucleolus
+Q9H0U9	Nucleolus
+Q9H0W9	Nuclear stress body
+Q9H0W9-2	Nuclear stress body
+Q9H0W9-3	Nuclear stress body
+Q9H0W9-4	Nuclear stress body
+Q9H0Y0	Nucleolus
+Q9H0Z9	Stress granule
+Q9H116	Nucleolus
+Q9H147	Nucleolus
+Q9H158	Nucleolus
+Q9H171	Stress granule
+Q9H1A4	Stress granule
+Q9H1E3	Nucleolus
+Q9H1H1	Nucleolus
+Q9H1I8	Stress granule
+Q9H1V8	Nucleolus
+Q9H1Y3	Nuclear stress body
+Q9H1Y3-2	Nuclear stress body
+Q9H213	Nucleolus
+Q9H223	Stress granule
+Q9H245	Nucleolus
+Q9H254	Nucleolus
+Q9H269	Stress granule
+Q9H2D6	Stress granule
+Q9H2G1	Nucleolus
+Q9H2H8	Splicesome
+Q9H2J7	Nucleolus
+Q9H2L5	Nucleolus
+Q9H2M9	Stress granule
+Q9H2U1	Stress granule
+Q9H2U1	Stress granule
+Q9H2U2	P-body
+Q9H2U2	P-body
+Q9H2V7	Stress granule
+Q9H2V7	Nucleolus
+Q9H2W6	Stress granule
+Q9H2X6	PML nuclear body
+Q9H2X8	Nucleolus
+Q9H2Y7	Nucleolus
+Q9H307	Splicesome
+Q9H381	Nucleolus
+Q9H3G5	P-body
+Q9H3H3	Stress granule
+Q9H3H3	Nucleolus
+Q9H3H4	Nucleolus
+Q9H3K6	Stress granule
+Q9H3L4	Nucleolus
+Q9H3N1	Nucleolus
+Q9H3R5	Nucleolus
+Q9H3S7	Stress granule
+Q9H3T2	Nucleolus
+Q9H3U1	Stress granule
+Q9H3U5	Nucleolus
+Q9H3Y8	Nucleolus
+Q9H410	Nucleolus
+Q9H425	Stress granule
+Q9H444	Stress granule
+Q9H461	Stress granule
+Q9H4E5	Nucleolus
+Q9H4E7	P-body
+Q9H4G0	Stress granule
+Q9H4L4	Nucleolus
+Q9H4L4	Nucleolus
+Q9H4L5	Nucleolus
+Q9H4M9	Stress granule
+Q9H4X1	Nucleolus
+Q9H501	Nucleolus
+Q9H501	Nucleolus
+Q9H579	Nucleolus
+Q9H583	Nucleolus
+Q9H583	Nucleolus
+Q9H586	Nucleolus
+Q9H5I1	Nuclear body
+Q9H5J8	Nucleolus
+Q9H5L4	Nucleolus
+Q9H5M6	Nucleolus
+Q9H5Q4	Stress granule
+Q9H5V7	Nuclear body
+Q9H5V9	Nucleolus
+Q9H5V9	Splicesome
+Q9H5Z1	Splicesome
+Q9H694	Stress granule
+Q9H6F5	Nucleolus
+Q9H6F5	Nucleolus
+Q9H6F5	Nucleolus
+Q9H6P5	Nucleolus
+Q9H6R0	Stress granule
+Q9H6R0	Nucleolus
+Q9H6R0	Nucleolus
+Q9H6R4	P-body
+Q9H6R4	Nucleolus
+Q9H6R4	Nuclear stress body
+Q9H6R4-2	Nuclear stress body
+Q9H6R4-3	Nuclear stress body
+Q9H6R4-4	Nuclear stress body
+Q9H6R7	Nucleolus
+Q9H6S0	P-body
+Q9H6S0	Stress granule
+Q9H6U6	Nucleolus
+Q9H6W3	Nucleolus
+Q9H6W3	Nucleolus
+Q9H6Y2	Nucleolus
+Q9H6Z4	Nuclear body
+Q9H7B2	P-body
+Q9H7B2	Nucleolus
+Q9H7B2	Nucleolus
+Q9H7B2	Nucleolus
+Q9H7D0	Stress granule
+Q9H7E2	Stress granule
+Q9H7E9	Stress granule
+Q9H7F0	Nucleolus
+Q9H7U0	Nucleolus
+Q9H7X3	Nucleolus
+Q9H7Z7	Stress granule
+Q9H830	Nucleolus
+Q9H840	SMN complex
+Q9H855	Nucleolus
+Q9H869	Nucleolus
+Q9H898	Nucleolus
+Q9H898	Nucleolus
+Q9H8H0	Nucleolus
+Q9H8H2	Nucleolus
+Q9H8S9	Nucleolus
+Q9H8U9	Nucleolus
+Q9H8W3	Nucleolus
+Q9H8X2	Stress granule
+Q9H8X2	Nuclear speckle
+Q9H8Y5	Stress granule
+Q9H936	Stress granule
+Q9H967	Nucleolus
+Q9H999	Nuclear speckle
+Q9H9A5	P-body
+Q9H9A6	Stress granule
+Q9H9A6	Nucleolus
+Q9H9F8	Nucleolus
+Q9H9J2	Paraspeckle
+Q9H9J2	Stress granule
+Q9H9J6	Nucleolus
+Q9H9L3	Nucleolus
+Q9H9Q4	Stress granule
+Q9H9Q4	Nucleolus
+Q9H9V5	Nucleolus
+Q9H9Y2	Nucleolus
+Q9H9Y6	Nucleolus
+Q9H9Z2	Stress granule
+Q9H9Z2	Nucleolus
+Q9HAB8	Nucleolus
+Q9HAF1	Nucleolus
+Q9HAJ7	PML nuclear body
+Q9HAN9	Stress granule
+Q9HAT8	Nucleolus
+Q9HAU0	Stress granule
+Q9HAU5	P-body
+Q9HAU8	Nucleolus
+Q9HAV4	Stress granule
+Q9HAV4	Nuclear stress body
+Q9HAW0	Nucleolus
+Q9HB65	Nucleolus
+Q9HB71	Stress granule
+Q9HBD1	Stress granule
+Q9HBD4	Nucleolus
+Q9HBH0	Stress granule
+Q9HBK9	Nuclear stress body
+Q9HBT8	Nucleolus
+Q9HBV1	Nucleolus
+Q9HC16	P-body
+Q9HC16	Stress granule
+Q9HC16	P-body
+Q9HC38	Nucleolus
+Q9HC98	Stress granule
+Q9HCB6	Nucleolus
+Q9HCD5	P-body
+Q9HCE1	P-body
+Q9HCE1	Stress granule
+Q9HCE1	P-body
+Q9HCE1	Stress granule
+Q9HCE9	Nucleolus
+Q9HCF6	Stress granule
+Q9HCG8	Stress granule
+Q9HCG8	Splicesome
+Q9HCJ0	P-body
+Q9HCJ0	Stress granule
+Q9HCM1	Nucleolus
+Q9HCM7	Stress granule
+Q9HCP0	Cajal body
+Q9HCS7	P-body
+Q9HCS7	Splicesome
+Q9HCS7	Nuclear speckle
+Q9HCX4	Stress granule
+Q9HD33	Nucleolus
+Q9HD42	Stress granule
+Q9HD43	P-body
+Q9HD43	P-body
+Q9HD67	Stress granule
+Q9HD67	Nucleolus
+Q9NNW5	Stress granule
+Q9NP64	Nucleolus
+Q9NP73	Stress granule
+Q9NPA0	Stress granule
+Q9NPD3	Nucleolus
+Q9NPD3	Stress granule
+Q9NPD8	Nucleolus
+Q9NPE3	Nucleolus
+Q9NPF4	Stress granule
+Q9NPH2	Stress granule
+Q9NPI6	P-body
+Q9NPI6	Stress granule
+Q9NPI6	P-body
+Q9NPI7	Nucleolus
+Q9NPJ6	Stress granule
+Q9NPL8	Stress granule
+Q9NQ29	Stress granule
+Q9NQ29	Stress granule
+Q9NQ29	Nuclear speckle
+Q9NQ29	Splicesome
+Q9NQ39	Nuclear stress body
+Q9NQ48	Stress granule
+Q9NQ50	Nucleolus
+Q9NQ50	Nuclear body
+Q9NQ55	Nucleolus
+Q9NQ55	Nucleolus
+Q9NQ92	Paraspeckle
+Q9NQE9	Nucleolus
+Q9NQG5	Stress granule
+Q9NQG5	Nuclear speckle
+Q9NQM4	PML nuclear body
+Q9NQP4	Stress granule
+Q9NQR1	Cajal body
+Q9NQR1	Nuclear speckle
+Q9NQS7	Nucleolus
+Q9NQT4	Nucleolus
+Q9NQT4	Stress granule
+Q9NQT4	Nucleolus
+Q9NQT5	Nucleolus
+Q9NQT8	Stress granule
+Q9NQT8	Stress granule
+Q9NQU5	Nucleolus
+Q9NQV6	Nucleolus
+Q9NQW1	Splicesome
+Q9NQW6	Stress granule
+Q9NQX1	Nucleolus
+Q9NQY0	Stress granule
+Q9NQZ2	Nucleolus
+Q9NQZ2	Nucleolus
+Q9NQZ2	Nucleolus
+Q9NQZ8	Nucleolus
+Q9NR11	Nuclear body
+Q9NR12	Nucleolus
+Q9NR20	P-body
+Q9NR20	Nucleolus
+Q9NR20	Nuclear speckle
+Q9NR20	P-body
+Q9NR30	P-body
+Q9NR30	Stress granule
+Q9NR30	Nucleolus
+Q9NR30	PML nuclear body
+Q9NR30	Nucleolus
+Q9NR30	Nucleolus
+Q9NR56	Stress granule
+Q9NR56	Stress granule
+Q9NR56	Nuclear body
+Q9NR80	Stress granule
+Q9NRA0	P-body
+Q9NRA0	P-body
+Q9NRA8	P-body
+Q9NRA8	Stress granule
+Q9NRC1	P-body
+Q9NRC8	Nucleolus
+Q9NRD5	P-body
+Q9NRD5	P-body
+Q9NRF2	Paraspeckle
+Q9NRF9	Nucleolus
+Q9NRM2	Cajal body
+Q9NRM7	Nuclear speckle
+Q9NRN9	Nucleolus
+Q9NRR3	P-body
+Q9NRR3	Nucleolus
+Q9NRR3	Nuclear speckle
+Q9NRR3	P-body
+Q9NRR4	Stress granule
+Q9NRR6	Nucleolus
+Q9NRS6	Nucleolus
+Q9NRW3	Stress granule
+Q9NRW4	Nuclear speckle
+Q9NRX1	Stress granule
+Q9NRX1	Nucleolus
+Q9NRX4	Nuclear speckle
+Q9NRZ5	Nucleolus
+Q9NRZ9	Stress granule
+Q9NS39	Nucleolus
+Q9NS69	Nuclear stress body
+Q9NS73	Nucleolus
+Q9NS82	Nucleolus
+Q9NSC2	Nucleolus
+Q9NSD4	Nucleolus
+Q9NSD5	Nucleolus
+Q9NSD9	Nucleolus
+Q9NSD9	Stress granule
+Q9NSI2	Nucleolus
+Q9NSI2	Stress granule
+Q9NSI6	Nucleolus
+Q9NSP6	Nucleolus
+Q9NST1	Nucleolus
+Q9NSY1	P-body
+Q9NSY1	P-body
+Q9NT12	Nucleolus
+Q9NT62	Stress granule
+Q9NT62	Stress granule
+Q9NT68	Nucleolus
+Q9NTI5	Stress granule
+Q9NTJ3	Stress granule
+Q9NTJ3	Nucleolus
+Q9NTJ3	Stress granule
+Q9NTJ3	Nuclear stress body
+Q9NTJ3-2	Nuclear stress body
+Q9NTK5	Nucleolus
+Q9NTM9	Nucleolus
+Q9NTX5	Stress granule
+Q9NU02	Nucleolus
+Q9NU22	Nucleolus
+Q9NU22	Nucleolus
+Q9NU53	Nucleolus
+Q9NUD5	P-body
+Q9NUD5	Stress granule
+Q9NUI1	Stress granule
+Q9NUL3	P-body
+Q9NUL3	Stress granule
+Q9NUL5	P-body
+Q9NUL7	Nucleolus
+Q9NUQ6	Stress granule
+Q9NUQ6	Nucleolus
+Q9NUQ6	Stress granule
+Q9NUQ6	Nucleolus
+Q9NUQ8	Nucleolus
+Q9NUU6	Stress granule
+Q9NUU6	Nucleolus
+Q9NUU7	Stress granule
+Q9NUZ1	Nucleolus
+Q9NV06	Nucleolus
+Q9NV31	Nucleolus
+Q9NV31	Nucleolus
+Q9NV31	Nuclear body
+Q9NV36	Nucleolus
+Q9NV66	Nucleolus
+Q9NV70	Stress granule
+Q9NVA2	Nucleolus
+Q9NVC2	Nucleolus
+Q9NVF9	Nuclear speckle
+Q9NVG8	Nucleolus
+Q9NVI1	Nucleolus
+Q9NVI7	P-body
+Q9NVI7	Stress granule
+Q9NVI7	Stress granule
+Q9NVJ2	Stress granule
+Q9NVL3	Nucleolus
+Q9NVM4	Nucleolus
+Q9NVN8	Nucleolus
+Q9NVN8	Nucleolus
+Q9NVP0	Nucleolus
+Q9NVP1	P-body
+Q9NVP1	Nucleolus
+Q9NVP1	Nucleolus
+Q9NVP2	Stress granule
+Q9NVP4	Nucleolus
+Q9NVU7	Nucleolus
+Q9NVU7	Nucleolus
+Q9NVW5	Nucleolus
+Q9NVX2	Nucleolus
+Q9NVX2	Nucleolus
+Q9NVY2	Nucleolus
+Q9NVY6	Nucleolus
+Q9NW13	P-body
+Q9NW13	Nucleolus
+Q9NW13	Nucleolus
+Q9NW64	Splicesome
+Q9NW67	Nucleolus
+Q9NW75	Nucleolus
+Q9NW81	Stress granule
+Q9NWB1	Stress granule
+Q9NWB1	Nucleolus
+Q9NWB6	Splicesome
+Q9NWH9	Nucleolus
+Q9NWT1	Nucleolus
+Q9NWT1	Nucleolus
+Q9NWW5	Nucleolus
+Q9NWW7	Nuclear body
+Q9NWZ3	Nucleolus
+Q9NWZ8	Stress granule
+Q9NWZ8	SMN complex
+Q9NX04	Nucleolus
+Q9NX05	Stress granule
+Q9NX18	Nucleolus
+Q9NX24	Nucleolus
+Q9NX24	Nucleolus
+Q9NX31	Nucleolus
+Q9NX58	P-body
+Q9NX58	Nucleolus
+Q9NX58	P-body
+Q9NX58	Nucleolus
+Q9NX58	Nucleolus
+Q9NX63	Stress granule
+Q9NX63	Stress granule
+Q9NXH4	Nucleolus
+Q9NXJ0	Nucleolus
+Q9NXK4	Nucleolus
+Q9NXP7	Nucleolus
+Q9NXS2	Stress granule
+Q9NXT0	Nucleolus
+Q9NXV2	Paraspeckle
+Q9NY12	Nucleolus
+Q9NY12	Paraspeckle
+Q9NY12	Nucleolus
+Q9NY26	Stress granule
+Q9NY35	Nucleolus
+Q9NY59	P-body
+Q9NY61	Nucleolus
+Q9NY61	Nuclear speckle
+Q9NY61	Nucleolus
+Q9NY93	Nucleolus
+Q9NY93	Nuclear speckle
+Q9NY93	Nucleolus
+Q9NYA4	Nuclear speckle
+Q9NYC9	Paraspeckle
+Q9NYF8	Stress granule
+Q9NYG5	Nucleolus
+Q9NYH0	Nucleolus
+Q9NYH9	Nucleolus
+Q9NYH9	Nucleolus
+Q9NYJ1	Nucleolus
+Q9NYJ8	Paraspeckle
+Q9NYL2	Nucleolus
+Q9NYL9	Stress granule
+Q9NYL9	Paraspeckle
+Q9NYL9	Stress granule
+Q9NYR9	Nucleolus
+Q9NYV4	Cajal body
+Q9NYV4	Nuclear speckle
+Q9NYV6	Nucleolus
+Q9NYV6	Nucleolus
+Q9NYW4	Nucleolus
+Q9NYY3	PML nuclear body
+Q9NZ01	Stress granule
+Q9NZ32	Nucleolus
+Q9NZ43	Stress granule
+Q9NZ63	Splicesome
+Q9NZB2	P-body
+Q9NZB2	Stress granule
+Q9NZB2	Stress granule
+Q9NZC3	Nucleolus
+Q9NZH0	Nucleolus
+Q9NZH5	Nucleolus
+Q9NZI6	Nucleolus
+Q9NZI8	P-body
+Q9NZI8	Stress granule
+Q9NZI8	P-body
+Q9NZI8	Nuclear stress body
+Q9NZI8	IMP1 ribonucleoprotein granule
+Q9NZJ0	Nucleolus
+Q9NZJ0	Nuclear body
+Q9NZJ4	Stress granule
+Q9NZL4	Stress granule
+Q9NZL9	Nuclear stress body
+Q9NZL9-2	Nuclear stress body
+Q9NZL9-3	Nuclear stress body
+Q9NZL9-4	Nuclear stress body
+Q9NZM5	P-body
+Q9NZM5	Nucleolus
+Q9NZM5	Nucleolus
+Q9NZN4	Stress granule
+Q9NZN8	P-body
+Q9NZN8	Cajal body
+Q9NZR1	Nucleolus
+Q9NZT1	Stress granule
+Q9NZZ3	Nuclear speckle
+Q9P000	Stress granule
+Q9P013	Splicesome
+Q9P016	Nucleolus
+Q9P021	Nucleolus
+Q9P031	Nucleolus
+Q9P031	Nucleolus
+Q9P031	Nucleolus
+Q9P035	Stress granule
+Q9P0I2	Stress granule
+Q9P0K8	Nucleolus
+Q9P0L0	Stress granule
+Q9P0L2	Nucleolus
+Q9P0M2	Nucleolus
+Q9P0R6	Nucleolus
+Q9P0U4	Nucleolus
+Q9P0V3	Stress granule
+Q9P1F3	Stress granule
+Q9P1F3	Nuclear stress body
+Q9P1U0	Nucleolus
+Q9P1V2	Nucleolus
+Q9P1V8	Nucleolus
+Q9P1Y5	Paraspeckle
+Q9P219	Nucleolus
+Q9P253	Stress granule
+Q9P258	Stress granule
+Q9P260	Stress granule
+Q9P275	Nucleolus
+Q9P275	Nucleolus
+Q9P286	Stress granule
+Q9P286	Stress granule
+Q9P287	Stress granule
+Q9P287	Nucleolus
+Q9P2B4	Stress granule
+Q9P2B4	Nucleolus
+Q9P2B7	Nucleolus
+Q9P2D0	Stress granule
+Q9P2D1	Nucleolus
+Q9P2D3	Nucleolus
+Q9P2E9	Stress granule
+Q9P2H5	Nucleolus
+Q9P2J5	Stress granule
+Q9P2J5	Nuclear stress body
+Q9P2J9	PML nuclear body
+Q9P2K3	Nuclear body
+Q9P2N5	Nucleolus
+Q9P2N5	Nuclear speckle
+Q9P2R3	Stress granule
+Q9P2R9	Nucleolus
+Q9P2T1	Nucleolus
+Q9P2W1	Nucleolus
+Q9UBB6	Stress granule
+Q9UBB9	Stress granule
+Q9UBB9	Stress granule
+Q9UBB9	Nuclear body
+Q9UBB9	Splicesome
+Q9UBB9	Nuclear speckle
+Q9UBD5	Stress granule
+Q9UBE8	Nucleolus
+Q9UBI6	Stress granule
+Q9UBL0	Nucleolus
+Q9UBL9	Stress granule
+Q9UBM7	Stress granule
+Q9UBN7	Stress granule
+Q9UBP6	PML nuclear body
+Q9UBP9	Stress granule
+Q9UBQ5	Stress granule
+Q9UBQ7	P-body
+Q9UBS0	Stress granule
+Q9UBS9	Nucleolus
+Q9UBU8	Nucleolus
+Q9UBV8	Stress granule
+Q9UBV8	Nuclear body
+Q9UBW7	Cajal body
+Q9UBW8	Stress granule
+Q9UBX2	Nucleolus
+Q9UBX3	Stress granule
+Q9UBZ4	Nucleolus
+Q9UDW3	Nuclear body
+Q9UDY2	Stress granule
+Q9UDY4	Stress granule
+Q9UDY8	Nucleolus
+Q9UEE5	Cajal body
+Q9UF33	Nuclear stress body
+Q9UFC0	Nucleolus
+Q9UFD9	PML nuclear body
+Q9UFF9	P-body
+Q9UFW8	Stress granule
+Q9UG18	Nucleolus
+Q9UG39	Nucleolus
+Q9UG63	Stress granule
+Q9UGI8	Stress granule
+Q9UGJ1	Stress granule
+Q9UGN5	Nucleolus
+Q9UGP9	Nucleolus
+Q9UGR2	Stress granule
+Q9UGY1	P-body
+Q9UGY1	Nucleolus
+Q9UGY1	Nucleolus
+Q9UGY1	Nucleolus
+Q9UH62	Stress granule
+Q9UH99	Stress granule
+Q9UHA2	Nucleolus
+Q9UHA3	Nucleolus
+Q9UHA3	Nucleolus
+Q9UHB6	Paraspeckle
+Q9UHB6	Stress granule
+Q9UHB7	Nucleolus
+Q9UHB9	Stress granule
+Q9UHD1	Stress granule
+Q9UHD2	Nuclear speckle
+Q9UHD2	Stress granule
+Q9UHD9	Stress granule
+Q9UHH9	Nucleolus
+Q9UHI6	Stress granule
+Q9UHI6	SMN complex
+Q9UHK0	Cajal body
+Q9UHK0	Nucleolus
+Q9UHP6	Nucleolus
+Q9UHQ1	Nucleolus
+Q9UHQ9	Stress granule
+Q9UHQ9	Nucleolus
+Q9UHR5	Splicesome
+Q9UHR5	Nuclear speckle
+Q9UHX1	P-body
+Q9UHX1	Paraspeckle
+Q9UHX1	Splicesome
+Q9UHX1	Nuclear speckle
+Q9UHY0	Nucleolus
+Q9UHY1	Nuclear speckle
+Q9UHY8	Nucleolus
+Q9UI10	Stress granule
+Q9UI14	Nucleolus
+Q9UI15	Stress granule
+Q9UI30	Nucleolus
+Q9UI42	Stress granule
+Q9UI95	Nucleolus
+Q9UIA9	Stress granule
+Q9UID3	Stress granule
+Q9UID3	Nucleolus
+Q9UIG0	P-body
+Q9UIG0	Nucleolus
+Q9UII2	Nucleolus
+Q9UIK4	Nucleolus
+Q9UIK4	PML nuclear body
+Q9UIV1	P-body
+Q9UIV1	Stress granule
+Q9UIW2	Stress granule
+Q9UJ41	Nucleolus
+Q9UJ70	Nuclear speckle
+Q9UJ72	Nucleolus
+Q9UJA5	Nucleolus
+Q9UJD0	Nucleolus
+Q9UJS0	Stress granule
+Q9UJU6	Nuclear stress body
+Q9UJU6-2	Nuclear stress body
+Q9UJU6-3	Nuclear stress body
+Q9UJV8	Nucleolus
+Q9UJV9	P-body
+Q9UJV9	Nucleolus
+Q9UJV9	Paraspeckle
+Q9UJV9	Nucleolus
+Q9UJV9	Splicesome
+Q9UJV9	Nuclear speckle
+Q9UJW9	Nucleolus
+Q9UJX2	Stress granule
+Q9UJY0	Nucleolus
+Q9UJY1	Stress granule
+Q9UK32	Nucleolus
+Q9UK45	P-body
+Q9UK45	Nucleolus
+Q9UK45	Splicesome
+Q9UK59	Nuclear stress body
+Q9UK76	Nucleolus
+Q9UKA4	Nucleolus
+Q9UKA8	Nucleolus
+Q9UKA9	Nuclear body
+Q9UKA9	Splicesome
+Q9UKB1	Nucleolus
+Q9UKC9	Nucleolus
+Q9UKD2	Stress granule
+Q9UKD2	Nucleolus
+Q9UKD2	Nucleolus
+Q9UKF6	Stress granule
+Q9UKI9	Nucleolus
+Q9UKK9	Stress granule
+Q9UKK9	Cajal body
+Q9UKK9	Nuclear speckle
+Q9UKK9	Stress granule
+Q9UKL6	Nucleolus
+Q9UKM9	P-body
+Q9UKM9	Stress granule
+Q9UKM9	Splicesome
+Q9UKM9	Nuclear stress body
+Q9UKM9-2	Nuclear stress body
+Q9UKN8	Stress granule
+Q9UKS6	P-body
+Q9UKS6	Nucleolus
+Q9UKS6	PML nuclear body
+Q9UKS6	P-body
+Q9UKV3	Splicesome
+Q9UKV3	Nuclear speckle
+Q9UKV8	P-body
+Q9UKV8	Stress granule
+Q9UKV8	Stress granule
+Q9UKX2	Stress granule
+Q9UKY7	Stress granule
+Q9UKY7	Nucleolus
+Q9UKZ1	P-body
+Q9UL18	P-body
+Q9UL18	Stress granule
+Q9UL25	Nuclear stress body
+Q9UL40	Nuclear body
+Q9UL54	Nucleolus
+Q9ULD0	Nucleolus
+Q9ULD2	Nucleolus
+Q9ULL4	Nucleolus
+Q9ULM6	P-body
+Q9ULR0	Splicesome
+Q9ULR0	Nuclear speckle
+Q9ULT8	Nucleolus
+Q9ULW3	Nucleolus
+Q9ULW3	Nucleolus
+Q9ULX3	Nucleolus
+Q9ULZ3	Nucleolus
+Q9ULZ3	Nuclear body
+Q9UM00	Stress granule
+Q9UM22	Nuclear stress body
+Q9UM22-2	Nuclear stress body
+Q9UM54	Stress granule
+Q9UM54	Stress granule
+Q9UM73	PML nuclear body
+Q9UM82	Nucleolus
+Q9UMS4	Nucleolus
+Q9UMS4	Nucleolus
+Q9UMS4	Splicesome
+Q9UMS4	Nuclear speckle
+Q9UMS5	Nucleolus
+Q9UMY1	Nucleolus
+Q9UMY1	Nucleolus
+Q9UMY1	Nucleolus
+Q9UMY4	Stress granule
+Q9UN81	Stress granule
+Q9UN81	Stress granule
+Q9UN86	Stress granule
+Q9UN86	Paraspeckle
+Q9UN86	Stress granule
+Q9UNF1	Stress granule
+Q9UNF1	Stress granule
+Q9UNF1	Nucleolus
+Q9UNH5	Nuclear speckle
+Q9UNH6	Nucleolus
+Q9UNI6	Stress granule
+Q9UNL7	Nucleolus
+Q9UNM6	Stress granule
+Q9UNP9	Stress granule
+Q9UNP9	Splicesome
+Q9UNQ2	Nucleolus
+Q9UNQ2	Stress granule
+Q9UNQ2	Nucleolus
+Q9UNQ2	Nucleolus
+Q9UNS2	Paraspeckle
+Q9UNS2	Stress granule
+Q9UNW1	Nucleolus
+Q9UNW1	PML nuclear body
+Q9UNW9	Stress granule
+Q9UNX3	Nucleolus
+Q9UNX3	Nucleolus
+Q9UNX4	Nucleolus
+Q9UNX4	Nucleolus
+Q9UNX9	Nucleolus
+Q9UNZ5	Nucleolus
+Q9UNZ5	Nucleolus
+Q9UNZ5	Nucleolus
+Q9UP83	Stress granule
+Q9UP86	Nucleolus
+Q9UPM6	Nucleolus
+Q9UPN3	Stress granule
+Q9UPN3	Stress granule
+Q9UPN4	Stress granule
+Q9UPN7	PML nuclear body
+Q9UPN7	Stress granule
+Q9UPQ0	Stress granule
+Q9UPQ8	Nucleolus
+Q9UPQ9	P-body
+Q9UPQ9	Stress granule
+Q9UPR3	P-body
+Q9UPT8	Paraspeckle
+Q9UPT9	P-body
+Q9UPU5	Stress granule
+Q9UPU5	Nuclear stress body
+Q9UPU9	Stress granule
+Q9UPW5	Nucleolus
+Q9UPY5	Stress granule
+Q9UPZ9	Nucleolus
+Q9UQ35	Stress granule
+Q9UQ35	Paraspeckle
+Q9UQ35	Nucleolus
+Q9UQ35	Nuclear speckle
+Q9UQ35	Stress granule
+Q9UQ35	Splicesome
+Q9UQ35	Nuclear speckle
+Q9UQ35	Nuclear stress body
+Q9UQ35-2	Nuclear stress body
+Q9UQ80	Nucleolus
+Q9UQ88	Splicesome
+Q9UQE7	P-body
+Q9UQE7	Nucleolus
+Q9UQE7	Stress granule
+Q9UQE7	Nuclear stress body
+Q9UQK1	P-body
+Q9UQK1	P-body
+Q9UQR0	Nucleolus
+Q9Y221	Nucleolus
+Q9Y221	Nucleolus
+Q9Y223	Stress granule
+Q9Y224	Stress granule
+Q9Y224	Nucleolus
+Q9Y230	Nucleolus
+Q9Y230	Paraspeckle
+Q9Y236	Nucleolus
+Q9Y237	Nucleolus
+Q9Y243	Cajal body
+Q9Y247	Splicesome
+Q9Y250	Nucleolus
+Q9Y262	Stress granule
+Q9Y262	Nucleolus
+Q9Y263	Stress granule
+Q9Y265	Nucleolus
+Q9Y266	Stress granule
+Q9Y279	Nucleolus
+Q9Y285	Stress granule
+Q9Y295	Stress granule
+Q9Y2A7	Stress granule
+Q9Y2B0	Stress granule
+Q9Y2B4	Nuclear body
+Q9Y2D4	Stress granule
+Q9Y2D5	Stress granule
+Q9Y2F5	Stress granule
+Q9Y2F5	Stress granule
+Q9Y2H2	Nucleolus
+Q9Y2H2	PML nuclear body
+Q9Y2H6	Stress granule
+Q9Y2H9	P-body
+Q9Y2H9	P-body
+Q9Y2K1	PML nuclear body
+Q9Y2K5	Stress granule
+Q9Y2K7	Nucleolus
+Q9Y2L1	Nucleolus
+Q9Y2L1	Stress granule
+Q9Y2L1	Nuclear stress body
+Q9Y2L9	Nucleolus
+Q9Y2P8	Nucleolus
+Q9Y2Q9	Stress granule
+Q9Y2R4	Nucleolus
+Q9Y2R4	Nucleolus
+Q9Y2R4	Nucleolus
+Q9Y2R9	Stress granule
+Q9Y2S0	Nucleolus
+Q9Y2S2	Nucleolus
+Q9Y2S6	Nucleolus
+Q9Y2S6	Nucleolus
+Q9Y2T4	Stress granule
+Q9Y2T4	Cajal body
+Q9Y2T4	Nuclear speckle
+Q9Y2T4	Stress granule
+Q9Y2U8	Stress granule
+Q9Y2V2	Stress granule
+Q9Y2W1	Stress granule
+Q9Y2W1	Paraspeckle
+Q9Y2W1	Splicesome
+Q9Y2W1	SMN complex
+Q9Y2W2	Nucleolus
+Q9Y2W2	Splicesome
+Q9Y2X0	Nucleolus
+Q9Y2X3	P-body
+Q9Y2X3	Stress granule
+Q9Y2X3	Nucleolus
+Q9Y2X3	Nucleolus
+Q9Y2X3	SMN complex
+Q9Y2X7	Stress granule
+Q9Y303	Nucleolus
+Q9Y314	Stress granule
+Q9Y314	Stress granule
+Q9Y314	Splicesome
+Q9Y315	Stress granule
+Q9Y321	Nucleolus
+Q9Y324	Nucleolus
+Q9Y333	P-body
+Q9Y333	Stress granule
+Q9Y333	Nucleolus
+Q9Y333	Stress granule
+Q9Y333	Splicesome
+Q9Y333	Nuclear speckle
+Q9Y376	Nucleolus
+Q9Y383	Stress granule
+Q9Y383	Nuclear speckle
+Q9Y383	Nuclear speckle
+Q9Y388	Nucleolus
+Q9Y388	Splicesome
+Q9Y399	Stress granule
+Q9Y3A2	P-body
+Q9Y3A2	Nucleolus
+Q9Y3A2	Nucleolus
+Q9Y3A4	Nucleolus
+Q9Y3A5	Nucleolus
+Q9Y3B2	Nucleolus
+Q9Y3B4	Nucleolus
+Q9Y3B4	Splicesome
+Q9Y3B7	Stress granule
+Q9Y3B8	Nucleolus
+Q9Y3B9	Nucleolus
+Q9Y3B9	Nucleolus
+Q9Y3C1	Nucleolus
+Q9Y3C1	Nucleolus
+Q9Y3C1	Nucleolus
+Q9Y3C6	Nucleolus
+Q9Y3C6	Splicesome
+Q9Y3D0	Stress granule
+Q9Y3E5	Stress granule
+Q9Y3F4	Stress granule
+Q9Y3F4	SMN complex
+Q9Y3I0	Stress granule
+Q9Y3I0	Nucleolus
+Q9Y3I0	Stress granule
+Q9Y3M2	PML nuclear body
+Q9Y3P9	Stress granule
+Q9Y3S2	Nucleolus
+Q9Y3T9	Nucleolus
+Q9Y3T9	Nucleolus
+Q9Y3T9	Nucleolus
+Q9Y3U8	Nucleolus
+Q9Y3Y2	Paraspeckle
+Q9Y3Y2	Stress granule
+Q9Y3Z3	Stress granule
+Q9Y421	Nucleolus
+Q9Y421	Splicesome
+Q9Y446	Stress granule
+Q9Y446	Stress granule
+Q9Y448	Stress granule
+Q9Y484	Nucleolus
+Q9Y485	Nucleolus
+Q9Y490	Paraspeckle
+Q9Y4A5	P-body
+Q9Y4A5	P-body
+Q9Y4B6	Nucleolus
+Q9Y4C8	P-body
+Q9Y4C8	Nucleolus
+Q9Y4C8	Nucleolus
+Q9Y4C8	Nucleolus
+Q9Y4D7	Nucleolus
+Q9Y4E1	Nucleolus
+Q9Y4E5	PML nuclear body
+Q9Y4E8	Paraspeckle
+Q9Y4F1	Stress granule
+Q9Y4F3	P-body
+Q9Y4G2	Nucleolus
+Q9Y4I1	P-body
+Q9Y4I1	Stress granule
+Q9Y4K3	P-body
+Q9Y4K3	Nucleolus
+Q9Y4L5	Nucleolus
+Q9Y4R8	Stress granule
+Q9Y4S3	Nucleolus
+Q9Y4Y9	P-body
+Q9Y4Y9	Paraspeckle
+Q9Y4Y9	Splicesome
+Q9Y4Z0	P-body
+Q9Y4Z0	Splicesome
+Q9Y520	Stress granule
+Q9Y520	Stress granule
+Q9Y530	Nucleolus
+Q9Y561	Nucleolus
+Q9Y570	Stress granule
+Q9Y580	Splicesome
+Q9Y5A7	Nucleolus
+Q9Y5A9	Stress granule
+Q9Y5A9	Stress granule
+Q9Y5B0	Nucleolus
+Q9Y5B0	Cajal body
+Q9Y5B6	Splicesome
+Q9Y5B8	Stress granule
+Q9Y5B9	Nucleolus
+Q9Y5B9	Stress granule
+Q9Y5B9	Nucleolus
+Q9Y5H1	Nucleolus
+Q9Y5J1	P-body
+Q9Y5J1	Stress granule
+Q9Y5J1	Nucleolus
+Q9Y5J1	P-body
+Q9Y5J1	Nucleolus
+Q9Y5K3	Stress granule
+Q9Y5K6	Nucleolus
+Q9Y5K8	Stress granule
+Q9Y5L0	Stress granule
+Q9Y5L3	Nuclear speckle
+Q9Y5L4	Nucleolus
+Q9Y5M8	Stress granule
+Q9Y5N6	Nucleolus
+Q9Y5Q0	Nucleolus
+Q9Y5Q3	Nucleolus
+Q9Y5R2	Nucleolus
+Q9Y5S2	Stress granule
+Q9Y5S9	Nucleolus
+Q9Y5S9	Stress granule
+Q9Y5S9	Splicesome
+Q9Y5S9	Nuclear speckle
+Q9Y5V3	Stress granule
+Q9Y5X0	Nucleolus
+Q9Y5Y2	Stress granule
+Q9Y5Y5	Stress granule
+Q9Y657	Paraspeckle
+Q9Y658	Nucleolus
+Q9Y676	Stress granule
+Q9Y678	Stress granule
+Q9Y693	Nucleolus
+Q9Y696	Stress granule
+Q9Y6A4	Splicesome
+Q9Y6A5	Stress granule
+Q9Y6A5	Paraspeckle
+Q9Y6C9	Stress granule
+Q9Y6D9	Nuclear body
+Q9Y6E0	Nucleolus
+Q9Y6E2	Nucleolus
+Q9Y6G9	Stress granule
+Q9Y6I8	Nucleolus
+Q9Y6I9	Nucleolus
+Q9Y6K9	Nuclear body
+Q9Y6M0	Stress granule
+Q9Y6M1	P-body
+Q9Y6M1	Stress granule
+Q9Y6M4	P-body
+Q9Y6M4	Nucleolus
+Q9Y6M4	P-body
+Q9Y6P5	Nucleolus
+Q9Y6Q9	Stress granule
+Q9Y6R1	P-body
+Q9Y6R4	Nuclear speckle
+Q9Y6S9	PML nuclear body
+Q9Y6T7	P-body
+Q9Y6T7	P-body
+Q9Y6U7	Nucleolus
+Q9Y6V7	Nucleolus
+Q9Y6W5	Stress granule
+Q9Y6W6	Nucleolus
+Q9Y6W6	Nuclear speckle
+Q9Y6Y0	Paraspeckle
+Q9Y6Y3	Nucleolus
