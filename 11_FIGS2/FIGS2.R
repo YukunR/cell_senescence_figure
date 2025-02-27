@@ -17,7 +17,6 @@ Normalization(output.dir,
               filter.threshold)
 
 
-output.dir <- "./res/293t/PCA/"
 gene.imputed.path <- "./res/293t/Norm/gene_data_imputation.txt"
 gene.dat.imputed <- read.delim(gene.imputed.path)
 
