@@ -17,29 +17,12 @@ Normalization(output.dir,
               filter.threshold)
 
 
-# >>> PCA config >>>
-output.dir <- "./res/293t/PCA_batch/"
+output.dir <- "./res/293t/PCA/"
 gene.imputed.path <- "./res/293t/Norm/gene_data_imputation.txt"
-
-# >> PCA >>
 gene.dat.imputed <- read.delim(gene.imputed.path)
-source("./PCA.R", local = T)
-library(limma)
-gene.dat.imputed[-1] <- log10(gene.dat.imputed[-1])
-covariates <- c(rep("0 h", 3), rep("3 h", 3), rep("6 h", 3), 
-                rep("9 h", 3), rep("12 h", 3), rep("24 h", 3))
-gene.dat.imputed[-1] <- removeBatchEffect(gene.dat.imputed[-1], 
-                                          batch = c("batch1", "batch1", "batch2", rep("batch1", 15)), 
-                                          design = model.matrix(~factor(covariates))) 
-gene.dat.imputed[-1] <- 10^gene.dat.imputed[-1]
-PCA(gene.dat.imputed, sample.info, output.dir)
-write.csv(gene.dat.imputed, 
-          "./res/293t/gene_data_remove_batch_effect.csv", 
-          row.names = F)
 
 # >>> Calculate FC and p value >>>
 source("./ANOVA.R", local = T)
-gene.dat.imputed <- read.csv("./res/293t/gene_data_remove_batch_effect.csv")
 output.dir <- "./res/293t/"
 gene.dat.p <- anovaTest(gene.dat.imputed, sample.info)
 write.csv(gene.dat.p, 

@@ -5,7 +5,7 @@
 
 library(Mfuzz)
 library(dplyr)
-gene.dat.p <- read.csv("./res/293t/gene_data_p.csv")
+gene.dat.p <- read.csv("./res/lo2/gene_data_p.csv")
 gene.dat.time <- gene.dat.p %>% filter(ANOVA_p < 0.05) %>% select(1: 19)
 group.names <- unique(sample.info$Group)
 for (group.name in group.names) {
