@@ -1,0 +1,13 @@
+Sample	Group	AgeGroup	Type	Pair
+YC1	YC	Young	Control	1
+YC2	YC	Young	Control	2
+YC3	YC	Young	Control	3
+YN1	YN	Young	Expr	1
+YN2	YN	Young	Expr	2
+YN3	YN	Young	Expr	3
+SC1	SC	Senescent	Control	1
+SC2	SC	Senescent	Control	2
+SC3	SC	Senescent	Control	3
+SN1	SN	Senescent	Expr	1
+SN2	SN	Senescent	Expr	2
+SN3	SN	Senescent	Expr	3
