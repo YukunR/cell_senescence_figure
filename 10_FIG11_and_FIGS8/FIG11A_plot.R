@@ -20,8 +20,8 @@ marker <- merge(wgcna.marker, mfuzz.marker, by="Accession")
 write.csv(marker, file = "./res/marker.csv", row.names = F)
 
 
-gene.dat.293t <- read.csv("./res/lo2/gene_data_remove_batch_effect.csv")
-gene.dat.lo2 <- read.csv("./res/293t/gene_data_p.csv")[1: 19]
+gene.dat.lo2 <- read.csv("./res/lo2/gene_data_remove_batch_effect.csv")
+gene.dat.293t <- read.csv("./res/293t/gene_data_p.csv")[1: 19]
 zscoreTransform <- function(x) {
   (x - mean(x, na.rm = TRUE)) / sd(x, na.rm = TRUE)
 }

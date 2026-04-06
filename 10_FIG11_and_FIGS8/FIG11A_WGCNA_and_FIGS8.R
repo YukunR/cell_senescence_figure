@@ -142,23 +142,31 @@ names(geneTraitSignificance) = paste("GS.", names(Time), sep="");
 names(GSPvalue) = paste("p.GS.", names(Time), sep="");
 
 #####module选择对应显著的module
-module = "pink"
-column = match(module, modNames);
-moduleGenes = mergedColors==module;
-pdf(file = "./res/WGCNA/pinkScatterplot.pdf", width = 12, height = 9);
-par(mfrow = c(1,1));
-verboseScatterplot(abs(geneModuleMembership[moduleGenes, column]),
-                   abs(geneTraitSignificance[moduleGenes, 1]),
-                   xlab = paste("Module Membership in", module, "module"),
-                   ylab = "Gene significance for Time",
-                   main = paste("Module membership vs. gene significance\n"),
-                   cex.main = 1.2, cex.lab = 1.2, cex.axis = 1.2, col = module)
-dev.off()
-
-# Select module probes 选择模块对应的基因
-probes = colnames(datExpr)
-inModule = (mergedColors==module);
-modProbes = probes[inModule];
-IMConn = softConnectivity(datExpr[, modProbes]);
-top = (rank(-IMConn) <= ceiling(0.05 * sum(inModule)))  # 取前5%
-module.out.pink.top <- module.out.pink[top, ]
+modules = c("pink", "blue", "greenyellow")
+for (module in modules) {
+  column = match(module, modNames);
+  moduleGenes = mergedColors==module;
+  pdf(file = paste0("./res/WGCNA/", module, "Scatterplot.pdf"), width = 12, height = 9);
+  par(mfrow = c(1,1));
+  verboseScatterplot(abs(geneModuleMembership[moduleGenes, column]),
+                     abs(geneTraitSignificance[moduleGenes, 1]),
+                     xlab = paste("Module Membership in", module, "module"),
+                     ylab = "Gene significance for Time",
+                     main = paste("Module membership vs. gene significance\n"),
+                     cex.main = 1.2, cex.lab = 1.2, cex.axis = 1.2, col = module)
+  dev.off()
+  
+  # Select module probes 选择模块对应的基因
+  probes = colnames(datExpr)
+  inModule = (mergedColors==module);
+  modProbes = probes[inModule];
+  IMConn = softConnectivity(datExpr[, modProbes]);
+  top = (rank(-IMConn) <= ceiling(0.05 * sum(inModule)))  # 取前5%
+  module.out <- data.frame(Accession=modProbes,
+                           MM=geneModuleMembership[inModule, column],
+                           GS=geneTraitSignificance[inModule, 1],
+                           IMConn=IMConn)
+  module.out.top <- module.out[top, ]
+  
+  write.csv(module.out.top, paste0("./res/WGCNA/", module, "_top_genes.csv"), row.names = FALSE)
+}
