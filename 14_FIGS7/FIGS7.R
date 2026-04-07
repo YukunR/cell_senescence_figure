@@ -2,10 +2,9 @@ library(dplyr)
 library(reshape2)
 
 go.background <- read.csv("./data/all_uniprot_go_background.csv", header = T)
-gene.dat.sign.syn <- read.csv("./res/FIG3/tm/gene_data_sign_syn.csv")
-gene.dat.sign.deg <- read.csv("./res/FIG3/tm/gene_data_sign_deg.csv")
 
-gene.data <- gene.dat.sign.deg
+gene.data.sign <- read.csv("./res/new/gene_data_sign.csv")
+gene.data <- gene.data.sign
 
 getGenefromeGOBackgroundbyPath <- function(path, go.background) {
   res <- go.background[go.background$GO == path, ]
@@ -43,7 +42,7 @@ for (i in names(gene.data.list)) {
   gene.data.filtered <- gene.data.tmp
   outlier.up <- -9e10
   outlier.down <- 9e10
-  for (var in c("S", "Y")) {
+  for (var in c("SEN", "YOU")) {
     Q1 <- quantile(gene.data.tmp[[var]], 0.25)
     Q3 <- quantile(gene.data.tmp[[var]], 0.75)
     outlier.up <- max(outlier.up, Q3 + (Q3 - Q1) * 1.5)
@@ -52,19 +51,19 @@ for (i in names(gene.data.list)) {
   }
   
   gene.data.tmp.melt.filter <- gene.data.filtered %>% 
-    select(c(Accession, Description, GeneName, S, Y)) %>% 
+    select(c(Accession, Description, GeneName, SEN, YOU)) %>% 
     melt(id.vars = c("Accession", "GeneName", "Description"), 
          variable.name = "Group", 
          value.name = "tm") %>% 
-    mutate(Group = factor(Group, levels = c("Y", "S")), 
+    mutate(Group = factor(Group, levels = c("YOU", "SEN")), 
            outlier = ifelse(tm > outlier.up | tm < outlier.down, T, F), 
            tm = ifelse(tm > outlier.up, outlier.up * 1.2, ifelse(tm < outlier.down, outlier.down / 1.2, tm)))
   gene.data.tmp.melt <- gene.data.tmp %>% 
-    select(c(Accession, Description, GeneName, S, Y)) %>% 
+    select(c(Accession, Description, GeneName, SEN, YOU)) %>% 
     melt(id.vars = c("Accession", "GeneName", "Description"), 
          variable.name = "Group", 
          value.name = "tm") %>% 
-    mutate(Group = factor(Group, levels = c("Y", "S")))
+    mutate(Group = factor(Group, levels = c("YOU", "SEN")))
   
   average.tm.group <- gene.data.tmp.melt %>% 
     dplyr::select(Group, tm) %>% 
@@ -79,8 +78,8 @@ for (i in names(gene.data.list)) {
     add_xy_position(x = "Group", dodge = 0.8)
   
   # >>>  绘图 >>>
-  fill <- c("Y" = "#fff99e", "S" = "#9400d3")
-  color <- c("Y" = "#ffe00e", "S" = "#9400d3")
+  fill <- c("YOU" = "#fff99e", "SEN" = "#9400d3")
+  color <- c("YOU" = "#ffe00e", "SEN" = "#9400d3")
   p <- ggplot(gene.data.tmp.melt, aes(Group, tm)) +
     geom_boxplot(aes(fill = Group), linewidth = 0.7, alpha = 0.8, outlier.shape = NA, outliers = F) +
     geom_point(data = gene.data.tmp.melt.filter, 
@@ -98,17 +97,16 @@ for (i in names(gene.data.list)) {
           legend.position = "bottom")
   
   p + stat_pvalue_manual(stat.test, y.position = outlier.up * 1.05, tip.length = 0) + coord_flip()
-  ggsave(paste0("./res/FIG4/tm/paired/", i, ".pdf"), width = 4.5, height = 2.75)
+  ggsave(paste0("./res/FIGS7/tm/paired/", i, ".pdf"), width = 4.5, height = 2.75)
 }
 
 
 source("./GO.R", local = T)
 go.background <- read.csv("./data/all_uniprot_go_background.csv", header = T)
-gene.dat.sign.syn <- read.csv("./res/FIG3/tm/gene_data_sign_syn.csv")
-gene.dat.sign.deg <- read.csv("./res/FIG3/tm/gene_data_sign_deg.csv")
-gene.data.list <- list("syn" = gene.dat.sign.syn, "deg" = gene.dat.sign.deg)
+gene.dat.sign <- read.csv("./res/new/gene_data_sign.csv")
+gene.data.list <- list("tm" = gene.dat.sign)
 go.res <- list()
-for (group in c("syn", "deg")) {
+for (group in c("tm")) {
   gene.data.tmp <- gene.data.list[[group]]
   for (sig in c("up", "down")) {
     gene.sig.tmp <- gene.data.tmp[gene.data.tmp$Group == sig, ] %>% 
@@ -156,4 +154,4 @@ group.go.plot <- ggplot(go.res.dataframe.plot, aes(Group, Description)) +
                         labels = c("0.04", "0.08", "0.12", "0.16"), 
                         limits = c(0, 0.15))
 
-ggsave("./res/FIG4/go.pdf", group.go.plot, width = 6, height = 10)
+ggsave("./res/FIGS7/go.pdf", group.go.plot, width = 6, height = 10)
